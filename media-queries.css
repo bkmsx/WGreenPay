@@ -1,0 +1,179 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media (max-width: 1200px) {
+
+ul#menu {
+	display:none;
+}
+
+.lng-container {
+	display:none;
+}
+
+.flexslider .flex-direction-nav .flex-next {
+	right:3%;
+}
+
+.flexslider .flex-direction-nav .flex-prev {
+	left:3%;
+}
+
+.flexslider .flex-control-nav {
+    left: 37% !important;
+}
+
+.input-box {
+	width:395px !important;
+	float:left;
+}
+
+}
+
+@media (max-width: 991px) {
+
+.flexslider .flex-control-nav {
+    left: 42% !important;
+}
+
+
+.token-graph {
+	text-align:center;
+	height:auto;
+}
+
+.token-graph p {text-align:left;}
+
+.token-table {
+	height:auto;
+}
+
+.team-title {height:130px;}
+
+.input-box {
+    width: 495px !important;
+    float: left;
+    margin-left: 90px;
+}
+
+}
+
+
+@media (max-width: 768px) {
+
+body {font-size:13px;}
+h1 {font-size:30px;}
+h2 {font-size:24px;}
+h3 {font-size:20px;}
+h4 {font-size:16px;}
+
+#home {
+	padding-top:20%;
+}
+
+.home-container {
+    width:100%;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+.privatesale {
+	left:80px;
+}
+
+.publicsale {
+	right:0px;
+}
+
+.timeline-detail {
+	width:300px;
+}
+
+.team-img {
+	margin:0 auto;
+}
+
+.team-title {text-align:center;}
+
+.team-title {height:auto;}
+
+.subscription-container {
+	width:300px;
+}
+
+.input-box {
+    width: 240px !important;
+    float: left;
+    margin-left: 0px;
+}
+
+.team-img {
+	opacity:1;
+}
+
+}
+
+@media (max-width: 480px) {
+
+#logo {
+	width:180px;
+	height:27px;
+	margin-top:18px;
+}	
+	
+.flexslider .flex-direction-nav .flex-next {
+	display:none;
+}
+
+.flexslider .flex-direction-nav .flex-prev {
+	display:none;
+}
+
+.flexslider .flex-control-nav {
+    left: 35% !important;
+}
+
+.privatesale {
+	left:50px;
+}
+
+.left-table {
+	width:135px; 
+}
+
+td {
+    padding: 12px 20px;
+}
+
+.timeline-icon {
+	width:35px;
+}
+
+.timeline-icon img {max-width:20px;}
+
+.timeline-detail {
+	width:170px;
+}
+
+.footer-container {
+	width:100%;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+.leaf-r {
+	width:45px;
+	top:-20px;
+}
+
+.leaf-l {
+	width:45px;
+	top:-15px;
+}
+
+ul.social {
+	padding-left:0px;
+}
+
+}
+
