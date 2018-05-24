@@ -196,7 +196,7 @@
     <br>
     <ul class="home-btn">
       <li><a href="#participateform" class="open-popup-link btn">Participate</a></li>
-      <li><a href="WPay-whitepaper-v2.5.pdf" target="_blank" class="btn">Whitepaper</a></li>
+      <li><a href="WGreenPay-whitepaper-v2.0.pdf" target="_blank" class="btn">Whitepaper</a></li>
     </ul>
   </div>
 </div>
@@ -343,7 +343,7 @@
         <br>
         <h4 style="font-weight:700;">NEP Validation</h4>
         <br>
-        <p>The Ministry of Environment validates Korea’s NEP, and the NEP is exchanged at the prevailing market price. Despite the increasing demand for NEP in the market, the allocation of NEP by the Ministry of Environment is limited. The price of NEP per ton is high at approximately KRW 22,000 (US $20) as of April 14, 2018. This is higher than EU’s CER that is priced at approximately Euro 13.84 (approximately KRW 17,700) as of April 16,2018.</p>
+        <p>The Ministry of Environment validates Korea’s NEP, and the NEP is exchanged at the prevailing market price. Despite the increasing demand for NEP in the market, the allocation of NEP by the Ministry of Environment is limited. The price of NEP per ton is high at approximately KRW 22,000 (US $20) as of April 14, 2018. This is higher than EU’s CER that is priced at approximately Euro 13.84 (approximately KRW 17,700) as of April 16, 2018.</p>
         <br><br>
         <img src="img/graph-nep.png" alt="">
         <br>
@@ -819,7 +819,7 @@
   <h3>KEON HO SHIM</h3>
   <h4>Financial Adviser, W-Foundation</h4>
   <br><br><br>
-  <p>23 years’ experience in banking, consulting, and new business development at Bank of America Merrill Lynch, Citi, Oliver Wyman, and Samsung Corporation, with M.B.A. from Stern School of Business, New York University, and B.A. in Economics and Political Science from George Washington University.</p>
+  <p>23 years’ experience in banking, consulting, and new business development at Bank of America Merrill Lynch, Citi, Oliver Wyman, and Samsung Corporation, with M.B.A. from Stern School of Business, New York University, and B.A. in Economics and Political Science from The George Washington University.</p>
 </div>
 
 <div id="dongyul" class="white-popup mfp-hide sans">
