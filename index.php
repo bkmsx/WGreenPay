@@ -196,7 +196,7 @@
     <br>
     <ul class="home-btn">
       <li><a href="#participateform" class="open-popup-link btn">Participate</a></li>
-      <li><a href="wgp-whitepaper.pdf" target="_blank" class="btn">Whitepaper</a></li>
+      <li><a href="WPay-whitepaper-v2.5.pdf" target="_blank" class="btn">Whitepaper</a></li>
     </ul>
   </div>
 </div>
