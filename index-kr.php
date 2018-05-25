@@ -782,7 +782,7 @@ Private Sale
 <br>
 <span class="small-font" style="color:#333;"> @ 2018년 W 글로벌 투자 주식회사 <br>저작권 보유.</span>
 <br><br>
-<!-- <div style="color:#87b44c; font-weight:400;"><a href="#">Terms of Service</a> &nbsp;&nbsp;I&nbsp;&nbsp; <a href="#">Privacy Policy</a></div> -->
+<div style="color:#87b44c; font-weight:400;"><a href="#terms_service" class="open-popup-link">Terms of Service</a> &nbsp;&nbsp;I&nbsp;&nbsp; <a href="#policy" class="open-popup-link">Privacy Policy</a></div>
 </div>
 
 <!---------- Participate form ------------>
@@ -809,6 +809,18 @@ Private Sale
 </div>
 
 <!---------- Participate form ------------>
+
+<!---------- Private Policy -------------->
+<div id="policy" class="white-popup mfp-hide sans"> 
+  <?php include "htmls/policy.html";?>
+</div>
+<!---------- End Private Policy -------------->
+
+<!---------- Terms Service -------------->
+<div id="terms_service" class="white-popup mfp-hide sans"> 
+  <?php include "htmls/terms_service.html";?>
+</div>
+<!---------- End Terms Service -------------->
 
 <!---------- Team popup content start------------>
 

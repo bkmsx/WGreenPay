@@ -784,7 +784,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <br>
     <span class="small-font" style="color:#333;">@ 2018 W GLOBAL INVESTMENT PTE. LTD. <br>All rights reserved.</span>
     <br><br>
-    <!-- <div style="color:#87b44c; font-weight:400;"><a href="#">Terms of Service</a> &nbsp;&nbsp;I&nbsp;&nbsp; <a href="#">Privacy Policy</a></div> -->
+    <div style="color:#87b44c; font-weight:400;"><a href="#terms_service" class="open-popup-link">Terms of Service</a> &nbsp;&nbsp;I&nbsp;&nbsp; <a href="#policy" class="open-popup-link">Privacy Policy</a></div>
 </div>
 
 <!---------- Participate form ------------> 
@@ -811,6 +811,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 
 <!---------- Participate form ------------> 
+
+<!---------- Private Policy -------------->
+<div id="policy" class="white-popup mfp-hide sans"> 
+  <?php include "htmls/policy.html";?>
+</div>
+<!---------- End Private Policy -------------->
+
+<!---------- Terms Service -------------->
+<div id="terms_service" class="white-popup mfp-hide sans"> 
+  <?php include "htmls/terms_service.html";?>
+</div>
+<!---------- End Terms Service -------------->
 
 <!---------- Team popup content start------------> 
 
