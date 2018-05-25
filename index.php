@@ -135,7 +135,7 @@
       <li><a href="#contact">Contact</a></li>
     </ul>
     <div class="lng-container">
-      <a href="#" class="lng lng-active">EN</a> &nbsp;<a href="#" class="lng">KR</a>
+      <a href="#" class="lng lng-active">EN</a> &nbsp;<a href="index-kr.php" class="lng">KR</a>
     </div>
     <nav> 
       <a href="" id="menuToggle" title="show menu"><span class="navClosed"></span></a> 
@@ -761,10 +761,10 @@
   <div class="footer-container">
     <div class="row">
       <div class="col-md-6 col-sm-6 col-xs-6 v-pad hooxi">
-        <img src="img/logo-hooxi.jpg" alt="">
+        <a href="http://www.gcrfund.org/en/"><img src="img/logo-hooxi.jpg" alt=""></a>
       </div>
       <div class="col-md-6 col-sm-6 col-xs-6 v-pad wfoundation">
-        <img src="img/logo-wfoundation.jpg" alt="">
+        <a href="http://www.gcrfund.org/en/"><img src="img/logo-wfoundation.jpg" alt=""></a>
       </div>
     </div>
   </div>
