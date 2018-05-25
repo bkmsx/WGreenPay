@@ -746,7 +746,7 @@ Private Sale
 <input type='hidden' name='submitted' id='submitted' value='1'/>
 <input type="hidden" name="type" value="subscription" />
 <div class="subscription-container">
-<input type='text' class="input-style input-box" name='EMAIL' id='subscription_email'  placeholder="Your e-mail address " required/>
+<input type='text' class="input-style input-box" name='EMAIL' id='subscription_email'  placeholder="이메일" required/>
 <button type='submit' value='Submit' class="submit-box"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
 <div style="clear:both;"></div>
 </div>
@@ -783,10 +783,10 @@ Private Sale
 <form id='participate' class="ajax-participate" action='https://global.us18.list-manage.com/subscribe/post?u=e1cce14547abb01d594305d38&amp;id=db0d55a049' method='post' accept-charset='UTF-8' name="mc-embedded-subscribe-form">
 <input type='hidden' name='submitted' id='submitted' value='1'/>
 <input type="hidden" name="type" value="participate" />
-<input type='text' class="input-style" name='FNAME' id='participate_name'  placeholder="name " />
+<input type='text' class="input-style" name='FNAME' id='participate_name'  placeholder="성명 " />
 <br>
 <br>
-<input type='text' class="input-style" name='EMAIL' id='participate_email'  placeholder="e-mail" required/>
+<input type='text' class="input-style" name='EMAIL' id='participate_email'  placeholder="이메일" required/>
 <br>
 <br>
 <br>
@@ -1010,7 +1010,7 @@ $(function() {
                                                                                    $(notifyMessages).addClass('alert alert-info');
                                                                                    
                                                                                    // Set the message text.
-                                                                                   $(notifyMessages).text("Thank you for signing up for the W Green Pay token sale. We have many exciting privileges awaiting you. Please watch out for our upcoming email notices.");
+                                                                                   $(notifyMessages).text("W 그린 페이 토큰 세일에 등록해 주셔서 감사합니다. 앞으로 흥미진진한 특혜가 먾이 주어질 것이니 이메일 알림을 기다려 주시기 바랍니다.");
                                                                                    $('#participate_name').val('');
                                                                                    $('#participate_email').val('');
                                                                                    });
@@ -1053,7 +1053,7 @@ $(function() {
                                                                                     $(contactMessages).removeClass('alert alert-danger');
                                                                                     $(contactMessages).addClass('alert alert-info');
                                                                                     
-                                                                                    $(contactMessages).text("Thank you for signing up for the W Green Pay token sale. We have many exciting privileges awaiting you. Please watch out for our upcoming email notices.");
+                                                                                    $(contactMessages).text("W 그린 페이 토큰 세일에 등록해 주셔서 감사합니다. 앞으로 흥미진진한 특혜가 먾이 주어질 것이니 이메일 알림을 기다려 주시기 바랍니다.");
                                                                                     $('#subscription_email').val('');
                                                                                     });
                                                                               });
