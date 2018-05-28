@@ -305,7 +305,7 @@ Private Sale
 <div class="col-md-4 v-pad">
 <h1>후시 캠페인 <span style="color:#87b44c;">스폰서</span></h1>
 <br>
-<p>농협 금융 그룹, 농협 생명 보험회사, 농협 투자 증권회사, 국민 은행, YG 연예, LG 전자, 블랙야크, 호텔 롯데 DFS, 롯데 홈쇼핑, 필립모리스 코리아, 한국 경영관리 협회, 우마트 스토어(중국), 한솔 화학, 한솔 오크 밸리, 보림 CS, Fn가이드, 성도 엔지니어링 & 건설, 한국 비즈니스 뉴스, YJM 게임, 클린토피아, 넷 TV</p>
+<p>농협 금융 그룹, 농협 생명 보험회사, 농협 투자 증권회사, 국민 은행, YG 연예, 블랙야크, 호텔 롯데 DFS, 롯데 홈쇼핑, 필립모리스 코리아, 한국 경영관리 협회, 우마트 스토어(중국), 한솔 화학, 한솔 오크 밸리, 보림 CS, Fn가이드, 성도 엔지니어링 & 건설, 한국 비즈니스 뉴스, YJM 게임, 클린토피아, 넷 TV</p>
 </div>
 <div class="col-md-8 v-pad" style="position:relative;">
 <div class="leaf-r"><img src="img/leaf-1.png" alt=""></div>
