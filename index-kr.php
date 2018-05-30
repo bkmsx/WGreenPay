@@ -614,7 +614,7 @@ Private Sale
 <div class="timeline-content">
 <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
 <div class="timeline-detail">
-<h3 class="timeline-title">2019년 3월9</h3>
+<h3 class="timeline-title">2019년 3월</h3>
 <br>
 <ul class="roadmap">
 <li><h4>W 그린 페이 거래소 출범</h4></li>
