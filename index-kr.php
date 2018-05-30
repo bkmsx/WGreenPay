@@ -641,7 +641,7 @@ Private Sale
 <br>
 <div class="team-title">
 <h3>이욱 (Wook Lee)</h3>
-<h4>의장</h4>
+<h4>Chairman</h4>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 v-pad">
@@ -656,25 +656,25 @@ Private Sale
 <a href="#keon" class="open-popup-link"><div class="team-img"><img src="img/team-keon.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
-<h3>심근호(KEON HO SHIM)</h3>
-<h4>금융 고문</h4>
+<h3>심건호 (KEON HO SHIM)</h3>
+<h4>Financial Adviser</h4>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 v-pad">
 <a href="#dongyul" class="open-popup-link"><div class="team-img"><img src="img/team-dongyul-seok.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
-<h3>석동율(Dongyul Seok)</h3>
-<h4>홍보 고문</h4>
-<p>(동아 일보 부국장)</p>
+<h3>석동률 (DONGYUL SEOK)</h3>
+<h4>Public Relations Adviser</h4>
+<p>(동아일보 부국장)</p>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 v-pad">
 <a href="#seonggu" class="open-popup-link"><div class="team-img"><img src="img/team-seonggu-ryu.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
-<h3>류성구 박사(Seonggu Ryu Ph.D.)</h3>
-<h4>고문 / 최고 관계  책임자</h4>
+<h3>유승규 교수 (SEONGGU RYU PH.D.)</h3>
+<h4>Adviser/Chief Relationship Officer</h4>
 <p>(서경대학교 교수)</p>
 </div>
 </div>
@@ -683,17 +683,17 @@ Private Sale
 <br>
 <div class="team-title">
 <h3>김철준(Chuljun Kim M.D.)</h3>
-<h4>고문 / 최고 기술 책임자</h4>
-<p>(의장 / 대전 건강 병원)</p>
+<h4>Adviser/Chief Technology Officer</h4>
+<p>(대전 웰니스 요양병원 병원장)</p>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 v-pad">
 <a href="#ryan" class="open-popup-link"><div class="team-img"><img src="img/team-ryan-kim.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
-<h3>Ryan Kim</h3>
-<h4>비즈니스 고문</h4>
-<p>(Jimei 코리아, CEO)</p>
+<h3>Ryan Kwon</h3>
+<h4>Business Adviser</h4>
+<p>(CEO, Jimei Korea)</p>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 v-pad">
@@ -701,8 +701,8 @@ Private Sale
 <br>
 <div class="team-title">
 <h3>Chen Shun Teng</h3>
-<h4>비즈니스 고문</h4>
-<p>(WWRC Holding Pte. Ltd. “WWRC 그룹"의 전략 & 대외 협력 매니저)</p>
+<h4>Business Adviser</h4>
+<p>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</p>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 v-pad">
@@ -710,8 +710,8 @@ Private Sale
 <br>
 <div class="team-title">
 <h3>Chris Low</h3>
-<h4>기술 고문</h4>
-<p>(Novum 캐피탈의 관리 파트너, 최고 의장)</p>
+<h4>Technology Adviser</h4>
+<p>(Managing Partner and Executive Chairman at Novum Capital)</p>
 </div>
 </div>
 </div>
@@ -826,7 +826,7 @@ Private Sale
 
 <div id="wooklee" class="white-popup mfp-hide sans">
 <h3>이욱(WOOK LEE)</h3>
-<h4>W-재단의 의장</h4>
+<h4>W-재단의 Chairman</h4>
 <br><br><br>
 <p>W-재단의 설립자이자 의장, 자선가, 기업가. 정부, 기업, 기관과의 공공-개인 파트너십을 가능케 하는 글로벌 네트워크를 구축함. 글로벌 기부자와 함께글로벌 기후 난민 기금을 마련하고, W-재단을 영향력 있는 글로벌 자연 보전 기구로 발전시킴. 한양대학교 법과 대학에서 학사 학위를 취득함.</p>
 </div>
@@ -839,50 +839,50 @@ Private Sale
 </div>
 
 <div id="keon" class="white-popup mfp-hide sans">
-<h3>심근호(KEON HO SHIM)</h3>
-<h4>W-재단의 금융 고문</h4>
+<h3>심건호 (KEON HO SHIM)</h3>
+<h4>W-재단의 Financial Adviser</h4>
 <br><br><br>
 <p>뱅크오브 아메리카 메릴 린치, 시티, 올리버 와이만, 삼성의 은행, 컨설팅, 신 사업 개발 분야에서 23년 이상의 경험을 보유. 뉴욕 대학교 Stern 경영 대학에서 MBA, 조지 워싱턴 대학교 정경 대학에서 학사 학위를 취득함.</p>
 </div>
 
 <div id="dongyul" class="white-popup mfp-hide sans">
-<h3>석동율(DONGYUL SEOK)</h3>
-<h4>W-재단의 홍보 고문 (동아 일보 부국장)</h4>
+<h3>석동률 (DONGYUL SEOK)</h3>
+<h4>W-재단의 Public Relations Adviser (동아일보 부국장)</h4>
 <br><br><br>
 <p>영향력 있는 언론인, 국제 언론인 협회 부회장, 한국 언론 사진 협회 회장으로서 25년의 경험 보유. 한양 대학교 미디어, 커뮤니케이션 학과의 겸임 교수로도 활동.</p>
 </div>
 
 <div id="seonggu" class="white-popup mfp-hide sans">
-<h3>류성구 박사(SEONGGU RYU PH.D.)</h3>
-<h4>W-재단의 고문 / 최고 관계 책임자 (서경 대학교 교수)</h4>
+<h3>유승규 교수 (SEONGGU RYU PH.D.)</h3>
+<h4>W-재단의 Adviser/Chief Relationship Officer (서경대학교 교수)</h4>
 <br><br><br>
 <p>삼성 그룹의 전략 계획, 그룹 경영관리 컨설팅, 마케팅 분야에서 25년 경험 보유. 최근에는 삼성 전자 마케팅 전략 그룹 부회장으로 근무. 서경 대학교 경영 대학 교수로 근무.</p>
 </div>
 
 <div id="chuljun" class="white-popup mfp-hide sans">
-<h3>김철준 (CHULJUN KIM M.D.)</h3>
-<h4>W-재단의 고문 / 최고 기술 책임자 (의장 / 대전 건강 병원 의사)</h4>
+<h3>김철준(Chuljun Kim M.D.)</h3>
+<h4>W-재단의 Adviser/Chief Technology Officer (대전 웰니스 요양병원 병원장)</h4>
 <br><br><br>
 <p>의사, 기업가, 투자자로서 20년 경험 보유. 대형 병원 CEO로서 의료 분야에서 세간의 이목을 끄는 인수합병과 투자를 실시함. 현재는 의료 분야를 위한 블록 체인 기술을 개발하여 의료 기록을 안전하게 보호하는 일에 관심이 있음. 충남 대학교 재활 의학과 조교수로 근무.</p>
 </div>
 
 <div id="ryan" class="white-popup mfp-hide sans">
 <h3>RYAN KWON</h3>
-<h4>W-재단의 비즈니스 고문 (Jimei 코리아의 CEO)</h4>
+<h4>W-재단의 Business Adviser (CEO, Jimei Korea)</h4>
 <br><br><br>
 <p>Jimei 그룹에서 한중 투자 기회에 초점을 둔 글로벌 부동산 개발 및 금융 자문을 담담하여 한중 양자 간 관계 발전에 기여함. Ozoo 재단의 회장으로서 면학 장학금을 제공함.</p>
 </div>
 
 <div id="chen" class="white-popup mfp-hide sans">
 <h3>CHEN SHUN TENG</h3>
-<h4>W-재단의 비즈니스 고문 (WWRC Holding Pte. Ltd. “WWRC 그룹"의 전략 & 대외 협력 매니저)</h4>
+<h4>W-재단의 Business Adviser (Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</h4>
 <br><br><br>
 <p>16개 아시아 도시에서 화학 제품 유통자로 자리 매김해 온 WWRC 그룹에서 해외 진출, JV/파트너십, 인수합병을 통한 미래 성장 예측 업무 담당. WWRC 그룹 근무 이전에 시티, OCBC에서 은행 업무에 종사함. 난양 기술 대학교 재료 공학과를 학사 학위를 취득함 (우등 졸업).</p>
 </div>
 
 <div id="chris" class="white-popup mfp-hide sans">
 <h3>CHRIS LOW</h3>
-<h4>W-재단의 기술 고문 (Novum 캐피탈의 관리 파트너, 최고 의장)</h4>
+<h4>W-재단의 Technology Adviser (Managing Partner and Executive Chairman at Novum Capital)</h4>
 <br><br><br>
 <p>성공적인 연쇄 창업가로서 동남 아시아에서 대형 소셜 게이밍 사이트인 Viwawa를 개발함. 베트남 최대의 모바일 POS 회사인 소프트페이 모바일을 공동 설립함. 국립 싱가포르 대학교 컴퓨터 공학과에서 학사 학위를 취득함.</p>
 </div>
