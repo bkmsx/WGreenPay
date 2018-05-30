@@ -169,7 +169,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="home">
 <div class="home-container">
 <h1><span style="color:#87b44c;">W 그린 페이</span> 후시 캠페인 참여하세요!</h1>
-<h4>가장 혁신적인 소셜 탄소 신용 플랫폼이 출시됩니다.</h4>
+<h4>가장 혁신적인 온실가스 감축 플랫폼이 출시됩니다.</h4>
 <h4>지금 참여하여 본인의 계정을 등록하고 20% 공개 세일 보너스를 받으세요! </h4>
 <br><br>
 <h4 style="font-weight:700;"><span style="color:#87b44c;">공개 세일이 </span> 아래 시간이 지나면 시작됩니다:</h4>
