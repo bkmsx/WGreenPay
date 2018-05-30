@@ -158,7 +158,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a href="#team" onClick="closeSidebar(this)">팀</a>
 <a href="#contact" onClick="closeSidebar(this)">연락처</a>
 <div class="lng-mobile">
-<a href="#">한국어</a>
+<a href="index.php">한국어</a>
 </div>
 </nav>
 </div>

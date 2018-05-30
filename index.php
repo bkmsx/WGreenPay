@@ -160,7 +160,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <a href="#team" onclick="closeSidebar(this)">Team</a>
       <a href="#contact" onclick="closeSidebar(this)">Contact</a>
       <div class="lng-mobile">
-        <a href="#">KR</a>
+        <a href="index-kr.php">KR</a>
       </div>
     </nav>
   </div>
