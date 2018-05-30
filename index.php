@@ -24,6 +24,13 @@
 <script type="text/javascript" src="js/jquery.flipcountdown.js"></script>
 <script src="https://use.typekit.net/bkt6ydm.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
+ <!-- Google Tag Manager -->
+ <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5X2FMMG');</script>
+  <!-- End Google Tag Manager -->
 
 <style>
 
@@ -115,9 +122,15 @@
 
    </script>
 
+  
+
 </head>
 
 <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5X2FMMG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 <!------------ Navigation start ------------>
 <div id="header">
@@ -135,7 +148,7 @@
       <li><a href="#contact">Contact</a></li>
     </ul>
     <div class="lng-container">
-      <a href="#" class="lng lng-active">EN</a> &nbsp;<a href="#" class="lng">KR</a>
+      <a href="#" class="lng lng-active">EN</a> &nbsp;<a href="index-kr.php" class="lng">KR</a>
     </div>
     <nav> 
       <a href="" id="menuToggle" title="show menu"><span class="navClosed"></span></a> 
@@ -147,7 +160,7 @@
       <a href="#team" onclick="closeSidebar(this)">Team</a>
       <a href="#contact" onclick="closeSidebar(this)">Contact</a>
       <div class="lng-mobile">
-        <a href="#">KR</a>
+        <a href="index-kr.php">KR</a>
       </div>
     </nav>
   </div>
@@ -196,7 +209,7 @@
     <br>
     <ul class="home-btn">
       <li><a href="#participateform" class="open-popup-link btn">Participate</a></li>
-      <li><a href="WPay-whitepaper-v2.5.pdf" target="_blank" class="btn">Whitepaper</a></li>
+      <li><a href="WGreenPay-whitepaper-v2.0.pdf" target="_blank" class="btn">Whitepaper</a></li>
     </ul>
   </div>
 </div>
@@ -646,7 +659,7 @@
         <br>
         <div class="team-title">
           <h3>KEON HO SHIM</h3>
-          <h4>Financial Advisor</h4>
+          <h4>Financial Adviser</h4>
         </div>
       </div>
       <div class="col-md-4 col-sm-4 v-pad">
@@ -761,17 +774,17 @@
   <div class="footer-container">
     <div class="row">
       <div class="col-md-6 col-sm-6 col-xs-6 v-pad hooxi">
-        <img src="img/logo-hooxi.jpg" alt="">
+        <a href="http://www.gcrfund.org/en/"><img src="img/logo-hooxi.jpg" alt=""></a>
       </div>
       <div class="col-md-6 col-sm-6 col-xs-6 v-pad wfoundation">
-        <img src="img/logo-wfoundation.jpg" alt="">
+        <a href="http://www.gcrfund.org/en/"><img src="img/logo-wfoundation.jpg" alt=""></a>
       </div>
     </div>
   </div>
   <br>
     <span class="small-font" style="color:#333;">@ 2018 W GLOBAL INVESTMENT PTE. LTD. <br>All rights reserved.</span>
     <br><br>
-    <!-- <div style="color:#87b44c; font-weight:400;"><a href="#">Terms of Service</a> &nbsp;&nbsp;I&nbsp;&nbsp; <a href="#">Privacy Policy</a></div> -->
+    <div style="color:#87b44c; font-weight:400;"><a href="#terms_service" class="open-popup-link">Terms of Service</a> &nbsp;&nbsp;I&nbsp;&nbsp; <a href="#policy" class="open-popup-link">Privacy Policy</a></div>
 </div>
 
 <!---------- Participate form ------------> 
@@ -798,6 +811,18 @@
 </div>
 
 <!---------- Participate form ------------> 
+
+<!---------- Private Policy -------------->
+<div id="policy" class="white-popup mfp-hide sans"> 
+  <?php include "htmls/policy.html";?>
+</div>
+<!---------- End Private Policy -------------->
+
+<!---------- Terms Service -------------->
+<div id="terms_service" class="white-popup mfp-hide sans"> 
+  <?php include "htmls/terms_service.html";?>
+</div>
+<!---------- End Terms Service -------------->
 
 <!---------- Team popup content start------------> 
 
