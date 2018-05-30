@@ -659,7 +659,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <br>
         <div class="team-title">
           <h3>KEON HO SHIM</h3>
-          <h4>Financial Advisor</h4>
+          <h4>Financial Adviser</h4>
         </div>
       </div>
       <div class="col-md-4 col-sm-4 v-pad">
