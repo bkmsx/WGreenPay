@@ -207,7 +207,7 @@ Private Sale
 <br>
 <ul class="home-btn">
 <li><a href="#participateform" class="open-popup-link btn">참여하기</a></li>
-<li><a href="WGreenPay-whitepaper-v2.0.pdf" target="_blank" class="btn">백서</a></li>
+<li><a href="WPay-whitepaper-KR-v2.pdf" target="_blank" class="btn">백서</a></li>
 </ul>
 </div>
 </div>
