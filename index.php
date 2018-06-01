@@ -717,11 +717,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </div>
-    <div style="height:1px; width:100%; opacity:0.2; background:#fff; margin:60px 0;"></div>
-    <div style="text-align:center;">
+    <div class="team-advisor">
       <h2>Advisers</h2>
       <br>
-      <h4>Link to honorary advisers on the W-Foundation website:</h4>
+      <h3>Link to honorary advisers on the W-Foundation website:</h3>
       <h4>KOR: <a href="http://www.gcrfund.org/honorary_advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/honorary_advisors/</a></h4>
       <h4>ENG: <a href="http://www.gcrfund.org/en/honorary-advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/en/honorary-advisors/</a></h4>
     </div>

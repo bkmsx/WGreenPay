@@ -715,8 +715,7 @@ Private Sale
 </div>
 </div>
 </div>
-<div style="height:1px; width:100%; opacity:0.2; background:#fff; margin:60px 0;"></div>
-<div style="text-align:center;">
+<div class="team-advisor">
 <h2>명예고문</h2>
 <br>
 <h4>W재단 명예고문단 링크</h4>
