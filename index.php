@@ -693,7 +693,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <a href="#ryan" class="open-popup-link"><div class="team-img"><img src="img/team-ryan-kim.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
-          <h3>RYAN KWON</h3>
+          <h3>Ryan Kwon</h3>
           <h4>Business Adviser</h4>
           <p>(CEO, Jimei Korea)</p>
         </div>
