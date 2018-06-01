@@ -1033,7 +1033,7 @@ $(function() {
                                                                                    $(notifyMessages).addClass('alert alert-info');
                                                                                    
                                                                                    // Set the message text.
-                                                                                   $(notifyMessages).text("W 그린 페이 토큰 세일에 등록해 주셔서 감사합니다. 앞으로 흥미진진한 특혜가 먾이 주어질 것이니 이메일 알림을 기다려 주시기 바랍니다.");
+                                                                                   $(notifyMessages).text("W Green Pay에 등록해주셔서 감사합니다. 앞으로 이벤트, 프로모션 등 다양한 소식을 가장 빨리 받아보실 수 있습니다. 이메일 알람을 기다려주세요!");
                                                                                    $('#participate_name').val('');
                                                                                    $('#participate_email').val('');
                                                                                    });
@@ -1076,7 +1076,7 @@ $(function() {
                                                                                     $(contactMessages).removeClass('alert alert-danger');
                                                                                     $(contactMessages).addClass('alert alert-info');
                                                                                     
-                                                                                    $(contactMessages).text("W 그린 페이 토큰 세일에 등록해 주셔서 감사합니다. 앞으로 흥미진진한 특혜가 먾이 주어질 것이니 이메일 알림을 기다려 주시기 바랍니다.");
+                                                                                    $(contactMessages).text("W Green Pay에 등록해주셔서 감사합니다. 앞으로 이벤트, 프로모션 등 다양한 소식을 가장 빨리 받아보실 수 있습니다. 이메일 알람을 기다려주세요!");
                                                                                     $('#subscription_email').val('');
                                                                                     });
                                                                               });
