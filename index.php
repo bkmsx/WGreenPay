@@ -172,7 +172,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="home-container">
     <h1>JOIN <span style="color:#87b44c;">W GREEN PAY</span> HOOXI CAMPAIGN</h1>
     <h4>The most innovative social carbon credit platform to be launched.</h4>
-    <h4>Participate now to get whitelisted and enjoy 20% public sale bonus!</h4>
+    <h4>Participate now and enjoy 20% public sale bonus!</h4>
     <br><br>
     <h4 style="font-weight:700;"><span style="color:#87b44c;">PUBLIC SALE</span> STARTS IN:</h4>
     <br><br>
@@ -307,7 +307,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-md-4 v-pad">
        <h1>Hooxi Campaign <span style="color:#87b44c;">Sponsors</span></h1>
        <br>
-       <p>NongHyup Financial Group, NongHyup Life Insurance Co., Ltd., NH Investment Securities Co., Ltd., KB Kookman Bank, YG Entertainment, Blackyak Co., Ltd., Hotel Lotte DFS Co., Ltd., Lotte Homeshopping, Philip Morris Korea Ltd., Korea Management Association, Wumart Stores, Inc. (China), Hansol Chemical, Hansol Oak Valley, Borim CS, FnGuide Inc., Sungdo Engineering & Construction, Korea Business News Co., Ltd., YJM Games Co., Ltd., Cleantopia, NET TV Co., Ltd.</p>
+       <p>NongHyup Financial Group, NongHyup Life Insurance Co., Ltd., NH Investment Securities Co., Ltd., KB Kookman Bank, YG Entertainment, Hotel Lotte DFS Co., Ltd., Lotte Homeshopping, Philip Morris Korea Ltd., Korea Management Association, Wumart Stores, Inc. (China), Hansol Chemical, Hansol Oak Valley, Borim CS, FnGuide Inc., Sungdo Engineering & Construction, Korea Business News Co., Ltd., YJM Games Co., Ltd., Cleantopia, NET TV Co., Ltd.</p>
       </div>
       <div class="col-md-8 v-pad" style="position:relative;">
         <div class="leaf-r"><img src="img/leaf-1.png" alt=""></div>
@@ -528,7 +528,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h3 class="timeline-title">Dec 2017</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>GHG (HOOXI Campaign Declaration)</h4></li>
+                  <li><h4>HOOXI Campaign Declaration</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -543,7 +543,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h3 class="timeline-title">Apr 2018</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>GHG (HOOXI Campaign Committee Inauguration)</h4></li>
+                  <li><h4>HOOXI Campaign Committee Inauguration</h4></li>
                   <li><h4>W Green Pay Certification in Singapore</h4></li>
                 </ul>
               </div>
