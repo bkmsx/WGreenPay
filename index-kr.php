@@ -168,7 +168,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!------------ Home banner start ------------>
 <div id="home">
 <div class="home-container">
-<h1><span style="color:#87b44c;">W Green Pay</span> HOOXI 캠페인에 참여하세요!</h1>
+<h1><span style="color:#87b44c;">W Green Pay</span><br> HOOXI 캠페인에 참여하세요!</h1>
 <h4>가장 혁신적인 온실가스 감축 플랫폼이 출시됩니다.</h4>
 <h4>지금 본인의 계정을 등록하고 20% 할인 혜택을 받으세요! </h4>
 <br><br>
