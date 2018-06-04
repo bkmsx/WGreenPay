@@ -619,7 +619,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h3 class="timeline-title">Mar 2019</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>W Green Pay Exchange Launch</h4></li>
+                  <li><h4>W Exchange Launch</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
