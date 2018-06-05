@@ -655,11 +655,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
       <div class="col-md-4 col-sm-4 v-pad">
+        <a href="#bruno" class="open-popup-link"><div class="team-img"><img src="img/team-bruno-wu.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Bruno Wu</h3>
+          <h4>Director of Strategy, W-Foundation</h4>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4 v-pad">
         <a href="#keon" class="open-popup-link"><div class="team-img"><img src="img/team-keon.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
           <h3>KEON HO SHIM</h3>
           <h4>Financial Adviser</h4>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4 v-pad">
+        <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Chen Shun Teng</h3>
+          <h4>Business Adviser</h4>
+          <p>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</p>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4 v-pad">
+        <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Chris Low</h3>
+          <h4>Technology Adviser</h4>
+          <p>(Managing Partner and Executive Chairman at Novum Capital)</p>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4 v-pad">
+        <a href="#jeremy" class="open-popup-link"><div class="team-img"><img src="img/team-jeremy.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Jeremy Khoo</h3>
+          <h4>Business Development Adviser, W-Foundation</h4>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4 v-pad">
+        <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Irwin Chee</h3>
+          <h4>Business Development Adviser, W-Foundation</h4>
         </div>
       </div>
       <div class="col-md-4 col-sm-4 v-pad">
@@ -687,33 +729,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h3>Chuljun Kim M.D.</h3>
           <h4>Adviser/Chief Technology Officer</h4>
           <p>(Chairman/Medical Doctor, Daejeon Wellness Hospital)</p>
-        </div>
-      </div>
-      <div class="col-md-4 col-sm-4 v-pad">
-        <a href="#ryan" class="open-popup-link"><div class="team-img"><img src="img/team-ryan-kim.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Ryan Kwon</h3>
-          <h4>Business Adviser</h4>
-          <p>(CEO, Jimei Korea)</p>
-        </div>
-      </div>
-      <div class="col-md-4 col-sm-4 v-pad">
-        <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Chen Shun Teng</h3>
-          <h4>Business Adviser</h4>
-          <p>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</p>
-        </div>
-      </div>
-      <div class="col-md-4 col-sm-4 v-pad">
-        <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Chris Low</h3>
-          <h4>Technology Adviser</h4>
-          <p>(Managing Partner and Executive Chairman at Novum Capital)</p>
         </div>
       </div>
     </div>
@@ -867,11 +882,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <p>20 years’ experience as a medical doctor, entrepreneur, and investor. As CEO of a major hospital, led high profile M&A and investments in the medical industry. Currently developing blockchain technology for the medical industry to securely store health records. Assistant Professor of Rehabilitation Medicine at Chungnam National University.</p>
 </div>
 
-<div id="ryan" class="white-popup mfp-hide sans">
-  <h3>RYAN KWON</h3>
-  <h4>Business Adviser, W-Foundation (CEO, Jimei Korea)</h4>
+<div id="bruno" class="white-popup mfp-hide sans">
+  <h3>BRUNO WU</h3>
+  <h4>Director of Strategy, W-Foundation</h4>
   <br><br><br>
-  <p>Leads the global real estate development and financial advisory at Jimei Group, focusing on China-Korea investment opportunities. Has extensive global business network, contributing to the development of bilateral relationships between China and Korea. Chairman of Ozoo Foundation, providing academic scholarships.</p>
+  <p>High-profile media mogul from China. The Founder, Co-Chairman and CEO of Sun Seven Stars Entertainment & Media Group Limited, one of the biggest private media and investment companies in China. Major shareholder of DBOT, The Delaware Board of Trade Holdings Inc., the first and only blockchain based Alternative Trading System fully licensed by the SEC. Bruno is also the former Chairman of Sun Media Group and former Director of Shanda Group. Bruno and his wife (Yang Lan, one of the most popular celebrities in China) made the 2016 Forbes China Rich List with an estimated fortune worth $1 billion.</p>
 </div>
 
 <div id="chen" class="white-popup mfp-hide sans">
@@ -886,6 +901,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <h4>Technology Adviser, W-Foundation (Managing Partner and Executive Chairman at Novum Capital)</h4>
   <br><br><br>
   <p>Successful serial entrepreneur having built one of the largest social gaming site in Southeast Asia, called Viwawa. Co-founded SoftPay Mobile, the largest Mobile POS company in Vietnam. Graduated with a BSc. Merit in Computer Science from the National University of Singapore.</p>
+</div>
+
+<div id="jeremy" class="white-popup mfp-hide sans">
+  <h3>JEREMY KHOO</h3>
+  <h4>Business Development Adviser, W-Foundation</h4>
+  <br><br><br>
+  <p>International business operator, founder and blockchain entrepreneur who has successfully exited 3 venture funded companies. Currently Group CEO of retail conglomerate iFashion Group and is co-leading MC Payment's public listing on the SGX. Jeremy is heavily involved in blockchain projects and has been instrumental in the sale of more than US$100M in tokens for 8 companies.</p>
+</div>
+
+<div id="irwin" class="white-popup mfp-hide sans">
+  <h3>IRWIN CHEE</h3>
+  <h4>Business Development Adviser, W-Foundation</h4>
+  <br><br><br>
+  <p>Lead Consultant at Novum Capital specialising in Blockchain Applications, ICO Consultancy and Investor Relations. To date, ICO projects that he has managed have sold tokens in excess of US$100M.</p>
 </div>
  
 

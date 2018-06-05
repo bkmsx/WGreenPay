@@ -654,11 +654,53 @@ Private Sale
 </div>
 </div>
 <div class="col-md-4 col-sm-4 v-pad">
+<a href="#bruno" class="open-popup-link"><div class="team-img"><img src="img/team-bruno-wu.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Bruno Wu</h3>
+<h4>W재단 Director of Strategy</h4>
+</div>
+</div>
+<div class="col-md-4 col-sm-4 v-pad">
 <a href="#keon" class="open-popup-link"><div class="team-img"><img src="img/team-keon.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
 <h3>심건호 (KEON HO SHIM)</h3>
 <h4>W재단 Financial Adviser</h4>
+</div>
+</div>
+<div class="col-md-4 col-sm-4 v-pad">
+<a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Chen Shun Teng</h3>
+<h4>Business Adviser</h4>
+<p>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-4 v-pad">
+<a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Chris Low</h3>
+<h4>W재단 Technology Adviser</h4>
+<p>(Managing Partner and Executive Chairman at Novum Capital)</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-4 v-pad">
+<a href="#jeremy" class="open-popup-link"><div class="team-img"><img src="img/team-jeremy.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Jeremy Khoo</h3>
+<h4>W재단 Business Development Adviser</h4>
+</div>
+</div>
+<div class="col-md-4 col-sm-4 v-pad">
+<a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Irwin Chee</h3>
+<h4>W재단 Business Development Adviser</h4>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 v-pad">
@@ -686,33 +728,6 @@ Private Sale
 <h3>김철준(Chuljun Kim M.D.)</h3>
 <h4>W재단 Adviser/Chief Technology Officer</h4>
 <p>(대전 웰니스 요양병원 병원장)</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-4 v-pad">
-<a href="#ryan" class="open-popup-link"><div class="team-img"><img src="img/team-ryan-kim.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>Ryan Kwon</h3>
-<h4>W재단 Business Adviser</h4>
-<p>(CEO, Jimei Korea)</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-4 v-pad">
-<a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>Chen Shun Teng</h3>
-<h4>Business Adviser</h4>
-<p>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-4 v-pad">
-<a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>Chris Low</h3>
-<h4>W재단 Technology Adviser</h4>
-<p>(Managing Partner and Executive Chairman at Novum Capital)</p>
 </div>
 </div>
 </div>
@@ -856,21 +871,21 @@ Private Sale
 <h3>유승규 교수 (SEONGGU RYU PH.D.)</h3>
 <h4>W재단 Adviser/Chief Relationship Officer (서경대학교 교수)</h4>
 <br><br><br>
-<p>삼성그룹의 전략 계획, 그룹 경영관리 컨설팅, 마케팅 분야에서 25년 경험 보유. 최근에는 삼성전자 미래전략기획실 전무으로 근무. 현재 서경대학교 경영 대학 교수.</p>
+<p>삼성그룹의 전략 계획, 그룹 경영관리 컨설팅, 마케팅 분야에서 25년 경험 보유. 최근에는 삼성전자 미래전략기획실 전무로 근무. 현재 서경대학교 경영 대학 교수.</p>
 </div>
 
 <div id="chuljun" class="white-popup mfp-hide sans">
 <h3>김철준(Chuljun Kim M.D.)</h3>
 <h4>W재단 Adviser/Chief Technology Officer (대전 웰니스 요양병원 병원장)</h4>
 <br><br><br>
-<p>의사, 기업가, 투자자로서 20년 경험 보유. 대형 병원 CEO로서 의료 분야에서 세간의 이목을 끄는 인수합병과 투자를 성공함. 현재는 의료 분야를 위한 블록 체인 기술을 개발하여 의료 기록을 안전하게 보호하는 기술 개발에 참여. 충남대학교 재활 의학과 조교수.</p>
+<p>의사, 기업가, 투자자로서 20년 경험 보유. 대형 병원 CEO로서 의료 분야에서 세간의 이목을 끄는 인수합병과 투자를 성공함. 현재는 의료 분야에서 블록 체인 기술을 통하여 의료 기록을 안전하게 보호하는 기술 개발에 참여. 충남대학교 재활 의학과 조교수.</p>
 </div>
 
-<div id="ryan" class="white-popup mfp-hide sans">
-<h3>RYAN KWON</h3>
-<h4>W재단 Business Adviser (CEO, Jimei Korea)</h4>
+<div id="bruno" class="white-popup mfp-hide sans">
+<h3>BRUNO WU</h3>
+<h4>W재단 Director of Strategy</h4>
 <br><br><br>
-<p>Jimei 그룹에서 한중 투자 기회에 초점을 둔 글로벌 부동산 개발 및 금융 자문을 담당하여 한중 양자 간 관계 발전에 기여함. Ozoo 재단 (장학사업) 이사장.</p>
+<p>중국의 50대 부호. 중국의 최대 미디어 회사, Sun Seven Stars Entertainment & Media Group Limited의 창립자, 회장, 그리고 CEO. 미국 SEC(증권위원회)가 허가한 유일한 블록체인 기반 거래소, DBOT (Delaware Board of Trade Holdings Inc.)의 최대주주. Sun Media Group 의 전 회장이자 Shanda Group의 전 이사. Bruno와 그의 아내 (양란, 중국 톱스타)은 2016년 포브스지가 선정한 중국 최대 부호 리스트에 오름.</p>
 </div>
 
 <div id="chen" class="white-popup mfp-hide sans">
@@ -885,6 +900,20 @@ Private Sale
 <h4>W재단 Technology Adviser ((Managing Partner and Executive Chairman at Novum Capital)</h4>
 <br><br><br>
 <p>성공적인 창업가로서 동남 아시아에서 대형 소셜 게임 사이트인 Viwawa를 개발함. 베트남 최대의 모바일 POS 회사인 소프트페이 모바일을 공동 설립함. 국립싱가포르대학교 컴퓨터공학과에서 학사 학위를 취득함.</p>
+</div>
+
+<div id="jeremy" class="white-popup mfp-hide sans">
+<h3>JEREMY KHOO</h3>
+<h4>W재단 Business Development Adviser</h4>
+<br><br><br>
+<p>블록체인 전문가이자 성공적인 글로벌 사업가. VC가 투자한 3개의 벤처기업을 성공적으로 엑시트(EXIT)함. 현재 리테일 중심 iFashion그룹의 CEO이며 MC Payment의 SGX (싱가폴거래소) 상장을 추진 중. 다수의 블록체인 사업에 깊이 관여하고있으며 8개 회사를 위해 블록체인 토큰을 1 억달러 이상 판매 하는데 중요한 역할을 함.</p>
+</div>
+
+<div id="irwin" class="white-popup mfp-hide sans">
+<h3>IRWIN CHEE</h3>
+<h4>W재단 Business Development Adviser</h4>
+<br><br><br>
+<p>Novum Capital사의 수석 컨설턴트로서 블록체인 Application, ICO 컨설팅 및 Investor Relations 전문. 담당한 ICO 프로젝트들에 1억 달러 이상의 토큰판매를 성공.</p>
 </div>
 
 
