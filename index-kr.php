@@ -871,7 +871,7 @@ Private Sale
 <h3>유승규 교수 (SEONGGU RYU PH.D.)</h3>
 <h4>W재단 Adviser/Chief Relationship Officer (서경대학교 교수)</h4>
 <br><br><br>
-<p>삼성그룹의 전략 계획, 그룹 경영관리 컨설팅, 마케팅 분야에서 25년 경험 보유. 최근에는 삼성전자 미래전략기획실 전무로 근무. 현재 서경대학교 경영 대학 교수.</p>
+<p>삼성그룹의 전략기획, 경영컨설팅, 마케팅 관련 25년 경험 보유. 최근에는 삼성전자 마케팅전략그룹 상무로 근무. 현재 서경대학교 경영 대학 교수.</p>
 </div>
 
 <div id="chuljun" class="white-popup mfp-hide sans">
