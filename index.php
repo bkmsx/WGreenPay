@@ -659,7 +659,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <br>
         <div class="team-title">
           <h3>Bruno Wu</h3>
-          <h4>Director of Strategy, W-Foundation</h4>
+          <h4>Director of Strategy</h4>
         </div>
       </div>
       <div class="col-md-4 col-sm-4 v-pad">
@@ -693,7 +693,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <br>
         <div class="team-title">
           <h3>Jeremy Khoo</h3>
-          <h4>Business Development Adviser, W-Foundation</h4>
+          <h4>Business Development Adviser</h4>
         </div>
       </div>
       <div class="col-md-4 col-sm-4 v-pad">
@@ -701,7 +701,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <br>
         <div class="team-title">
           <h3>Irwin Chee</h3>
-          <h4>Business Development Adviser, W-Foundation</h4>
+          <h4>Business Development Adviser</h4>
         </div>
       </div>
       <div class="col-md-4 col-sm-4 v-pad">
