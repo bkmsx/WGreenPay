@@ -490,7 +490,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </section>
 <!------------ Token sale end ------------>
 
-<!------------ Media start ------------>
+<!------------ Media start 
 <section id="media">
   <div class="container">
     <h1>Media</h1>
