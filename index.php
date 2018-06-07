@@ -488,23 +488,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </section>
 <!------------ Token sale end ------------>
 
-<!------------ Media start 
+<!------------ Media start ------------>
 <section id="media">
   <div class="container">
     <h1>Media</h1>
     <div class="h-line" style="background:#001a3d;"></div>
     <div class="row">
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        <div class="media-logo">Logo</div>
+		<div class="media-logo"><a href="https://icobench.com/ico/w-green-pay" target="_blank"><img src="/img/media-icobench.png"></a></div>
       </div>
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        <div class="media-logo">Logo</div>
+        	<div class="media-logo"><a href="https://www.icoalert.com/?q=w%20green%20pay&is_v=1" target="_blank"><img src="/img/media-icoalert.png"></a></div>
       </div>
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        <div class="media-logo">Logo</div>
+        	<div class="media-logo"><a href="https://www.coinhills.com/ico/view/w-green-pay/" target="_blank"><img src="/img/media-coinhills.png"></a></div>
       </div>
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        <div class="media-logo">Logo</div>
+        	<div class="media-logo"><a href="https://www.trackico.io/ico/w-green-pay/" target="_blank"><img src="/img/media-trackico.png"></a></div>
       </div>
     </div>
   </div>
