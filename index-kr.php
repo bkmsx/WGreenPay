@@ -139,10 +139,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul id="menu">
 <li><a href="#about">소개</a></li>
 <li><a href="#features">특징</a></li>
-<li><a href="#token">토큰판매</a></li>
+<li><a href="#token">토큰정보</a></li>
 <li><a href="#media">미디어</a></li>
 <li><a href="#roadmap">로드맵</a></li>
 <li><a href="#team">팀</a></li>
+<li><a href="#advisers">명예고문</a></li>
 <li><a href="#contact">연락처</a></li>
 </ul>
 <div class="lng-container">
@@ -152,10 +153,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a href="" id="menuToggle" title="show menu"><span class="navClosed"></span></a>
 <a href="#about" onClick="closeSidebar(this)">소개</a>
 <a href="#features" onClick="closeSidebar(this)">특징</a>
-<a href="#token" onClick="closeSidebar(this)">토큰판매</a>
+<a href="#token" onClick="closeSidebar(this)">토큰정보</a>
 <a href="#media" onClick="closeSidebar(this)">미디어</a>
 <a href="#roadmap" onClick="closeSidebar(this)">로드맵</a>
 <a href="#team" onClick="closeSidebar(this)">팀</a>
+<a href="#advisers" onClick="closeSidebar(this)">명예고문</a>
 <a href="#contact" onClick="closeSidebar(this)">연락처</a>
 <div class="lng-mobile">
 <a href="index.php">한국어</a>
@@ -417,7 +419,7 @@ Private Sale
 <!------------ Token sale start ------------>
 <section id="token">
 <div class="container">
-<h1>토큰 판매</h1>
+<h1>토큰정보</h1>
 <div class="h-line"></div>
 <div class="col-md-4 token-graph">
 <img src="img/chart-tokensale.png" alt="">
@@ -731,10 +733,46 @@ Private Sale
 </div>
 </div>
 </div>
+<div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
+<section id="advisers">
+      <h1>명예고문 (W재단, HOOXI 캠페인)</h1>
+      <div class="h-line"></div>
+      <div class="row">
+        <div class="col-md-3 col-sm-3 v-pad">
+          <div class="team-img adviser-img"><img src="img/team-cho.jpg" alt=""></div>
+          <br>
+          <div class="team-title">
+            <h3>조동혁 회장</h3>
+            <h4>한솔케미칼</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 v-pad">
+          <div class="team-img adviser-img"><img src="img/team-im.jpg" alt=""></div>
+          <br>
+          <div class="team-title">
+            <h3>임종성 의원</h3>
+            <h4>대한민국 국회</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 v-pad">
+          <div class="team-img adviser-img"><img src="img/team-yoon-kwansuk.jpg" alt=""></div>
+          <br>
+          <div class="team-title">
+            <h3>윤관석 의원</h3>
+            <h4>대한민국 국회</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 v-pad">
+          <div class="team-img adviser-img"><img src="img/team-yoon-Ilsang.jpg" alt=""></div>
+          <br>
+          <div class="team-title">
+            <h3>윤일상 작곡가</h3>
+          </div>
+        </div>
+      </div>
+    </section>
 <div class="team-advisor">
-<h2>명예고문</h2>
-<br>
-<h4>W재단 명예고문단 링크</h4>
+<h4>W재단 HOOXI 캠페인에 자문과 조언을 주시는 160여명의 사회저명인사에 대한 자세한 정보를 보시려면 다음을 클릭하세요:</h4>
 <h4>한국어: <a href="http://www.gcrfund.org/honorary_advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/honorary_advisors/</a></h4>
 <h4>영어: <a href="http://www.gcrfund.org/en/honorary-advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/en/honorary-advisors/</a></h4>
 </div>

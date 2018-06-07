@@ -145,6 +145,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <li><a href="#media">Media</a></li>
       <li><a href="#roadmap">Roadmap</a></li>
       <li><a href="#team">Team</a></li>
+      <li><a href="#advisers">Advisers</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
     <div class="lng-container">
@@ -158,6 +159,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <a href="#media" onclick="closeSidebar(this)">Media</a>
       <a href="#roadmap" onclick="closeSidebar(this)">Roadmap</a>
       <a href="#team" onclick="closeSidebar(this)">Team</a>
+      <a href="#advisers" onclick="closeSidebar(this)">Advisers</a>
       <a href="#contact" onclick="closeSidebar(this)">Contact</a>
       <div class="lng-mobile">
         <a href="index-kr.php">KR</a>
@@ -732,10 +734,47 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </div>
+    <div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
+    <section id="advisers">
+      <h1>ADVISERS (W-Foundation, HOOXI Campaign)</h1>
+      <div class="h-line"></div>
+      <div class="row">
+        <div class="col-md-3 col-sm-3 v-pad">
+          <div class="team-img adviser-img"><img src="img/team-cho.jpg" alt=""></div>
+          <br>
+          <div class="team-title">
+            <h3>Cho, Donghyuk</h3>
+            <h4>Chairman, Hansol Chemical</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 v-pad">
+          <div class="team-img adviser-img"><img src="img/team-im.jpg" alt=""></div>
+          <br>
+          <div class="team-title">
+            <h3>Im, Jongseong</h3>
+            <h4>Member, National Assembly of Republic of Korea</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 v-pad">
+          <div class="team-img adviser-img"><img src="img/team-yoon-kwansuk.jpg" alt=""></div>
+          <br>
+          <div class="team-title">
+            <h3>Yoon, Kwansuk</h3>
+            <h4>Member, National Assembly of Republic of Korea</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 v-pad">
+          <div class="team-img adviser-img"><img src="img/team-yoon-Ilsang.jpg" alt=""></div>
+          <br>
+          <div class="team-title">
+            <h3>Yoon, Ilsang</h3>
+            <h4>Song Writer</h4>
+          </div>
+        </div>
+      </div>
+    </section>
     <div class="team-advisor">
-      <h2>Advisers</h2>
-      <br>
-      <h3>Link to honorary advisers on the W-Foundation website:</h3>
+      <h3>Please click on the link for more information on over 160 leaders and influential figures advising W-Foundation and HOOXI campaign:</h3>
       <h4>KOR: <a href="http://www.gcrfund.org/honorary_advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/honorary_advisors/</a></h4>
       <h4>ENG: <a href="http://www.gcrfund.org/en/honorary-advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/en/honorary-advisors/</a></h4>
     </div>
