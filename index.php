@@ -770,12 +770,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h3>Yoon, Ilsang</h3>
             <h4>Song Writer</h4>
           </div>
-        </div>
-      </div>
     </section>
     <div class="team-advisor">
-      <h3>Please click on the link for more information on over 160 leaders and influential figures advising W-Foundation and HOOXI campaign:</h3>
-      <h4>KOR: <a href="http://www.gcrfund.org/honorary_advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/honorary_advisors/</a></h4>
+      <h3>Please click on the link for more information on <br> over 160 leaders and influential figures advising <br> W-Foundation and HOOXI campaign:</h3>
+	    <h4>KOR: <a href="http://www.gcrfund.org/honorary_advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/honorary_advisors/</a></h4>
       <h4>ENG: <a href="http://www.gcrfund.org/en/honorary-advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/en/honorary-advisors/</a></h4>
     </div>
   </div>
