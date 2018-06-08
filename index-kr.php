@@ -772,12 +772,12 @@ Private Sale
       </div>
     </section>
 <div class="team-advisor">
-<h4>W재단 HOOXI 캠페인에 자문과 조언을 주시는 160여명의 사회저명인사에 대한 자세한 정보를 보시려면 다음을 클릭하세요:</h4>
+<h4>W재단 HOOXI 캠페인에 자문과 조언을 주시는 <br> 160여명의 사회저명인사에 대한 <br>자세한 정보를 보시려면 다음을 클릭하세요:</h4>
+<br>
 <h4>한국어: <a href="http://www.gcrfund.org/honorary_advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/honorary_advisors/</a></h4>
 <h4>영어: <a href="http://www.gcrfund.org/en/honorary-advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/en/honorary-advisors/</a></h4>
-</div>
-</div>
-</section>
+    </div>
+	</section>	  
 <!------------ Team end ------------>
 
 <!------------ Contact start ------------>
