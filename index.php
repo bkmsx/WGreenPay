@@ -769,7 +769,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="team-title">
             <h3>Yoon, Ilsang</h3>
             <h4>Song Writer</h4>
-    </section>
+	<br>	  
     <div class="team-advisor">
       <h3>Please click on the link for more information on <br> over 160 leaders and influential figures advising <br> W-Foundation and HOOXI campaign:</h3>
 	    <br>
