@@ -735,7 +735,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </div>
     <div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
-    <section id="advisers">
+    <section id="advisers" style="padding-bottom:60px;">
       <h1>ADVISERS (W-Foundation, HOOXI Campaign)</h1>
       <div class="h-line"></div>
       <div class="row">

@@ -734,7 +734,7 @@ Private Sale
 </div>
 </div>
 <div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
-<section id="advisers">
+<section id="advisers" style="padding-bottom:60px;">
       <h1>명예고문 (W재단, HOOXI 캠페인)</h1>
       <div class="h-line"></div>
       <div class="row">
