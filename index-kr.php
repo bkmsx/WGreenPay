@@ -173,6 +173,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <h1><span style="color:#87b44c;">W Green Pay</span><br><br>HOOXI 캠페인에 참여하세요!</h1>
 <br>  
 <h4>가장 혁신적인 온실가스 감축 플랫폼이 출시됩니다.</h4>
+<h4>지금 본인의 계정을 등록하고 20% 할인 혜택을 받으세요! </h4>
 <br><br>
 <h4 style="font-weight:700;"><span style="color:#87b44c;">공개 판매가 곧 시작됩니다! (하기 카운트 다운):</h4>
 <br><br>
@@ -460,11 +461,11 @@ Private Sale
 </tr>
 <tr valign="top">
 <td class="left-table">비공개 판매일정</td>
-<td>2018년 5월 14일-5월25일</td>
+<td>2018년 5월 14일-7월26일</td>
 </tr>
 <tr valign="top">
 <td class="left-table">공개 판매일정</td>
-<td>2018년 6월 26일-7월31일</td>
+<td>2018년 7월 27일-8월27일</td>
 </tr>
 <tr valign="top">
 <td class="left-table">공개 판매 특가 (할인율)</td>
@@ -480,7 +481,7 @@ Private Sale
 </tr>
 <tr valign="top">
 <td class="left-table" style="padding-bottom:40px;">매각 제한 기간</td>
-<td style="padding-bottom:40px;">발행자와 비공개 투자자가 보유한 W Green Pay는 공개 판매 종료 일자인 2018년 7월 31일부터 6개월 동안 매각이 제한됩니다.</td>
+<td style="padding-bottom:40px;">발행자와 비공개 투자자가 보유한 W Green Pay는 공개 판매 종료 일자인 2018년 8월 27일부터 6개월 동안 매각이 제한됩니다.</td>
 </tr>
 </table>
 </div>
@@ -488,26 +489,178 @@ Private Sale
 </section>
 <!------------ Token sale end ------------>
 
-<!------------ Media start
+<!------------ Media start ------------>
 <section id="media">
-<div class="container">
-<h1>Media</h1>
-<div class="h-line" style="background:#001a3d;"></div>
-<div class="row">
-<div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-<div class="media-logo">Logo</div>
-</div>
-<div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-<div class="media-logo">Logo</div>
-</div>
-<div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-<div class="media-logo">Logo</div>
-</div>
-<div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-<div class="media-logo">Logo</div>
-</div>
-</div>
-</div>
+  <div class="container">
+    <h1>미디어</h1>
+    <div class="h-line" style="background:#001a3d;"></div>
+    <!--<div class="row">
+      <div class="flex-container">
+        <div class="media-slider">
+          <ul class="slides">
+            <li>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+            </li>
+            <li>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+            </li>
+            <li>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+            </li>
+            <li>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div style="background:#00bc7b; width:100%; height:1px; margin:60px 0;"></div>-->
+    <h2>Articles</h2>
+    <br>
+    <br>
+    <div class="row">
+      <div class="flex-container">
+        <div class="articles-slider">
+          <ul class="slides">
+            <li>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>JTBC</p>
+                  <br>
+                  <h4>더블유재단 "대국민 온실가스 감축 운동 확산 위해 'W Green Pay' 론칭"</h4>
+                  <br>
+                  <a href="http://news.jtbc.joins.com/article/article.aspx?news_id=NB11637236" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>JOONGANG ILBO</p>
+                  <br>
+                  <h4>더블유재단 ”대국민 온실가스 감축 운동 확산 위해 ‘W Green Pay’ 론칭”</h4>
+                  <br>
+                  <a href="http://mnews.joins.com/article/22636110#home" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>SBSCNBC</p>
+                  <br>
+                  <h4>더블유재단, 온실가스 감축 위한 세계 최초 블록체인 기반 W Green Pay 런칭</h4>
+                  <br>
+                  <a href="https://nulltx.com/koreas-government-backed-hooxi-campaign-issues-w-green-pay-wgp-first-blockchain-enabled-reward-system-for-ghg-reduction-by-individuals/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>SEOUL NEWSPAPER</p>
+                  <br>
+                  <h4>온실가스 감축 위한 HOOXI 캠페인 보상 ‘ W Green pay’</h4>
+                  <br>
+                  <a href="http://m.seoul.co.kr/news/newsView.php?cp=seoul&id=20180529500100" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>BLOCKMEDIA</p>
+                  <br>
+                  <h4>W재단, "온실가스 감축 운동 확산 위해 'W Green Pay' 론칭"</h4>
+                  <br>
+                  <a href="https://www.blockmedia.co.kr/news/article_view/?gCode=AB100&idx=1632" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>HANKYUNG</p>
+                  <br>
+                  <h4>W재단, 세계 최초 블록체인 기반 온실가스 감축노력 리워드 시스템 ‘W Green Pay’ 런칭</h4>
+                  <br>
+                  <a href="http://news.hankyung.com/article/201805189484a" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>HERALD CORPORATION</p>
+                  <br>
+                  <h4>W재단, 세계 최초 블록체인 기반 온실가스 감축 'WGP' 런칭</h4>
+                  <br>
+                  <a href="http://news.heraldcorp.com/view.php?ud=20180521000217 " target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>DONG-A ILBO</p>
+                  <br>
+                  <h4>더블유재단, 블록체인 기반 국민 리워드 시스템 ‘W Green Pay’ 선보인다</h4>
+                  <br>
+                  <a href="http://bizn.donga.com/3/all/20180521/90175484/2" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>MONEY TODAY</p>
+                  <br>
+                  <h4>W재단, 세계 최초 온실가스 리워드 시스템 'W Green pay' 론칭</h4>
+                  <br>
+                  <a href="http://news.mt.co.kr/mtview.php?no=2018052310511272827" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>NAVER</p>
+                  <br>
+                  <h4>온실 가스 감축을 위한 글로벌 솔루션 'W Green Pay(WGP)'</h4>
+                  <br>
+                  <a href="http://m.news.naver.com/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0003950033" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+            </li>
+          </ul>
+          <div class="articles-viewall"><a href="media-kr.html" target="_blank" class="btn white-btn articles-btn">View All</a></div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="row" style="margin-top:80px;">
+      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+		<div class="media-logo"><a href="https://icobench.com/ico/w-green-pay" target="_blank"><img src="/img/media-icobench.png"></a></div>
+      </div>
+      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+        	<div class="media-logo"><a href="https://www.icoalert.com/?q=w%20green%20pay&is_v=1" target="_blank"><img src="/img/media-icoalert.png"></a></div>
+      </div>
+      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+        	<div class="media-logo"><a href="https://www.coinhills.com/ico/view/w-green-pay/" target="_blank"><img src="/img/media-coinhills.png"></a></div>
+      </div>
+      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+        	<div class="media-logo"><a href="https://www.trackico.io/ico/w-green-pay/" target="_blank"><img src="/img/media-trackico.png"></a></div>
+      </div>
+    </div>
+  </div>
 </section>
 <!------------ Media end ------------>
 
@@ -963,7 +1116,7 @@ jQuery(function($){
        //var NY = Math.round((new Date('1/01/2015 00:00:01')).getTime()/1000);
        $('#token_sale').flipcountdown({
                                       size:'md',
-                                      beforeDateTime:'6/26/2018 00:00:01'
+                                      beforeDateTime:'7/27/2018 00:00:01'
                                       /*tick:function(){
                                        var nol = function(h){
                                        return h>9?h:'0'+h;
@@ -1027,18 +1180,33 @@ $(function() {
                                           });
                                       </script>
                                       
-                                      <!-- Add flexslider -->
-                                      <script src="js/jquery.flexslider-min.js"></script>
-                                      <script>
-                                      $(document).ready(function () {
-                                                        $('.flexslider').flexslider({
-                                                                                    animation: 'fade',
-                                                                                    controlsContainer: '.flexslider',
-                                                                                    slideshowSpeed: 3500
-                                                                                    });
-                                                        });
-                                      
-                                      </script>
+ <!-- Add flexslider -->
+<script src="js/jquery.flexslider-min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('.flexslider').flexslider({
+            animation: 'fade',
+            controlsContainer: '.flexslider',
+			slideshowSpeed: 3500
+        });
+    });
+	
+	$(document).ready(function () {
+        $('.media-slider').flexslider({
+            animation: 'slide',
+            controlsContainer: '.media-slider',
+			slideshowSpeed: 6000
+        });
+    });
+	
+	$(document).ready(function () {
+        $('.articles-slider').flexslider({
+            animation: 'none',
+            controlsContainer: '.articles-slider',
+        });
+    });
+	
+</script>
                                       
                                       <!-- Add magnifique popup -->
                                       

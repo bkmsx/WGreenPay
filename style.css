@@ -57,6 +57,14 @@ h4 {font-family: 'Muli', sans-serif; font-size:18px; color:#fff; font-weight:300
 	background:#fff;
 }
 
+.articles-btn {padding:11px 35px;}
+
+.articles-viewall {
+	position:absolute; 
+	top:-50px; 
+	right:15px;
+}
+
 a:hover {text-decoration:none;}
 a:focus {outline: none !important; text-decoration:none;}
 a {color:inherit;}
@@ -398,6 +406,18 @@ td {
 	color:#333;
 	font-size:36px;
 }
+
+.media-articles {
+	height:280px;
+	width:100%;
+	padding:30px;
+	box-sizing:border-box;
+	background:#008452;
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+}
+
+.media-articles h4 {font-weight:700;}
 
 #roadmap {
 	background: url(img/bg-roadmap-top.png) top left no-repeat, 

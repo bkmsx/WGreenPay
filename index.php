@@ -174,6 +174,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="home-container">
     <h1>JOIN <span style="color:#87b44c;">W GREEN PAY</span> HOOXI CAMPAIGN</h1>
     <h4>The most innovative social carbon credit platform to be launched.</h4>
+    <h4>Participate now and enjoy 20% public sale bonus!</h4>
     <br><br>
     <h4 style="font-weight:700;"><span style="color:#87b44c;">PUBLIC SALE</span> STARTS IN:</h4>
     <br><br>
@@ -461,11 +462,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table">Private Sale Date</td>
-              <td>14th to 25th of May, 2018</td>
+              <td>14th of May to 26th of July, 2018</td>
             </tr>
             <tr valign="top">
               <td class="left-table">Public Sale Date</td>
-              <td>26th of June to 31st of July, 2018</td>
+              <td>27th of July to 27th of August, 2018</td>
             </tr>
             <tr valign="top">
               <td class="left-table">Bonus for Public Sale</td>
@@ -481,7 +482,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table" style="padding-bottom:40px;">Lock-up Period</td>
-              <td style="padding-bottom:40px;">W Green Pay held by the Team and Private Sale investors shall be subjected to a lock-up period of six (6) months from the end of public sale (31st of July, 2018)</td>
+              <td style="padding-bottom:40px;">W Green Pay held by the Team and Private Sale investors shall be subjected to a lock-up period of six (6) months from the end of public sale (27th of August, 2018)</td>
             </tr>
         </table>
       </div>
@@ -494,7 +495,159 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="container">
     <h1>Media</h1>
     <div class="h-line" style="background:#001a3d;"></div>
+    <!--<div class="row">
+      <div class="flex-container">
+        <div class="media-slider">
+          <ul class="slides">
+            <li>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+            </li>
+            <li>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+            </li>
+            <li>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+            </li>
+            <li>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <div style="width:100%; height:400px; background:black;"></div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div style="background:#00bc7b; width:100%; height:1px; margin:60px 0;"></div>-->
+    <h2>Articles</h2>
+    <br>
+    <br>
     <div class="row">
+      <div class="flex-container">
+        <div class="articles-slider">
+          <ul class="slides">
+            <li>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>MARKETINSIDER</p>
+                  <br>
+                  <h4>Korea's Largest Government-backed HOOXI Campaign Ventures into Blockchain</h4>
+                  <br>
+                  <a href="http://markets.businessinsider.com/news/stocks/korea-s-largest-government-backed-hooxi-campaign-ventures-into-blockchain-1024702109" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>COINTELEGRAPH</p>
+                  <br>
+                  <h4>Korea’s Government-backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System For GHG Reduction by Individuals</h4>
+                  <br>
+                  <a href="https://cointelegraph.com/press-releases/koreas-government-backed-hooxi-campaign-issues-w-green-pay-wgp-first-blockchain-enabled-reward-system-for-ghg-reduction-by-individuals" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>NULLTX</p>
+                  <br>
+                  <h4>Korea’s Government-backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System For GHG Reduction by Individuals</h4>
+                  <br>
+                  <a href="https://nulltx.com/koreas-government-backed-hooxi-campaign-issues-w-green-pay-wgp-first-blockchain-enabled-reward-system-for-ghg-reduction-by-individuals/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>YAHOO FINANCE</p>
+                  <br>
+                  <h4>Korea’s Government-backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System For GHG Reduction by Individuals</h4>
+                  <br>
+                  <a href="https://finance.yahoo.com/news/koreas-government-backed-hooxi-campaign-130000805.html" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>BITCOINEXCHANGEGUIDE</p>
+                  <br>
+                  <h4>Korean Government-backed HOOXI WPG Campaign Launches into Blockchain</h4>
+                  <br>
+                  <a href="https://bitcoinexchangeguide.com/korean-government-backed-hooxi-wpg-campaign-launches-into-blockchain/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>KPLCTV</p>
+                  <br>
+                  <h4>Korea's Largest Government-backed HOOXI Campaign Ventures into Blockchain</h4>
+                  <br>
+                  <a href="http://www.kplctv.com/story/38203276/koreas-largest-government-backed-hooxi-campaign-ventures-into-blockchain" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>ABCFOXMANTANA</p>
+                  <br>
+                  <h4>Korea's Largest Government-backed HOOXI Campaign Ventures into Blockchain</h4>
+                  <br>
+                  <a href="http://www.abcfoxmontana.com/story/38203276/koreas-largest-government-backed-hooxi-campaign-ventures-into-blockchain" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>FOX14TV</p>
+                  <br>
+                  <h4>Korean Government-backed HOOXI WPG Campaign Launches into Blockchain</h4>
+                  <br>
+                  <a href="http://www.fox14tv.com/story/38203276/koreas-largest-government-backed-hooxi-campaign-ventures-into-blockchain" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>FINDCLIMATEANSWERS</p>
+                  <br>
+                  <h4>Korea’s Government-Backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System for GHG Reduction by Individuals</h4>
+                  <br>
+                  <a href="http://www.findclimateanswers.com/koreas-government-backed-hooxi-campaign-issues-w-green-pay-wgp-first-blockchain-enabled-reward-system-for-ghg-reduction-by-individuals/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <p>AFP</p>
+                  <br>
+                  <h4>W Green Pay (WGP) - The Global Solution to Greenhouse Gas (GHG) Reduction</h4>
+                  <br>
+                  <a href="https://www.afp.com/en/news/1314/w-green-pay-wgp-global-solution-greenhouse-gas-ghg-reduction-201805300056201" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+            </li>
+          </ul>
+          <div class="articles-viewall"><a href="media.html" target="_blank" class="btn white-btn articles-btn">View All</a></div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="row" style="margin-top:80px;">
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
 		<div class="media-logo"><a href="https://icobench.com/ico/w-green-pay" target="_blank"><img src="/img/media-icobench.png"></a></div>
       </div>
@@ -965,7 +1118,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		//var NY = Math.round((new Date('1/01/2015 00:00:01')).getTime()/1000);
 		$('#token_sale').flipcountdown({
 			size:'md',
-			beforeDateTime:'6/26/2018 00:00:01'
+			beforeDateTime:'7/27/2018 00:00:01'
 			/*tick:function(){
 				var nol = function(h){
 					return h>9?h:'0'+h;
@@ -1037,6 +1190,21 @@ $(function() {
             animation: 'fade',
             controlsContainer: '.flexslider',
 			slideshowSpeed: 3500
+        });
+    });
+	
+	$(document).ready(function () {
+        $('.media-slider').flexslider({
+            animation: 'slide',
+            controlsContainer: '.media-slider',
+			slideshowSpeed: 6000
+        });
+    });
+	
+	$(document).ready(function () {
+        $('.articles-slider').flexslider({
+            animation: 'none',
+            controlsContainer: '.articles-slider',
         });
     });
 	

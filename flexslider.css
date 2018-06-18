@@ -31,59 +31,12 @@
     -webkit-backface-visibility: hidden;
 }
 
-.mobile-slider .slides > li {
+.media-slider .slides > li {
     display: none;
     -webkit-backface-visibility: hidden;
 }
 
-.location-slider .slides > li {
-    display: none;
-    -webkit-backface-visibility: hidden;
-}
-
-.location-slider-2 .slides > li {
-    display: none;
-    -webkit-backface-visibility: hidden;
-}
-
-.testi-slider .slides > li {
-    display: none;
-    -webkit-backface-visibility: hidden;
-}
-
-.hotel-slider .slides > li {
-    display: none;
-    -webkit-backface-visibility: hidden;
-}
-
-.room-slider .slides > li {
-    display: none;
-    -webkit-backface-visibility: hidden;
-}
-
-.room-slider-2 .slides > li {
-    display: none;
-    -webkit-backface-visibility: hidden;
-}
-
-.room-slider-3 .slides > li {
-    display: none;
-    -webkit-backface-visibility: hidden;
-}
-
-.room-slider-4 .slides > li {
-    display: none;
-    -webkit-backface-visibility: hidden;
-}
-
-
-.room-slider-5 .slides > li {
-    display: none;
-    -webkit-backface-visibility: hidden;
-}
-
-
-.room-slider-6 .slides > li {
+.articles-slider .slides > li {
     display: none;
     -webkit-backface-visibility: hidden;
 }
@@ -189,52 +142,52 @@ html[xmlns] .slides { display: block; }
 	background: url(img/arrow-left.png) no-repeat ;
 }
 
-.location-slider .flex-direction-nav .flex-next {
+.media-slider .flex-direction-nav .flex-next {
     right: -30px;
-	bottom:55%;
-    width: 28px;
+	bottom:45%;
+    width: 28px; 
     height: 54px;
 	z-index:5000;
     -webkit-border-radius: 3px 0 0 3px;
     -moz-border-radius: 3px 0 0 3px;
     border-radius: 3px 0 0 3px;
-	background: url(img/arrow-r.png) no-repeat ;
+	background: url(img/arrow-right.png) no-repeat ;
 }
 
-.location-slider .flex-direction-nav .flex-prev {
+.media-slider .flex-direction-nav .flex-prev {
     left: -30px;
-	bottom:55%;
+	bottom:45%;
     width: 28px;
     height: 54px;
 	z-index:5000;
     -webkit-border-radius: 0 3px 3px 0;
     -moz-border-radius: 0 3px 3px 0;
     border-radius: 0 3px 3px 0;
-	background: url(img/arrow-l.png) no-repeat ;
+	background: url(img/arrow-left.png) no-repeat ;
 }
 
-.location-slider-2 .flex-direction-nav .flex-next {
-    right: -30px;
-	bottom:55%;
-    width: 28px;
-    height: 54px;
+.articles-slider .flex-direction-nav .flex-next {
+    right: 190px;
+	top: -50px;
+    width: 45px; 
+    height: 45px;
 	z-index:5000;
     -webkit-border-radius: 3px 0 0 3px;
     -moz-border-radius: 3px 0 0 3px;
     border-radius: 3px 0 0 3px;
-	background: url(img/arrow-r.png) no-repeat ;
+	background: url(img/arrow-circle-right.png) no-repeat ;
 }
 
-.location-slider-2 .flex-direction-nav .flex-prev {
-    left: -30px;
-	bottom:55%;
-    width: 28px;
-    height: 54px;
+.articles-slider .flex-direction-nav .flex-prev {
+    right: 245px;
+	top:-50px;
+    width: 45px;
+    height: 45px;
 	z-index:5000;
     -webkit-border-radius: 0 3px 3px 0;
     -moz-border-radius: 0 3px 3px 0;
     border-radius: 0 3px 3px 0;
-	background: url(img/arrow-l.png) no-repeat ;
+	background: url(img/arrow-circle-left.png) no-repeat ;
 }
 
 
@@ -260,87 +213,18 @@ html[xmlns] .slides { display: block; }
     margin: 0 0 0 -10px;
 }
 
-.mobile-slider .flex-control-nav {
+.media-slider .flex-control-nav {
     position: absolute;
-    bottom: 50px;
-	left:40%;
+    bottom: -30px;
+	left:47%;
     text-align: center;
     margin: 0 0 0 -10px;
 }
 
-.testi-slider .flex-control-nav {
-    position: absolute;
-    bottom: 25px;
-    right: 0;
-    text-align: center;
-    margin: 0 0 0 -10px;
-}
-
-.hotel-slider .flex-control-nav {
-    position: absolute;
-	bottom:-50px;
-	left:48%;
-    text-align: center;
-    margin: 0 0 0 -10px;
-}
-
-.room-slider .flex-control-nav {
-    position: absolute;
-	bottom:-35px;
-	left:45%;
-    text-align: center;
-    margin: 0 0 0 -10px;
-}
-
-.room-slider-2 .flex-control-nav {
-    position: absolute;
-	bottom:-35px;
-	left:45%;
-    text-align: center;
-    margin: 0 0 0 -10px;
-}
-
-.room-slider-3 .flex-control-nav {
-    position: absolute;
-	bottom:-35px;
-	left:45%;
-    text-align: center;
-    margin: 0 0 0 -10px;
-}
-
-.room-slider-4 .flex-control-nav {
-    position: absolute;
-	bottom:-35px;
-	left:45%;
-    text-align: center;
-    margin: 0 0 0 -10px;
-}
-
-.room-slider-5 .flex-control-nav {
-    position: absolute;
-	bottom:-35px;
-	left:45%;
-    text-align: center;
-    margin: 0 0 0 -10px;
-}
-
-.room-slider-6 .flex-control-nav {
-    position: absolute;
-	bottom:-35px;
-	left:45%;
-    text-align: center;
-    margin: 0 0 0 -10px;
-}
-
-
-
-.location-slider .flex-control-nav {
-	display:none;
+.articles-slider .flex-control-nav {
+    display:none;
 }
  
-.location-slider-2 .flex-control-nav {
-	display:none;
-} 
  
 .flex-control-nav li {
     display: inline-block;
@@ -389,15 +273,6 @@ html[xmlns] .slides { display: block; }
 	background:#bbbbbb;
  
 }
- 
-.testi-slider .flex-control-paging li a.flex-active {
-    background-color:#da2223;
-	border: none;
-    -webkit-box-shadow: none;
-    -moz-box-shadow: none;
-    box-shadow: none;
-}
-
 
 
 
