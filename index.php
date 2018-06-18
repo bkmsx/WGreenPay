@@ -174,7 +174,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="home-container">
     <h1>JOIN <span style="color:#87b44c;">W GREEN PAY</span> HOOXI CAMPAIGN</h1>
     <h4>The most innovative social carbon credit platform to be launched.</h4>
-    <h4>Participate now and enjoy 20% public sale bonus!</h4>
     <br><br>
     <h4 style="font-weight:700;"><span style="color:#87b44c;">PUBLIC SALE</span> STARTS IN:</h4>
     <br><br>
