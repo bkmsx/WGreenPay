@@ -456,7 +456,7 @@ Private Sale
 </tr>
 <tr valign="top">
 <td class="left-table">토큰 가격</td>
-<td>토큰 당 20달러</td>
+<td>토큰 당 2달러</td>
 </tr>
 <tr valign="top">
 <td class="left-table">비공개 판매일정</td>
@@ -465,10 +465,6 @@ Private Sale
 <tr valign="top">
 <td class="left-table">공개 판매일정</td>
 <td>2018년 7월 27일-8월27일</td>
-</tr>
-<tr valign="top">
-<td class="left-table">공개 판매 특가 (할인율)</td>
-<td>초기 토큰 천만 개 - 20% 할인판매 후 소진시, 잔량  토큰 - 10 % 할인판매</td>
 </tr>
 <tr valign="top">
 <td class="left-table">소프트 캡</td>
@@ -708,7 +704,7 @@ Private Sale
 <div class="timeline-content">
 <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
 <div class="timeline-detail">
-<h3 class="timeline-title">2018년 5월</h3>
+<h3 class="timeline-title">2018년 5월-7월</h3>
 <br>
 <ul class="roadmap">
 <li><h4>W Green Pay 비공개판매</h4></li>
@@ -723,7 +719,7 @@ Private Sale
 <div class="timeline-content">
 <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
 <div class="timeline-detail">
-<h3 class="timeline-title">2018년 6월-7월</h3>
+<h3 class="timeline-title">2018년 7월-8월</h3>
 <br>
 <ul class="roadmap">
 <li><h4>W Green Pay 공개판매</h4></li>
