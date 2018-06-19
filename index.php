@@ -174,7 +174,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="home-container">
     <h1>JOIN <span style="color:#87b44c;">W GREEN PAY</span> HOOXI CAMPAIGN</h1>
     <h4>The most innovative social carbon credit platform to be launched.</h4>
-    <h4>Participate now and enjoy 20% public sale bonus!</h4>
     <br><br>
     <h4 style="font-weight:700;"><span style="color:#87b44c;">PUBLIC SALE</span> STARTS IN:</h4>
     <br><br>
@@ -458,7 +457,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table">Token Price</td>
-              <td>US$20 per token</td>
+              <td>US$2 per token</td>
             </tr>
             <tr valign="top">
               <td class="left-table">Private Sale Date</td>
@@ -467,10 +466,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <tr valign="top">
               <td class="left-table">Public Sale Date</td>
               <td>27th of July to 27th of August, 2018</td>
-            </tr>
-            <tr valign="top">
-              <td class="left-table">Bonus for Public Sale</td>
-              <td>20% - First 10 million tokens, 10% - Remaining tokens</td>
             </tr>
             <tr valign="top">
               <td class="left-table">Soft Cap</td>
@@ -710,7 +705,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">May 2018</h3>
+                <h3 class="timeline-title">May - Jul 2018</h3>
                 <br>
                 <ul class="roadmap">
                   <li><h4>W Green Pay Private Sale</h4></li>
@@ -725,7 +720,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">Jun - Jul 2018</h3>
+                <h3 class="timeline-title">Jul - Aug 2018</h3>
                 <br>
                 <ul class="roadmap">
                   <li><h4>W Green Pay Public Sale</h4></li>
