@@ -489,47 +489,46 @@ Private Sale
   <div class="container">
     <h1>미디어</h1>
     <div class="h-line" style="background:#001a3d;"></div>
-    <!--<div class="row">
+    <div class="row">
       <div class="flex-container">
         <div class="media-slider">
-          <ul class="slides">
+          <ul class="slides" style="text-align:center;">
             <li>
               <div class="col-md-6 col-sm-6 v-pad">
-                <div style="width:100%; height:400px; background:black;"></div>
+                <a href="https://www.youtube.com/watch?v=VB2oOM2MlcQ" class="video-pop-up"><img src="img/video-thumb-1.jpg" alt=""></a>
+                <br><br>
+                <h4>대국민온실가스감축운동 선포식</h4>
               </div>
               <div class="col-md-6 col-sm-6 v-pad">
-                <div style="width:100%; height:400px; background:black;"></div>
+                <a href="https://www.youtube.com/watch?v=QXNmaJxk0Nc" class="video-pop-up"><img src="img/video-thumb-2.jpg" alt=""></a>
+                <br><br>
+                <h4>Beautiful World by W-Foundation</h4>
               </div>
             </li>
             <li>
               <div class="col-md-6 col-sm-6 v-pad">
-                <div style="width:100%; height:400px; background:black;"></div>
+                <a href="https://www.youtube.com/watch?v=0KNCErbpYvc" class="video-pop-up"><img src="img/video-thumb-3.jpg" alt=""></a>
+                <br><br>
+                <h4>Talk about Love by W-Foundation</h4>
               </div>
               <div class="col-md-6 col-sm-6 v-pad">
-                <div style="width:100%; height:400px; background:black;"></div>
-              </div>
-            </li>
-            <li>
-              <div class="col-md-6 col-sm-6 v-pad">
-                <div style="width:100%; height:400px; background:black;"></div>
-              </div>
-              <div class="col-md-6 col-sm-6 v-pad">
-                <div style="width:100%; height:400px; background:black;"></div>
+                <a href="https://www.youtube.com/watch?v=j47MC3V9qMM" class="video-pop-up"><img src="img/video-thumb-4.jpg" alt=""></a>
+                <br><br>
+                <h4>Together As One by W-Foundation</h4>
               </div>
             </li>
             <li>
               <div class="col-md-6 col-sm-6 v-pad">
-                <div style="width:100%; height:400px; background:black;"></div>
-              </div>
-              <div class="col-md-6 col-sm-6 v-pad">
-                <div style="width:100%; height:400px; background:black;"></div>
+                <a href="https://www.youtube.com/watch?v=SxTATUzroa0" class="video-pop-up"><img src="img/video-thumb-5.jpg" alt=""></a>
+                <br><br>
+                <h4>대국민온실가스감축운동 위원회 발대식</h4>
               </div>
             </li>
           </ul>
         </div>
       </div>
     </div>
-    <div style="background:#00bc7b; width:100%; height:1px; margin:60px 0;"></div>-->
+    <div style="background:#00bc7b; width:100%; height:1px; margin:60px 0;"></div>
     <h2>Articles</h2>
     <br>
     <br>
@@ -1216,6 +1215,29 @@ $(function() {
                                                         
                                                         });
                                       </script>
+                                      
+ <!-- Add video popup -->
+<script>
+    $(document).ready(function () {
+        $('.video-pop-up').magnificPopup({
+			type: 'iframe',
+		});
+
+		$('a.gallery').magnificPopup({
+			type: 'image',
+			gallery: {
+				enabled: true,
+				navigateByImgClick: true,
+				preload: [0,1]
+			},
+			image: {
+				titleSrc: 'title',
+				tError: 'The image could not be loaded.',
+			}
+		});
+		
+    });
+</script>
                                       
                                       <script>
                                       $(document).ready(function () {

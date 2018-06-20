@@ -123,7 +123,7 @@ html[xmlns] .slides { display: block; }
 	bottom:50%;
     width: 28px; 
     height: 54px;
-	z-index:5000;
+	z-index:900;
     -webkit-border-radius: 3px 0 0 3px;
     -moz-border-radius: 3px 0 0 3px;
     border-radius: 3px 0 0 3px;
@@ -135,7 +135,7 @@ html[xmlns] .slides { display: block; }
 	bottom:50%;
     width: 28px;
     height: 54px;
-	z-index:5000;
+	z-index:900;
     -webkit-border-radius: 0 3px 3px 0;
     -moz-border-radius: 0 3px 3px 0;
     border-radius: 0 3px 3px 0;
@@ -243,7 +243,7 @@ html[xmlns] .slides { display: block; }
     -webkit-border-radius: 12px;
     -moz-border-radius: 12px;
     border-radius: 12px;
-	z-index:5000;
+	z-index:900;
 	border:none;
 	background:#000;
  
@@ -257,22 +257,6 @@ html[xmlns] .slides { display: block; }
     box-shadow: none;
 }
 
-.testi-slider .flex-control-paging li a {
-	display:block;
-    cursor: pointer;
-    text-indent: -9999px;
-    width: 12px;
-    height: 12px;
-    margin: 0 6px;
-	position:relative;
-    -webkit-border-radius: 12px;
-    -moz-border-radius: 12px;
-    border-radius: 12px;
-	z-index:5000;
-	border:none;
-	background:#bbbbbb;
- 
-}
 
 
 
