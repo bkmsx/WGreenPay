@@ -210,7 +210,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <br>
     <ul class="home-btn">
       <li><a href="#participateform" class="open-popup-link btn">Participate</a></li>
-      <li><a href="WGreenPay-whitepaper-v2.0.pdf" target="_blank" class="btn">Whitepaper</a></li>
+      <li><a href="WPay-whitepaper-v3.3.pdf" target="_blank" class="btn">Whitepaper</a></li>
     </ul>
   </div>
 </div>
@@ -240,7 +240,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="h-line"></div>
         <h1>W <span style="color:#87b44c;">Green Pay</span></h1>
         <br>
-        <h4>W Green Pay ("WGP") is an ERC20-compliant token that operates on the Ethereum blockchain. The aim of W Green Pay is to increase the public’s participation in GHG (Greenhouse Gas) reduction. W Green Pay will provide the means of incentivizing the public for their GHG reduction efforts.</h4>
+        <h4>W Green Pay ("WGP") is a Stellar-compliant token that operates on the Stellar blockchain. The aim of W Green Pay is to increase the public’s participation in GHG (Greenhouse Gas) reduction. W Green Pay will provide the means of incentivizing the public for their GHG reduction efforts.</h4>
         <br>
         <h4>The HOOXI App will serve as the platform for users to be rewarded by completing GHG reduction tasks.</h4>
         <br>
@@ -425,9 +425,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="img/chart-tokensale.png" alt="">
         <br>
         <br>
-        <p>The total number of W Green Pay issued will remain constant at 100 million tokens.</p>
+        <p>The total number of W Green Pay issued will remain constant at 1 billion tokens.</p>
         <br>
-        <p>Of the total 100 million W Green Pay, 20 million W Green Pay (20%) will remain without sale to the W Green Pay issuer, 20 million (20%) W Green Pay will be allocated to HOOXI App as a payment of reward to HOOXI Campaign participants, and the remaining 60 million (60%) W Green Pay will be open for private and public sale.</p>
+        <p>Of the total 1 billion WGP, only 200 million WGP (20%) will be open for private and public sale, and 800 million (80%) WGP will remain without sale at this ICO event. The use of the 800million unsold WGP is as following:</p>
+        <ul>
+          <li>200 million (20%): held by the WGP issuer (lock-up for period of six (6) months from the end of public sale)</li>
+          <li>200 million (20%): allocated to HOOXI App to provide as reward to HOOXI Campaign participants</li>
+          <li>400 million (40%): reserved for future sale (lock-up for period of six (6) months from the end of public sale)</li>
+        </ul>
       </div>
       <div class="col-md-8 token-table">
         <table>
@@ -441,7 +446,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table">Platform</td>
-              <td>ERC20</td>
+              <td>Stellar</td>
             </tr>
             <tr valign="top">
               <td class="left-table">Token Decimals</td>
@@ -449,11 +454,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table">Token Supply</td>
-              <td>Fixed supply of 100 million, 60 million for sale</td>
+              <td>Fixed supply of 1 billion, 200 million for sale</td>
             </tr>
             <tr valign="top">
               <td class="left-table">Currency Accepted</td>
-              <td>ETH / BTC / USD</td>
+              <td>XLM / ETH / BTC / USD</td>
             </tr>
             <tr valign="top">
               <td class="left-table">Token Price</td>
@@ -473,7 +478,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table">Hard Cap</td>
-              <td>100 million tokens sold or distributed</td>
+              <td>200 million WGP</td>
             </tr>
             <tr valign="top">
               <td class="left-table" style="padding-bottom:40px;">Lock-up Period</td>
@@ -795,6 +800,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
       <div class="col-md-4 col-sm-4 v-pad">
+        <a href="#kyung" class="open-popup-link"><div class="team-img"><img src="img/team-kyeong-keun-hong.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Kyung Keun Hong</h3>
+          <h4>President, W-Foundation</h4>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4 v-pad">
         <a href="#youreelee" class="open-popup-link"><div class="team-img"><img src="img/team-youree-lee.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -802,6 +815,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>CEO</h4>
         </div>
       </div>
+    </div>
+    <div class="row">
       <div class="col-md-4 col-sm-4 v-pad">
         <a href="#bruno" class="open-popup-link"><div class="team-img"><img src="img/team-bruno-wu.jpg" alt=""></div></a>
         <br>
@@ -827,6 +842,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</p>
         </div>
       </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-sm-4 v-pad">
+        <a href="#alex" class="open-popup-link"><div class="team-img"><img src="img/team-sung-hyuk-hong.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Alex Sung-Hyeok Hong, Msci, MSc.</h3>
+          <h4>Director, W-Foundation</h4>
+          <p>(Director of HOOXI Global and CEO of AZworth Trust)</p>
+        </div>
+      </div>
       <div class="col-md-4 col-sm-4 v-pad">
         <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
         <br>
@@ -844,6 +870,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>Business Development Adviser</h4>
         </div>
       </div>
+    </div>
+    <div class="row">
       <div class="col-md-4 col-sm-4 v-pad">
         <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
         <br>
@@ -870,6 +898,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p>(Professor, Seokyung University)</p>
         </div>
       </div>
+    </div>
+    <div class="row">
       <div class="col-md-4 col-sm-4 v-pad">
         <a href="#chuljun" class="open-popup-link"><div class="team-img"><img src="img/team-chuljun-kim.jpg" alt=""></div></a>
         <br>
@@ -1100,6 +1130,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <h4>Business Development Adviser, W-Foundation</h4>
   <br><br><br>
   <p>Lead Consultant at Novum Capital specialising in Blockchain Applications, ICO Consultancy and Investor Relations. To date, ICO projects that he has managed have sold tokens in excess of US$100M.</p>
+</div>
+
+<div id="kyung" class="white-popup mfp-hide sans">
+  <h3>KYUNG KEON HONG</h3>
+  <h4>President, W-Foundation</h4>
+  <br><br><br>
+  <p>President of W-Foundation, Chairman of Hooxi Global and Chairman of Truben Investment Group. Truben Investment Group manages one of the biggest investment funds in Korea, with focus on infrastructure and long term capital projects. One of the businesses Truben Investment Group owns is the National Sports Lottery of Korea called K-toto, which is operated under an exclusive license agreement with the Korean government. Annual sale of the K-toto is approximately 5 billion USD.</p>
+</div>
+
+<div id="alex" class="white-popup mfp-hide sans">
+  <h3>ALEX SUNG-HYEOK HONG, Msci, MSc</h3>
+  <h4>Director, W-Foundation (Director of HOOXI Global and CEO of AZworth Trust)</h4>
+  <br><br><br>
+  <p>With 10 years experiences in private equity fund and strategic consulting specializing as a science/technology expert as well as being a famed motivational speaker. Alex holds master's degrees in theoretical physics from Imperial College London and in history and philosophy of natural sciences from UCL. Currently serves as CEO of AZworth Trust, the parent company for Truben Investment and shareholder of HOOXI Global, managing various portfolio and business.</p>
 </div>
  
 

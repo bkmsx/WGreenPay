@@ -209,7 +209,7 @@ Private Sale
 <br>
 <ul class="home-btn">
 <li><a href="#participateform" class="open-popup-link btn">참여하기</a></li>
-<li><a href="WGreenPay-whitepaper-KR-v2.0.pdf" target="_blank" class="btn">백서</a></li>
+<li><a href="WPay-whitepaper-KR-v2.3.pdf" target="_blank" class="btn">백서</a></li>
 </ul>
 </div>
 </div>
@@ -239,7 +239,7 @@ Private Sale
 <div class="h-line"></div>
 <h1><span style="color:#87b44c;">W Green Pay </span></h1>
 <br>
-<h4>W Green Pay ("WGP")는 ERC20를 준수하는 토큰으로 이더리움 블록체인에서 구동됩니다. W Green Pay는 W Green Pay는 한국의 탄소배출권 거래 시장에서 국민의 온실가스 감축 노력을 보상하는 리워드 시스템으로 사용됩니다. </h4>
+<h4>W Green Pay ("WGP")는 스텔라 블록체인 기반 토큰으로 스텔라 블록체인에서 구동된다. W Green Pay는 대국민 온실가스 감축노력을 증진시키고자, 온실가스 배출 감축 노력에 참여하는 대중에게 제공하는 리워드 시스템으로 활용된다. </h4>
 <br>
 <h4>HOOXI 앱은 개개인의 온실가스 배출 감축 노력을 미션으로 제공하고 미션 성공시 유저에게 리워드를 지급하는 플랫폼입니다.</h4>
 <br>
@@ -424,9 +424,14 @@ Private Sale
 <img src="img/chart-tokensale.png" alt="">
 <br>
 <br>
-<p>W Green Pay (WGP) 발행량은 총 1억 개로 한정, 유지됩니다.</p>
+<p>W Green Pay 발행량은 총 10억 개로 제한된다.</p>
 <br>
-<p>전체 물량 중, 2천 만 WGP (20%)는 판매되지 않고 WGP 발행자가 보유하고, 2천 만 WGP (20%)는 HOOXI 캠페인 참가자에 대한 리워드 제공을 위해 HOOXI 앱에 할당된다 (리워드 보유물량 소진시, 시장에서 WGP 구매하여 리워드 시스템 유지). 나머지 6천 만 WGP는 비공개 및 공개일정에 판매됩니다.</p>
+<p>이번 ICO에는 10억개의 전체 물량 중 2억개의 WGP만 판매된다. 판매되지 않는 8억개 WGP의 용도는 다음과 같다: </p>
+<ul>
+          <li>2억개 (20%): WGP 발행자 보유분 (이번 ICO 공개판매 종료일자 2018년 8월 27일부터 6개월동안 판매 제한)</li>
+          <li>2억개 (20%): HOOXI 캠페인 참가자에 대한 리워드 제공을 위해 HOOXI 앱에 할당 (리워드 보유물량 소진시, 시장에서 WGP를 구매하여 리워드 시스템 유지)</li>
+          <li>4억개 (40%): 판매 유보분 (이번 ICO 공개판매 종료일자 2018년 8월 27일부터 6개월동안 판매 제한)</li>
+        </ul>
 </div>
 <div class="col-md-8 token-table">
 <table>
@@ -440,7 +445,7 @@ Private Sale
 </tr>
 <tr valign="top">
 <td class="left-table">플랫폼</td>
-<td>ERC20</td>
+<td>스텔라 (Stellar)</td>
 </tr>
 <tr valign="top">
 <td class="left-table">토큰 유효 소수점 자리수</td>
@@ -448,11 +453,11 @@ Private Sale
 </tr>
 <tr valign="top">
 <td class="left-table">토큰 공급량</td>
-<td>고정 공급량 1억 개, 판매용 6천만 개</td>
+<td>고정 공급량 10억 개, 판매용 2억 개</td>
 </tr>
 <tr valign="top">
 <td class="left-table">허용되는 화폐</td>
-<td>ETH / BTC / USD</td>
+<td>XLM / ETH / BTC / USD</td>
 </tr>
 <tr valign="top">
 <td class="left-table">토큰 가격</td>
@@ -468,15 +473,15 @@ Private Sale
 </tr>
 <tr valign="top">
 <td class="left-table">소프트 캡</td>
-<td>2,500만 달러</td>
+<td>US$25 million</td>
 </tr>
 <tr valign="top">
 <td class="left-table">하드 캡</td>
-<td>1억개 토큰 판매</td>
+<td>WGP 2억개</td>
 </tr>
 <tr valign="top">
 <td class="left-table" style="padding-bottom:40px;">매각 제한 기간</td>
-<td style="padding-bottom:40px;">발행자와 비공개 투자자가 보유한 W Green Pay는 공개 판매 종료 일자인 2018년 8월 27일부터 6개월 동안 매각이 제한됩니다.</td>
+<td style="padding-bottom:40px;">발행자와 비공개 투자자가 보유한 WGP 및 판매가 유보된 WGP는 공개 판매 종료 일자인 2018년 8월 27일부터 6개월 동안 매각이 제한된다</td>
 </tr>
 </table>
 </div>
@@ -794,6 +799,14 @@ Private Sale
 </div>
 </div>
 <div class="col-md-4 col-sm-4 v-pad">
+<a href="#kyung" class="open-popup-link"><div class="team-img"><img src="img/team-kyeong-keun-hong.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>홍경근 (Kyung Keun Hong)</h3>
+<h4>W재단 총재</h4>
+</div>
+</div>
+<div class="col-md-4 col-sm-4 v-pad">
 <a href="#youreelee" class="open-popup-link"><div class="team-img"><img src="img/team-youree-lee.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -801,6 +814,8 @@ Private Sale
 <h4>W재단 CEO</h4>
 </div>
 </div>
+</div>
+<div class="row">
 <div class="col-md-4 col-sm-4 v-pad">
 <a href="#bruno" class="open-popup-link"><div class="team-img"><img src="img/team-bruno-wu.jpg" alt=""></div></a>
 <br>
@@ -826,6 +841,17 @@ Private Sale
 <p>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</p>
 </div>
 </div>
+</div>
+<div class="row">
+<div class="col-md-4 col-sm-4 v-pad">
+<a href="#alex" class="open-popup-link"><div class="team-img"><img src="img/team-sung-hyuk-hong.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>홍성혁 (ALEX Sung-Hyeok HONG, Msci, MSc.)</h3>
+<h4>W재단 Director</h4>
+<p>(HOOXI Global 이사, AZworth Trust 대표)</p>
+</div>
+</div>
 <div class="col-md-4 col-sm-4 v-pad">
 <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
 <br>
@@ -843,6 +869,8 @@ Private Sale
 <h4>W재단 Business Development Adviser</h4>
 </div>
 </div>
+</div>
+<div class="row">
 <div class="col-md-4 col-sm-4 v-pad">
 <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
 <br>
@@ -869,6 +897,8 @@ Private Sale
 <p>(서경대학교 교수)</p>
 </div>
 </div>
+</div>
+<div class="row">
 <div class="col-md-4 col-sm-4 v-pad">
 <a href="#chuljun" class="open-popup-link"><div class="team-img"><img src="img/team-chuljun-kim.jpg" alt=""></div></a>
 <br>
@@ -1034,7 +1064,7 @@ Private Sale
 <h3>이유리 박사(YOUREE LEE PH.D.)</h3>
 <h4>W재단 CEO</h4>
 <br><br><br>
-<p>W재단 공동설립자, W-HY 연구소, HOOXI 연구소의 CEO, HOOXI 재단(미국)의 COO. 신한 맥커리 금융 자문회사 (투자은행), 스미모토 미쓰이 은행에서 기업금융을 담당 함. 이화여자대학교 국제경영  학사, 석사, 박사 학위를 취득함. 현재 이화여자대학교 국제대학원, 한양대학교 국제학부에서 강의 중.</p>
+<p>W재단 공동설립자, W-HY 연구소, HOOXI 연구소의 CEO, HOOXI 재단(미국)의 COO. 맥쿼리, 미쓰이스미토모은행 등 금융기관에서 인프라스트럭처, 신재생에너지사업 등에 대한 투자자문 및 기업금융을 담당함. 이화여자대학교 국제경영  학사, 석사, 박사 학위를 취득함. 현재 이화여자대학교와 한양대학교에서 경영전략, 금융시장 및 재무관리에 대한 강의를 하고있음.</p>
 </div>
 
 <div id="keon" class="white-popup mfp-hide sans">
@@ -1100,6 +1130,19 @@ Private Sale
 <p>Novum Capital사의 수석 컨설턴트로서 블록체인 Application, ICO 컨설팅 및 Investor Relations 전문. 담당한 ICO 프로젝트들에 1억 달러 이상의 토큰판매를 성공.</p>
 </div>
 
+<div id="kyung" class="white-popup mfp-hide sans">
+  <h3>홍경근 (KYUNG KEUN HONG)</h3>
+  <h4>W재단 총재 (HOOXI Global 및 트루벤인베스트먼트 그룹 회장)</h4>
+  <br><br><br>
+  <p>W재단 총재. HOOXI Global 및 트루벤인베스트먼트 그룹의 회장. 트루벤인베스트먼트는 한국의 최대 규모 펀드 중 하나로서 국내외의 인프라자산 및 장기보유자산에 투자한다. 트루벤인베스트먼트 그룹의자회사 중 하나는 한국정부와 독점 라이센스 계약하에 운영되는 복권 발행, 판매업체 (주)케이토토이다. 케이토토의 연간 판매액은 약 5조원이다.</p>
+</div>
+
+<div id="alex" class="white-popup mfp-hide sans">
+  <h3>홍성혁 (ALEX Sung-Hyeok HONG, Msci, MSc.)</h3>
+  <h4>W재단 Director (HOOXI Global 이사, AZworth Trust 대표)</h4>
+  <br><br><br>
+  <p>사모 펀드 및 과학/기술 전문 전략컨설팅에서 10 년의 경력을 쌓았다. 런던 Imperial College에서 이론 물리학 석사 학위, UCL에서 자연과학 철학 및 역사학 석사 학위를 취득. 현재 Truben Investment의 모회사이자 HOOXI Global의 주주인 AZworth Trust의 CEO로서 다양한 포트폴리오와 비즈니스를 관리하고 있다.</p>
+</div>
 
 <!---------- Team popup content end------------
 

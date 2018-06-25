@@ -364,16 +364,26 @@ ul.home-btn li {
 	background:#333333;
 	border-top:6px solid #87b44c;
 	padding:30px;
-	height:700px;
+	height:800px;
 	box-sizing:border-box;
 }
 
 .token-graph img {max-width:300px;}
 
+.token-graph ul {
+	padding-left:15px;
+}
+
+.token-graph li {
+	padding:5px 0;
+	line-height:1.4;
+	text-align:left;
+}
+
 .token-table {
 	background:rgba(0,0,0,0.7);
 	border-top:6px solid #87b44c;
-	height:700px;
+	height:800px;
 	box-sizing:border-box;
 }
 
@@ -471,7 +481,7 @@ ul.roadmap li {padding:5px 0;}
 
 .adviser-img {opacity:1;}
 
-.team-title {height:100px;}
+.team-title {height:115px;}
 
 .team-advisor {
 	border-top-left-radius: 50px;

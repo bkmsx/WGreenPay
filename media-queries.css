@@ -32,6 +32,14 @@ ul#menu {
 	height:310px;
 }
 
+.token-graph {
+	height:850px;
+}
+
+.token-table {
+	height:850px;
+}
+
 }
 
 @media (max-width: 991px) {
@@ -52,7 +60,7 @@ ul#menu {
 	height:auto;
 }
 
-.team-title {height:130px;}
+.team-title {height:140px;}
 
 .input-box {
     width: 495px !important;
