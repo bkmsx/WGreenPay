@@ -545,6 +545,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-eng-marketsinsider.png" alt="">
+                  <br><br>
                   <p>MARKETINSIDER</p>
                   <br>
                   <h4>Korea's Largest Government-backed HOOXI Campaign Ventures into Blockchain</h4>
@@ -554,6 +556,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-eng-cointelegraph.png" alt="">
+                  <br><br>
                   <p>COINTELEGRAPH</p>
                   <br>
                   <h4>Korea’s Government-backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System For GHG Reduction by Individuals</h4>
@@ -563,6 +567,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-eng-nulltx.png" alt="">
+                  <br><br>
                   <p>NULLTX</p>
                   <br>
                   <h4>Korea’s Government-backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System For GHG Reduction by Individuals</h4>
@@ -574,6 +580,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-eng-yahoo.png" alt="">
+                  <br><br>
                   <p>YAHOO FINANCE</p>
                   <br>
                   <h4>Korea’s Government-backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System For GHG Reduction by Individuals</h4>
@@ -583,6 +591,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-eng-bitcoinexchange.png" alt="">
+                  <br><br>
                   <p>BITCOINEXCHANGEGUIDE</p>
                   <br>
                   <h4>Korean Government-backed HOOXI WPG Campaign Launches into Blockchain</h4>
@@ -592,6 +602,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-eng-kplctv.png" alt="">
+                  <br><br>
                   <p>KPLCTV</p>
                   <br>
                   <h4>Korea's Largest Government-backed HOOXI Campaign Ventures into Blockchain</h4>
@@ -603,6 +615,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-eng-abcfoxmontana.png" alt="">
+                  <br><br>
                   <p>ABCFOXMANTANA</p>
                   <br>
                   <h4>Korea's Largest Government-backed HOOXI Campaign Ventures into Blockchain</h4>
@@ -612,6 +626,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-eng-fox14tv.png" alt="">
+                  <br><br>
                   <p>FOX14TV</p>
                   <br>
                   <h4>Korean Government-backed HOOXI WPG Campaign Launches into Blockchain</h4>
@@ -621,6 +637,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-eng-findclimateanswers.png" alt="">
+                  <br><br>
                   <p>FINDCLIMATEANSWERS</p>
                   <br>
                   <h4>Korea’s Government-Backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System for GHG Reduction by Individuals</h4>
@@ -632,6 +650,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-eng-afp.png" alt="">
+                  <br><br>
                   <p>AFP</p>
                   <br>
                   <h4>W Green Pay (WGP) - The Global Solution to Greenhouse Gas (GHG) Reduction</h4>
@@ -648,16 +668,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     <div class="row" style="margin-top:80px;">
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-		<div class="media-logo"><a href="https://icobench.com/ico/w-green-pay" target="_blank"><img src="/img/media-icobench.png"></a></div>
+		<a href="https://icobench.com/ico/w-green-pay" target="_blank"><img src="img/media-logos/media-icobench.jpg"></a>
       </div>
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        	<div class="media-logo"><a href="https://www.icoalert.com/?q=w%20green%20pay&is_v=1" target="_blank"><img src="/img/media-icoalert.png"></a></div>
+        <a href="https://www.icoalert.com/?q=w%20green%20pay&is_v=1" target="_blank"><img src="img/media-logos/media-icoalert.jpg"></a>
       </div>
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        	<div class="media-logo"><a href="https://www.coinhills.com/ico/view/w-green-pay/" target="_blank"><img src="/img/media-coinhills.png"></a></div>
+        <a href="https://www.coinhills.com/ico/view/w-green-pay/" target="_blank"><img src="img/media-logos/media-coinhills.jpg"></a>
       </div>
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        	<div class="media-logo"><a href="https://www.trackico.io/ico/w-green-pay/" target="_blank"><img src="/img/media-trackico.png"></a></div>
+        <a href="https://www.trackico.io/ico/w-green-pay/" target="_blank"><img src="img/media-logos/media-trackico.jpg"></a>
       </div>
     </div>
   </div>

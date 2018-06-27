@@ -409,16 +409,8 @@ td {
 	background-repeat:repeat;
 }
 
-.media-logo {
-	text-align:center;
-	box-sizing:border-box;
-	height:165px;
-	color:#333;
-	font-size:36px;
-}
-
 .media-articles {
-	height:280px;
+	height:450px;
 	width:100%;
 	padding:30px;
 	box-sizing:border-box;

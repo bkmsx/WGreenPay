@@ -28,10 +28,6 @@ ul#menu {
 	float:left;
 }
 
-.media-articles {
-	height:310px;
-}
-
 .token-graph {
 	height:850px;
 }
@@ -69,7 +65,7 @@ ul#menu {
 }
 
 .media-articles {
-	height:380px;
+	height:485px;
 }
 
 }

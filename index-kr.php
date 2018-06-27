@@ -544,6 +544,8 @@ Private Sale
             <li>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-kr-jtbc.png" alt="">
+                  <br><br>
                   <p>JTBC</p>
                   <br>
                   <h4>더블유재단 "대국민 온실가스 감축 운동 확산 위해 'W Green Pay' 론칭"</h4>
@@ -553,6 +555,8 @@ Private Sale
               </div>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-kr-joongang.png" alt="">
+                  <br><br>
                   <p>JOONGANG ILBO</p>
                   <br>
                   <h4>더블유재단 ”대국민 온실가스 감축 운동 확산 위해 ‘W Green Pay’ 론칭”</h4>
@@ -562,17 +566,21 @@ Private Sale
               </div>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-kr-sbscnbc.png" alt="">
+                  <br><br>
                   <p>SBSCNBC</p>
                   <br>
                   <h4>더블유재단, 온실가스 감축 위한 세계 최초 블록체인 기반 W Green Pay 런칭</h4>
                   <br>
-                  <a href="https://nulltx.com/koreas-government-backed-hooxi-campaign-issues-w-green-pay-wgp-first-blockchain-enabled-reward-system-for-ghg-reduction-by-individuals/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                  <a href="http://sbscnbc.sbs.co.kr/read.jsp?pmArticleId=10000902320&pc_searchclick=all_news_cont_00_02" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
                 </div>
               </div>
             </li>
             <li>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-kr-seoulnewspaper.png" alt="">
+                  <br><br>
                   <p>SEOUL NEWSPAPER</p>
                   <br>
                   <h4>온실가스 감축 위한 HOOXI 캠페인 보상 ‘ W Green pay’</h4>
@@ -582,6 +590,19 @@ Private Sale
               </div>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-kr-chosun.png" alt="">
+                  <br><br>
+                  <p>CHOSUN</p>
+                  <br>
+                  <h4>W재단-한경BP, 대국민 온실가스 감축운동 'HOOXI캠페인' 파트너쉽 체결</h4>
+                  <br>
+                  <a href="http://brandplus.chosun.com/site/data/html_dir/2018/06/26/2018062601299.html" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-kr-blockmedia.png" alt="">
+                  <br><br>
                   <p>BLOCKMEDIA</p>
                   <br>
                   <h4>W재단, "온실가스 감축 운동 확산 위해 'W Green Pay' 론칭"</h4>
@@ -589,8 +610,12 @@ Private Sale
                   <a href="https://www.blockmedia.co.kr/news/article_view/?gCode=AB100&idx=1632" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
                 </div>
               </div>
+            </li>
+            <li>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-kr-hankyung.png" alt="">
+                  <br><br>
                   <p>HANKYUNG</p>
                   <br>
                   <h4>W재단, 세계 최초 블록체인 기반 온실가스 감축노력 리워드 시스템 ‘W Green Pay’ 런칭</h4>
@@ -598,10 +623,10 @@ Private Sale
                   <a href="http://news.hankyung.com/article/201805189484a" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
                 </div>
               </div>
-            </li>
-            <li>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-kr-heraldcorporation-.png" alt="">
+                  <br><br>
                   <p>HERALD CORPORATION</p>
                   <br>
                   <h4>W재단, 세계 최초 블록체인 기반 온실가스 감축 'WGP' 런칭</h4>
@@ -611,6 +636,8 @@ Private Sale
               </div>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-kr-donga.png" alt="">
+                  <br><br>
                   <p>DONG-A ILBO</p>
                   <br>
                   <h4>더블유재단, 블록체인 기반 국민 리워드 시스템 ‘W Green Pay’ 선보인다</h4>
@@ -618,8 +645,12 @@ Private Sale
                   <a href="http://bizn.donga.com/3/all/20180521/90175484/2" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
                 </div>
               </div>
+            </li>
+            <li>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-kr-moneytoday-.png" alt="">
+                  <br><br>
                   <p>MONEY TODAY</p>
                   <br>
                   <h4>W재단, 세계 최초 온실가스 리워드 시스템 'W Green pay' 론칭</h4>
@@ -627,10 +658,10 @@ Private Sale
                   <a href="http://news.mt.co.kr/mtview.php?no=2018052310511272827" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
                 </div>
               </div>
-            </li>
-            <li>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
+                  <img src="img/media-logos/media-kr-naver.png" alt="">
+                  <br><br>
                   <p>NAVER</p>
                   <br>
                   <h4>온실 가스 감축을 위한 글로벌 솔루션 'W Green Pay(WGP)'</h4>
@@ -647,16 +678,16 @@ Private Sale
     
     <div class="row" style="margin-top:80px;">
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-		<div class="media-logo"><a href="https://icobench.com/ico/w-green-pay" target="_blank"><img src="/img/media-icobench.png"></a></div>
+		<a href="https://icobench.com/ico/w-green-pay" target="_blank"><img src="img/media-logos/media-icobench.jpg"></a>
       </div>
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        	<div class="media-logo"><a href="https://www.icoalert.com/?q=w%20green%20pay&is_v=1" target="_blank"><img src="/img/media-icoalert.png"></a></div>
+        <a href="https://www.icoalert.com/?q=w%20green%20pay&is_v=1" target="_blank"><img src="img/media-logos/media-icoalert.jpg"></a>
       </div>
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        	<div class="media-logo"><a href="https://www.coinhills.com/ico/view/w-green-pay/" target="_blank"><img src="/img/media-coinhills.png"></a></div>
+        <a href="https://www.coinhills.com/ico/view/w-green-pay/" target="_blank"><img src="img/media-logos/media-coinhills.jpg"></a>
       </div>
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        	<div class="media-logo"><a href="https://www.trackico.io/ico/w-green-pay/" target="_blank"><img src="/img/media-trackico.png"></a></div>
+        <a href="https://www.trackico.io/ico/w-green-pay/" target="_blank"><img src="img/media-logos/media-trackico.jpg"></a>
       </div>
     </div>
   </div>
