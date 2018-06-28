@@ -307,7 +307,7 @@ Private Sale
 <div class="col-md-4 v-pad">
 <h1>HOOXI <span style="color:#87b44c;">캠페인 후원사</span></h1>
 <br>
-<p>NH농협금융지주, NH농협생명, NH농협증권, KB국민은행, YG엔터테인먼트, 롯데면세점, 롯데홈쇼핑, 필립모리스, KMA한국능률협회, 중국 우메이그룹, 한솔케미칼, 한솔오크밸리, ㈜보림씨에스, 에프엔가이드, 성도이엔지, 한국경제TV, YJM게임즈, 크린토피아, 아이넷TV</p>
+<p>NH농협금융지주, NH농협생명, NH농협증권, YG엔터테인먼트, 롯데면세점, 롯데홈쇼핑, 필립모리스, KMA한국능률협회, 중국 우메이그룹, 한솔케미칼, 한솔오크밸리, ㈜보림씨에스, 에프엔가이드, 성도이엔지, 한국경제TV, YJM게임즈, 크린토피아, 아이넷TV</p>
 </div>
 <div class="col-md-8 v-pad" style="position:relative;">
 <div class="leaf-r"><img src="img/leaf-1.png" alt=""></div>
@@ -319,19 +319,225 @@ Private Sale
 <br>
 <br>
 <br>
-<div class="row">
-<div class="col-md-8 v-pad" style="position:relative;">
-<div class="leaf-l"><img src="img/leaf-2.png" alt=""></div>
-<img src="img/ambassadors.png" alt="">
-</div>
-<div class="col-md-4 v-pad">
-<h1><span style="color:#87b44c;"> 홍보대사</span></h1>
+<h1><span style="color:#87b44c;">홍보대사</span></h1>
 <br>
 <h4>K-pop 스타를 비롯한 한국 유명인사 300여명이 W재단의 HOOXI 캠페인 홍보대사로 참여하고 있습니다.</h4>
 <br>
 <p>윤일상 작곡가, 에일리, 김유정, 정글의 법칙 김진호PD, 인피니트, 강남, 에디킴, 김태우, 최강창민(동방신기), 시원, 동해(슈퍼주니어), 백성현, 권혁수, 울랄라세션, 심형탁, 서문탁, 이루, 유인영, 조PD, 아이오아이(I.O.I.), 한고은, 장혁, 스테파니, 알베르토 몬디, 리디아 고 등 많은 유명인사들이 HOOXI 캠페인과 함께합니다.</p>
-</div>
-</div>
+<br>
+<br>
+<div class="row">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/INFINITE.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>인피니트</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/IOI.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>아이오아이 (IOI)</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/The-One.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>더원</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Lydia-Ko.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>리디아 고</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Jang-Wookhyuk.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>장우혁</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Changmin-(TVXQ).jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>동방신기 최강창민</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Choi-Siwon-(Super-Junior).jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>슈퍼주니어 시원</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Donghae-(Super-Junior).jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>슈퍼주니어 동해</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Jinho-(SBS-Producer-of-'Law-of-the-Jungle').jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>김진호PD</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Jongguk.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>김종국</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Alberto-Mondi.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>알베르토 몬디</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Hyungjun.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>김형준</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Eddy-Kim.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>에디킴</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Baek,-Seonghyeon.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>백성현</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Gangnam.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>강남</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Yujung.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>김유정</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Yeo,-Jingu.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>여진구</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Tiffany-(Girl's-Generation).jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>소녀시대 티파니</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Seo,-Muntak.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>서문탁</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Bobby-Kim.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>바비킴</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/ZoPD.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>조PD</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Eru.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>이루</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Yoo,-Inyeong.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>유인영</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Lee,-Eungyeol.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>이은결</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/JK-Kim-Donguk.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>JK김동욱</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Cheon,-Hyeonmu.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>전현무</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Ailee.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>에일리</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Kwon,-Hyeoksu.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>권혁수</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/ULALA-SESSION.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>울랄라세션</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Jang,-Hyuk.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>장혁</h3>
+          </div>
+        </div>
+      </div>
 </div>
 </section>
 <section style="background:#001a3d;" class="emission">
@@ -944,36 +1150,255 @@ Private Sale
 <section id="advisers" style="padding-bottom:60px;">
       <h1>명예고문 (W재단, HOOXI 캠페인)</h1>
       <div class="h-line"></div>
-      <div class="row">
-        <div class="col-md-3 col-sm-3 v-pad">
-          <div class="team-img adviser-img"><img src="img/team-cho.jpg" alt=""></div>
-          <br>
-          <div class="team-title">
-            <h3>조동혁 회장</h3>
-            <h4>한솔케미칼</h4>
-          </div>
-        </div>
-        <div class="col-md-3 col-sm-3 v-pad">
+      <h2>Government</h2>
+      <br>
+      <div class="row" style="margin-bottom:60px;">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/team-im.jpg" alt=""></div>
           <br>
-          <div class="team-title">
-            <h3>임종성 의원</h3>
-            <h4>대한민국 국회</h4>
+          <div class=" kr-adviser">
+            <h3>임종성</h3>
+            <h4>국회의원</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 v-pad">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/team-yoon-kwansuk.jpg" alt=""></div>
           <br>
-          <div class="team-title">
-            <h3>윤관석 의원</h3>
-            <h4>대한민국 국회</h4>
+          <div class=" kr-adviser">
+            <h3>윤관석</h3>
+            <h4>국회의원</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 v-pad">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Beongwook--National-Assembly-.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>김병욱 </h3>
+            <h4>국회의원</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/MOCT--Oh,-Jangsup.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>오장섭</h3>
+            <h4>전 건설교통부 장관</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Lee,-Sanghui.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>이상희 </h3>
+            <h4>과학기술부 전 장관</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Ma-Changhwan--MOCIT.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>마창환 </h3>
+            <h4>과학기술정보통신부 기획조정실장</h4>
+          </div>
+        </div>
+      </div>
+      <h2>Legal Profession</h2>
+      <br>
+      <div class="row" style="margin-bottom:60px;">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Ko,-Eunseok--Prosecutor.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>고은석 </h3>
+            <h4>인천지방검찰청 부천지청 부장검사</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Chadong---Hanyang-Univ.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>김차동</h3>
+            <h4>한양대학교 법학과 교수 & 전 서울고등법원 판사</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Park,-Huiseung--Lawyer.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>박희승</h3>
+            <h4>법무법인 평산 대표변호사 & 전 수원지방법원 안양지원장</h4>
+          </div>
+        </div>
+      </div>
+      <h2>Financial Institutions</h2>
+      <br>
+      <div class="row" style="margin-bottom:60px;">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Jang,-Ilsuk--NEw-Finance-Society-Institute.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>장일석</h3>
+            <h4>새금융사회연구소 이사장</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Choi,-Huinam--KIC.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>최희남</h3>
+            <h4>한국투자공사 사장</h4>
+          </div>
+        </div>
+      </div>
+      <h2>Media & Entertainment</h2>
+      <br>
+      <div class="row" style="margin-bottom:60px;">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Song,-Jaejo---Korea-Economy-TV.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>송재조</h3>
+            <h4>한국경제TV 사장</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Dongsik---Kweather.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>김동식</h3>
+            <h4>케이웨더㈜ 대표이사</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Min,-Yongjae--YJM-Games.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>민용재</h3>
+            <h4>YJM게임즈 대표이사</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Park,-Junhee--inet-TV.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>박준희</h3>
+            <h4>Inet TV 회장</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/team-yoon-Ilsang.jpg" alt=""></div>
           <br>
-          <div class="team-title">
-            <h3>윤일상 작곡가</h3>
+          <div class=" kr-adviser">
+            <h3>윤일상</h3>
+            <h4>작곡가</h4>
+          </div>
+        </div>
+      </div>
+      <h2>Corporations & Organizations</h2>
+      <br>
+      <div class="row" style="margin-bottom:60px;">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Kim-Jongryang---Hanyang-Univ-Chairman.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>김종량</h3>
+            <h4>한양대학교 이사장</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/team-cho.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>조동혁</h3>
+            <h4>한솔케미칼 회장</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Choi Jonggu - Easter Jet.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>최종구</h3>
+            <h4>이스타항공 사장</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Peter-Kim--JIOS.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>김종효</h3>
+            <h4>지오스 에어로젤 회장</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Kwon,-Ryan---Jimei.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>권혁진</h3>
+            <h4>지메이코리아 대표이사</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Park,-Jonghwa---KR-Industry.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>박종화</h3>
+            <h4>박종화 ㈜케이알산업 대표</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Moon,-Gyeonghwan---SCGO.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>문경환</h3>
+            <h4>에스시지오 대표</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Lee,-Bonggyu---Hanyang.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>이봉규</h3>
+            <h4>이봉규 ㈜한양 전무</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Dongman---Khan.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>김동만</h3>
+            <h4>김동만 케이칸 회장</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Choi,-Youngeun---Mantoss-Power.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>최영은</h3>
+            <h4>최영은 맨토스파워 대표</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Hong,Nanggi---Kumho.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>홍낭기</h3>
+            <h4>홍낭기 금호건설 상무</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Jung,-Huiwon---T-MONET.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>정희원</h3>
+            <h4>㈜티모넷 부사장/연구소장</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Chun,-Jonggi---Seegene-Medical-Foundation.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>천종기</h3>
+            <h4>씨젠의료재단 이사장</h4>
           </div>
         </div>
       </div>

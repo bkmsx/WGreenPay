@@ -308,7 +308,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-md-4 v-pad">
        <h1>Hooxi Campaign <span style="color:#87b44c;">Sponsors</span></h1>
        <br>
-       <p>NongHyup Financial Group, NongHyup Life Insurance Co., Ltd., NH Investment Securities Co., Ltd., KB Kookman Bank, YG Entertainment, Hotel Lotte DFS Co., Ltd., Lotte Homeshopping, Philip Morris Korea Ltd., Korea Management Association, Wumart Stores, Inc. (China), Hansol Chemical, Hansol Oak Valley, Borim CS, FnGuide Inc., Sungdo Engineering & Construction, Korea Business News Co., Ltd., YJM Games Co., Ltd., Cleantopia, NET TV Co., Ltd.</p>
+       <p>NongHyup Financial Group, NongHyup Life Insurance Co., Ltd., NH Investment Securities Co., Ltd., YG Entertainment, Hotel Lotte DFS Co., Ltd., Lotte Homeshopping, Philip Morris Korea Ltd., Korea Management Association, Wumart Stores, Inc. (China), Hansol Chemical, Hansol Oak Valley, Borim CS, FnGuide Inc., Sungdo Engineering & Construction, Korea Business News Co., Ltd., YJM Games Co., Ltd., Cleantopia, NET TV Co., Ltd.</p>
       </div>
       <div class="col-md-8 v-pad" style="position:relative;">
         <div class="leaf-r"><img src="img/leaf-1.png" alt=""></div>
@@ -320,19 +320,229 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <br>
     <br>
     <br>
+    <h1>Honorary <span style="color:#87b44c;">Ambassadors</span></h1>
+    <br>
+    <h4>More than 300 Korean celebrities, including K-pop stars, support HOOXI Campaign as honorary ambassadors of W-Foundation.</h4>
+    <br>
+    <p>Infinite, Lydia Ko, Ailee, Jang Hyuk, Kim Tae-Woo, IOI, Eddy Kim, Shim Hyung-Tak, Max Changmin, Choi Si-Won, Donghae, Kim Yu Jung and Alberto are several of the major ambassadors. There are many more Korean celebrities working with W-Foundation as honorary ambassadors.</p>
+    <br>
+    <br>
     <div class="row">
-      <div class="col-md-8 v-pad" style="position:relative;">
-        <div class="leaf-l"><img src="img/leaf-2.png" alt=""></div>
-        <img src="img/ambassadors.png" alt="">
-      </div>
-      <div class="col-md-4 v-pad">
-       <h1>Honorary <span style="color:#87b44c;">Ambassadors</span></h1>
-       <br>
-       <h4>More than 300 Korean celebrities, including K-pop stars, support HOOXI Campaign as honorary ambassadors of W-Foundation.</h4>
-       <br>
-       <p>Infinite, Lydia Ko, Ailee, Jang Hyuk, Kim Tae-Woo, IOI, Eddy Kim, Shim Hyung-Tak, Max Changmin, Choi Si-Won, Donghae, Kim Yu Jung and Alberto are several of the major ambassadors. There are many more Korean celebrities working with W-Foundation as honorary ambassadors.</p>
-      </div>     
-    </div>  
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/INFINITE.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>INFINITE</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/IOI.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>IOI</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/The-One.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>The One</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Lydia-Ko.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Lydia Ko</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Jang-Wookhyuk.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Jang, Wookhyuk</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Changmin-(TVXQ).jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Changmin (TVXQ)</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Choi-Siwon-(Super-Junior).jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Choi Siwon</h3>
+            <h4>(Super Junior)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Donghae-(Super-Junior).jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Donghae</h3>
+            <h4>(Super Junior)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Jinho-(SBS-Producer-of-'Law-of-the-Jungle').jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Kim, Jinho</h3>
+            <h4>(SBS Producer of 'Law of the Jungle')</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Jongguk.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Kim, Jongguk</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Alberto-Mondi.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Alberto Mondi</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Hyungjun.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Kim, Hyungjun</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Eddy-Kim.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Eddy Kim</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Baek,-Seonghyeon.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Baek, Seonghyeon</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Gangnam.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Gangnam</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Yujung.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Kim, Yujung</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Yeo,-Jingu.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Yeo, Jingu</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Tiffany-(Girl's-Generation).jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Tiffany</h3>
+            <h4>(Girl's Generation)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Seo,-Muntak.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Seo, Muntak</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Bobby-Kim.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Bobby Kim</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/ZoPD.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>ZoPD</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Eru.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Eru</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Yoo,-Inyeong.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Yoo, Inyeong</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Lee,-Eungyeol.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Lee, Eungyeol</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/JK-Kim-Donguk.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>JK Kim Donguk</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Cheon,-Hyeonmu.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Cheon, Hyeonmu</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Ailee.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Ailee</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Kwon,-Hyeoksu.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Kwon, Hyeoksu</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/ULALA-SESSION.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>ULALA SESSION</h3>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Ambassadors/Jang,-Hyuk.jpg" alt=""></div>
+          <br>
+          <div class="celeb-title">
+            <h3>Jang, Hyuk</h3>
+          </div>
+        </div>
+      </div> 
   </div>
 </section>
 <section style="background:#001a3d;" class="emission">
@@ -934,46 +1144,265 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section id="advisers" style="padding-bottom:60px;">
       <h1>ADVISERS (W-Foundation, HOOXI Campaign)</h1>
       <div class="h-line"></div>
-      <div class="row">
-        <div class="col-md-3 col-sm-3 v-pad">
-          <div class="team-img adviser-img"><img src="img/team-cho.jpg" alt=""></div>
-          <br>
-          <div class="team-title">
-            <h3>Cho, Donghyuk</h3>
-            <h4>Chairman, Hansol Chemical</h4>
-          </div>
-        </div>
-        <div class="col-md-3 col-sm-3 v-pad">
+      <h2>Government</h2>
+      <br>
+      <div class="row" style="margin-bottom:60px;">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/team-im.jpg" alt=""></div>
           <br>
-          <div class="team-title">
+          <div class="team-title adviser-title">
             <h3>Im, Jongseong</h3>
             <h4>Member, National Assembly of Republic of Korea</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 v-pad">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/team-yoon-kwansuk.jpg" alt=""></div>
           <br>
-          <div class="team-title">
+          <div class="team-title adviser-title">
             <h3>Yoon, Kwansuk</h3>
             <h4>Member, National Assembly of Republic of Korea</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 v-pad">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Beongwook--National-Assembly-.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Kim, Beongwook</h3>
+            <h4>Member, National Assembly of Republic of Korea</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/MOCT--Oh,-Jangsup.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Oh, Jangsup</h3>
+            <h4>Former Minster, Ministry of Construction and Transportation</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Lee,-Sanghui.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Lee, Sanghui</h3>
+            <h4>Former Minster, Ministry of Science Technology</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Ma-Changhwan--MOCIT.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Ma, Changwan</h3>
+            <h4>Vice Minister for Planning and Coordination, Ministry of Science and ICT</h4>
+          </div>
+        </div>
+      </div>
+      <h2>Legal Profession</h2>
+      <br>
+      <div class="row" style="margin-bottom:60px;">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Ko,-Eunseok--Prosecutor.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Ko, Eunseok</h3>
+            <h4>Chief Prosecutor, Bucheon, Incheon District Supereme Prosecutor’s Office</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Chadong---Hanyang-Univ.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Kim, Chadong</h3>
+            <h4>Professor in Department of Law & Former Judge of Seoul High Court, Hanyang University</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Park,-Huiseung--Lawyer.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Park, Huiseung</h3>
+            <h4>President Lawyer & Former Chief judge of a district court, Pyeong San (Law Firm) & Suwon District Court</h4>
+          </div>
+        </div>
+      </div>
+      <h2>Financial Institutions</h2>
+      <br>
+      <div class="row" style="margin-bottom:60px;">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Jang,-Ilsuk--NEw-Finance-Society-Institute.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Jang, Ilsuk</h3>
+            <h4>Chairman, New Finance Society Institute</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Choi,-Huinam--KIC.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Choi, Huinam</h3>
+            <h4>President, Korea Investment Corporation (Sovereign Wealth Fund)</h4>
+          </div>
+        </div>
+      </div>
+      <h2>Media & Entertainment</h2>
+      <br>
+      <div class="row" style="margin-bottom:60px;">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Song,-Jaejo---Korea-Economy-TV.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Song, Jaejo</h3>
+            <h4>President, Korea Economic TV(Broadcasting Network)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Dongsik---Kweather.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Kim, Dongsik</h3>
+            <h4>President, Kweather (Broadcasting Network)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Min,-Yongjae--YJM-Games.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Min, Yongjae</h3>
+            <h4>President, YJM Games(KODAQ listed IT Company)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Park,-Junhee--inet-TV.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Park, Junhee</h3>
+            <h4>Chairman, inet-TV (Broadcasting Network)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/team-yoon-Ilsang.jpg" alt=""></div>
           <br>
-          <div class="team-title">
+          <div class="team-title adviser-title">
             <h3>Yoon, Ilsang</h3>
-            <h4>Song Writer</h4>
-</section>	  
+            <h4>Highly Recognized Musician in Korea (Songwriter, Composer)</h4>
+          </div>
+        </div>
+      </div>
+      <h2>Corporations & Organizations</h2>
+      <br>
+      <div class="row" style="margin-bottom:60px;">
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Kim-Jongryang---Hanyang-Univ-Chairman.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Kim, Jongryang</h3>
+            <h4>Chairman, Hanyang University (Major University in Korea)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/team-cho.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>CHO, DONGHYUK</h3>
+            <h4>Chairman, Hansol Chemical</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Choi Jonggu - Easter Jet.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Choi, Jonggu</h3>
+            <h4>President, Eastar Jet (Airline)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Peter-Kim--JIOS.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Kim, Peter</h3>
+            <h4>Chairman, JIOS AEROGEL (Major Corp. in Advanced New Materials)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Kwon,-Ryan---Jimei.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Kwon, Ryan</h3>
+            <h4>President, Jimei Korea (Major Real Estate Developing Corp. in China and Korea)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Park,-Jonghwa---KR-Industry.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Park, Jonghwa</h3>
+            <h4>CEO, KR Industry (Major Construction Corp.)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Moon,-Gyeonghwan---SCGO.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Moon, Gyeonghwan</h3>
+            <h4>CEO, SCGO (Major Real Estate Developing Corp.)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Lee,-Bonggyu---Hanyang.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Lee, Bonggyu</h3>
+            <h4>Executive Director, Hanyang (Major E&C Corp.)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Dongman---Khan.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Kim, Dongman</h3>
+            <h4>Chairman, K-Khan (Major Construction Corp.)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Choi,-Youngeun---Mantoss-Power.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Choi, Youngeun</h3>
+            <h4>President, Mantoss Power (Major H&R Outsourcing Corp.)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Hong,Nanggi---Kumho.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Hong, Nanggi</h3>
+            <h4>Executive Director, Kumho Construction (Major E&C Corp.)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Jung,-Huiwon---T-MONET.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Jung, Huiwon</h3>
+            <h4>Vice President, T-MONET (Major Electronic Payment Corp.)</h4>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/Chun,-Jonggi---Seegene-Medical-Foundation.jpg" alt=""></div>
+          <br>
+          <div class="team-title adviser-title">
+            <h3>Chun, Jonggi</h3>
+            <h4>Chairman, Seegene Medical Foundation (Global Clinical Testing Organization)</h4>
+          </div>
+        </div>
+      </div>
+    </section>	  
     <div class="team-advisor">
       <h3>Please click on the link for more information on <br> over 160 leaders and influential figures advising <br> W-Foundation and HOOXI campaign:</h3>
  	    <br>
  	    <h4>KOR: <a href="http://www.gcrfund.org/honorary_advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/honorary_advisors/</a></h4>
        <h4>ENG: <a href="http://www.gcrfund.org/en/honorary-advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/en/honorary-advisors/</a></h4>
-    </div>
-	</section>	  
-    
+    </div>    
   </div>
 </section>
 <!------------ Team end ------------>

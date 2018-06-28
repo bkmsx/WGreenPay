@@ -471,9 +471,15 @@ ul.roadmap li {padding:5px 0;}
 
 .team-img:hover {opacity:1;}
 
+#advisers h2 {color:#87b44c;}
+
 .adviser-img {opacity:1;}
 
 .team-title {height:115px;}
+
+.kr-adviser {height:80px;}
+
+.celeb-title {height:70px;}
 
 .team-advisor {
 	border-top-left-radius: 50px;
