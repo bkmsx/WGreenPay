@@ -209,7 +209,7 @@ Private Sale
 <br>
 <ul class="home-btn">
 <li><a href="#participateform" class="open-popup-link btn">참여하기</a></li>
-<li><a href="WPay-whitepaper-KR-v2.3.pdf" target="_blank" class="btn">백서</a></li>
+<li><a href="WPay-whitepaper-KR-v2.0.pdf" target="_blank" class="btn">백서</a></li>
 </ul>
 </div>
 </div>
@@ -307,7 +307,7 @@ Private Sale
 <div class="col-md-4 v-pad">
 <h1>HOOXI <span style="color:#87b44c;">캠페인 후원사</span></h1>
 <br>
-<p>NH농협금융지주, NH농협생명, NH농협증권, YG엔터테인먼트, 롯데면세점, 롯데홈쇼핑, 필립모리스, KMA한국능률협회, 중국 우메이그룹, 한솔케미칼, 한솔오크밸리, ㈜보림씨에스, 에프엔가이드, 성도이엔지, 한국경제TV, YJM게임즈, 크린토피아, 아이넷TV</p>
+<p>YG엔터테인먼트, 롯데면세점, 롯데홈쇼핑, 필립모리스, KMA한국능률협회, 중국 우메이그룹, 한솔케미칼, 한솔오크밸리, ㈜보림씨에스, 에프엔가이드, 성도이엔지, 한국경제TV, YJM게임즈, 크린토피아, 아이넷TV</p>
 </div>
 <div class="col-md-8 v-pad" style="position:relative;">
 <div class="leaf-r"><img src="img/leaf-1.png" alt=""></div>

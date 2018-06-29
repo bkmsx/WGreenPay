@@ -210,7 +210,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <br>
     <ul class="home-btn">
       <li><a href="#participateform" class="open-popup-link btn">Participate</a></li>
-      <li><a href="WPay-whitepaper-v3.3.pdf" target="_blank" class="btn">Whitepaper</a></li>
+      <li><a href="WGreenPay-whitepaper-v2.0.pdf" target="_blank" class="btn">Whitepaper</a></li>
     </ul>
   </div>
 </div>
@@ -308,7 +308,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-md-4 v-pad">
        <h1>Hooxi Campaign <span style="color:#87b44c;">Sponsors</span></h1>
        <br>
-       <p>NongHyup Financial Group, NongHyup Life Insurance Co., Ltd., NH Investment Securities Co., Ltd., YG Entertainment, Hotel Lotte DFS Co., Ltd., Lotte Homeshopping, Philip Morris Korea Ltd., Korea Management Association, Wumart Stores, Inc. (China), Hansol Chemical, Hansol Oak Valley, Borim CS, FnGuide Inc., Sungdo Engineering & Construction, Korea Business News Co., Ltd., YJM Games Co., Ltd., Cleantopia, NET TV Co., Ltd.</p>
+       <p>YG Entertainment, Hotel Lotte DFS Co., Ltd., Lotte Homeshopping, Philip Morris Korea Ltd., Korea Management Association, Wumart Stores, Inc. (China), Hansol Chemical, Hansol Oak Valley, Borim CS, FnGuide Inc., Sungdo Engineering & Construction, Korea Business News Co., Ltd., YJM Games Co., Ltd., Cleantopia, NET TV Co., Ltd.</p>
       </div>
       <div class="col-md-8 v-pad" style="position:relative;">
         <div class="leaf-r"><img src="img/leaf-1.png" alt=""></div>
