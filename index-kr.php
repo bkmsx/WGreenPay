@@ -654,10 +654,6 @@ Private Sale
 <td>스텔라 (Stellar)</td>
 </tr>
 <tr valign="top">
-<td class="left-table">토큰 유효 소수점 자리수</td>
-<td>18</td>
-</tr>
-<tr valign="top">
 <td class="left-table">토큰 공급량</td>
 <td>고정 공급량 10억 개, 판매용 2억 개</td>
 </tr>
