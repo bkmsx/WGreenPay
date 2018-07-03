@@ -1239,7 +1239,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img"><img src="img/team-dongyul-seok.jpg" alt=""></div>
+          <div class="team-img adviser-img"><img src="img/team-dongyul-seok.jpg" alt=""></div>
           <br>
           <div class="team-title ">
             <h3>Dongyul Seok</h3>
