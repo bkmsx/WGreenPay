@@ -1239,13 +1239,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-        <a href="#dongyul" class="open-popup-link"><div class="team-img"><img src="img/team-dongyul-seok.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title ">
-          <h3>Dongyul Seok</h3>
-          <h4>Public Relations Adviser (Deputy Director of Dong-A Daily News)</h4>
+          <div class="team-img"><img src="img/team-dongyul-seok.jpg" alt=""></div>
+          <br>
+          <div class="team-title ">
+            <h3>Dongyul Seok</h3>
+            <h4>Public Relations Adviser (Deputy Director of Dong-A Daily News)</h4>
+          </div>
         </div>
-      </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Min,-Yongjae--YJM-Games.jpg" alt=""></div>
           <br>
