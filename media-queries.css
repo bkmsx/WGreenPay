@@ -56,10 +56,6 @@ ul#menu {
 	height:auto;
 }
 
-.team-title {height:140px;}
-
-.adviser-title {height:190px;}
-
 .celeb-title {height:90px;}
 
 .input-box {
@@ -109,13 +105,17 @@ h4 {font-size:16px;}
 	margin:0 auto;
 }
 
-.team-title {text-align:center;}
+.team-title {text-align:center; height:auto;}
 
 .team-title {height:auto;}
 
-.adviser-title {height:115px;}
+#advisers .team-title {height:100px;}
 
 .celeb-title {height:60px;}
+.celeb-title h4 {font-size:14px;}
+
+.team-advisor h3 {font-size:16px;}
+.team-advisor h4 {font-size:14px;}
 
 .subscription-container {
 	width:300px;

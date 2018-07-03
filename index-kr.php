@@ -209,7 +209,7 @@ Private Sale
 <br>
 <ul class="home-btn">
 <li><a href="#participateform" class="open-popup-link btn">참여하기</a></li>
-<li><a href="WGreenPay-whitepaper-KR-v2.0.pdf" target="_blank" class="btn">백서</a></li>
+<li><a href="WPay-whitepaper-KR-v2.0.pdf" target="_blank" class="btn">백서</a></li>
 </ul>
 </div>
 </div>
@@ -654,6 +654,10 @@ Private Sale
 <td>스텔라 (Stellar)</td>
 </tr>
 <tr valign="top">
+<td class="left-table">토큰 유효 소수점 자리수</td>
+<td>18</td>
+</tr>
+<tr valign="top">
 <td class="left-table">토큰 공급량</td>
 <td>고정 공급량 10억 개, 판매용 2억 개</td>
 </tr>
@@ -1023,7 +1027,7 @@ Private Sale
 <h1>TEAM</h1>
 <div class="h-line"></div>
 <div class="row">
-<div class="col-md-4 col-sm-4 v-pad">
+<div class="col-md-3 col-sm-6 v-pad">
 <a href="#wooklee" class="open-popup-link"><div class="team-img"><img src="img/team-wook-lee.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -1031,7 +1035,7 @@ Private Sale
 <h4>W재단 이사장</h4>
 </div>
 </div>
-<div class="col-md-4 col-sm-4 v-pad">
+<div class="col-md-3 col-sm-6 v-pad">
 <a href="#kyung" class="open-popup-link"><div class="team-img"><img src="img/team-kyeong-keun-hong.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -1039,7 +1043,7 @@ Private Sale
 <h4>W재단 총재</h4>
 </div>
 </div>
-<div class="col-md-4 col-sm-4 v-pad">
+<div class="col-md-3 col-sm-6 v-pad">
 <a href="#youreelee" class="open-popup-link"><div class="team-img"><img src="img/team-youree-lee.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -1047,9 +1051,7 @@ Private Sale
 <h4>W재단 CEO</h4>
 </div>
 </div>
-</div>
-<div class="row">
-<div class="col-md-4 col-sm-4 v-pad">
+<div class="col-md-3 col-sm-6 v-pad">
 <a href="#bruno" class="open-popup-link"><div class="team-img"><img src="img/team-bruno-wu.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -1057,7 +1059,9 @@ Private Sale
 <h4>W재단 Director of Strategy</h4>
 </div>
 </div>
-<div class="col-md-4 col-sm-4 v-pad">
+</div>
+<div class="row">
+<div class="col-md-3 col-sm-6 v-pad">
 <a href="#keon" class="open-popup-link"><div class="team-img"><img src="img/team-keon.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -1065,7 +1069,7 @@ Private Sale
 <h4>W재단 Financial Adviser</h4>
 </div>
 </div>
-<div class="col-md-4 col-sm-4 v-pad">
+<div class="col-md-3 col-sm-6 v-pad">
 <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -1074,9 +1078,7 @@ Private Sale
 <p>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</p>
 </div>
 </div>
-</div>
-<div class="row">
-<div class="col-md-4 col-sm-4 v-pad">
+<div class="col-md-3 col-sm-6 v-pad">
 <a href="#alex" class="open-popup-link"><div class="team-img"><img src="img/team-sung-hyuk-hong.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -1085,7 +1087,7 @@ Private Sale
 <p>(HOOXI Global 이사, AZworth Trust 대표)</p>
 </div>
 </div>
-<div class="col-md-4 col-sm-4 v-pad">
+<div class="col-md-3 col-sm-6 v-pad">
 <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -1094,7 +1096,9 @@ Private Sale
 <p>(Managing Partner and Executive Chairman at Novum Capital)</p>
 </div>
 </div>
-<div class="col-md-4 col-sm-4 v-pad">
+</div>
+<div class="row">
+<div class="col-md-3 col-sm-6 v-pad">
 <a href="#jeremy" class="open-popup-link"><div class="team-img"><img src="img/team-jeremy.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -1102,9 +1106,7 @@ Private Sale
 <h4>W재단 Business Development Adviser</h4>
 </div>
 </div>
-</div>
-<div class="row">
-<div class="col-md-4 col-sm-4 v-pad">
+<div class="col-md-3 col-sm-6 v-pad">
 <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -1112,16 +1114,7 @@ Private Sale
 <h4>W재단 Business Development Adviser</h4>
 </div>
 </div>
-<div class="col-md-4 col-sm-4 v-pad">
-<a href="#dongyul" class="open-popup-link"><div class="team-img"><img src="img/team-dongyul-seok.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>석동률 (DONGYUL SEOK)</h3>
-<h4>W재단 Public Relations Adviser</h4>
-<p>(동아일보 부국장)</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-4 v-pad">
+<div class="col-md-3 col-sm-6 v-pad">
 <a href="#seonggu" class="open-popup-link"><div class="team-img"><img src="img/team-seonggu-ryu.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -1130,9 +1123,7 @@ Private Sale
 <p>(서경대학교 교수)</p>
 </div>
 </div>
-</div>
-<div class="row">
-<div class="col-md-4 col-sm-4 v-pad">
+<div class="col-md-3 col-sm-6 v-pad">
 <a href="#chuljun" class="open-popup-link"><div class="team-img"><img src="img/team-chuljun-kim.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -1149,7 +1140,7 @@ Private Sale
       <h2>Government</h2>
       <br>
       <div class="row" style="margin-bottom:60px;">
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/team-im.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1157,7 +1148,7 @@ Private Sale
             <h4>국회의원</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/team-yoon-kwansuk.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1165,7 +1156,7 @@ Private Sale
             <h4>국회의원</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Beongwook--National-Assembly-.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1173,7 +1164,7 @@ Private Sale
             <h4>국회의원</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/MOCT--Oh,-Jangsup.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1181,7 +1172,7 @@ Private Sale
             <h4>전 건설교통부 장관</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Lee,-Sanghui.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1189,7 +1180,7 @@ Private Sale
             <h4>과학기술부 전 장관</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Ma-Changhwan--MOCIT.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1198,10 +1189,10 @@ Private Sale
           </div>
         </div>
       </div>
-      <h2>Legal Profession</h2>
+      <h2>Legal Profession & Financial Institutions</h2>
       <br>
       <div class="row" style="margin-bottom:60px;">
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Ko,-Eunseok--Prosecutor.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1209,7 +1200,7 @@ Private Sale
             <h4>인천지방검찰청 부천지청 부장검사</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Chadong---Hanyang-Univ.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1217,7 +1208,7 @@ Private Sale
             <h4>한양대학교 법학과 교수 & 전 서울고등법원 판사</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Park,-Huiseung--Lawyer.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1225,11 +1216,7 @@ Private Sale
             <h4>법무법인 평산 대표변호사 & 전 수원지방법원 안양지원장</h4>
           </div>
         </div>
-      </div>
-      <h2>Financial Institutions</h2>
-      <br>
-      <div class="row" style="margin-bottom:60px;">
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Jang,-Ilsuk--NEw-Finance-Society-Institute.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1237,7 +1224,7 @@ Private Sale
             <h4>새금융사회연구소 이사장</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Choi,-Huinam--KIC.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1249,7 +1236,7 @@ Private Sale
       <h2>Media & Entertainment</h2>
       <br>
       <div class="row" style="margin-bottom:60px;">
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Song,-Jaejo---Korea-Economy-TV.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1257,7 +1244,16 @@ Private Sale
             <h4>한국경제TV 사장</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
+<a href="#dongyul" class="open-popup-link"><div class="team-img"><img src="img/team-dongyul-seok.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>석동률 (DONGYUL SEOK)</h3>
+<h4>W재단 Public Relations Adviser</h4>
+<p>(동아일보 부국장)</p>
+</div>
+</div>
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Dongsik---Kweather.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1265,7 +1261,7 @@ Private Sale
             <h4>케이웨더㈜ 대표이사</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Min,-Yongjae--YJM-Games.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1273,7 +1269,7 @@ Private Sale
             <h4>YJM게임즈 대표이사</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Park,-Junhee--inet-TV.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1281,7 +1277,7 @@ Private Sale
             <h4>Inet TV 회장</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/team-yoon-Ilsang.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1293,7 +1289,7 @@ Private Sale
       <h2>Corporations & Organizations</h2>
       <br>
       <div class="row" style="margin-bottom:60px;">
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Kim-Jongryang---Hanyang-Univ-Chairman.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1301,7 +1297,7 @@ Private Sale
             <h4>한양대학교 이사장</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/team-cho.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1309,7 +1305,7 @@ Private Sale
             <h4>한솔케미칼 회장</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Choi Jonggu - Easter Jet.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1317,7 +1313,7 @@ Private Sale
             <h4>이스타항공 사장</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Peter-Kim--JIOS.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1325,7 +1321,7 @@ Private Sale
             <h4>지오스 에어로젤 회장</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Kwon,-Ryan---Jimei.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1333,7 +1329,7 @@ Private Sale
             <h4>지메이코리아 대표이사</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Park,-Jonghwa---KR-Industry.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1341,7 +1337,9 @@ Private Sale
             <h4>박종화 ㈜케이알산업 대표</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+      </div>
+      <div class="row">  
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Moon,-Gyeonghwan---SCGO.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1349,7 +1347,7 @@ Private Sale
             <h4>에스시지오 대표</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Lee,-Bonggyu---Hanyang.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1357,7 +1355,7 @@ Private Sale
             <h4>이봉규 ㈜한양 전무</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Dongman---Khan.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1365,7 +1363,7 @@ Private Sale
             <h4>김동만 케이칸 회장</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Choi,-Youngeun---Mantoss-Power.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1373,7 +1371,7 @@ Private Sale
             <h4>최영은 맨토스파워 대표</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Hong,Nanggi---Kumho.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
@@ -1381,15 +1379,7 @@ Private Sale
             <h4>홍낭기 금호건설 상무</h4>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/Jung,-Huiwon---T-MONET.jpg" alt=""></div>
-          <br>
-          <div class=" kr-adviser">
-            <h3>정희원</h3>
-            <h4>㈜티모넷 부사장/연구소장</h4>
-          </div>
-        </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Chun,-Jonggi---Seegene-Medical-Foundation.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
