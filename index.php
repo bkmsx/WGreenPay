@@ -659,10 +659,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <td>Stellar</td>
             </tr>
             <tr valign="top">
-              <td class="left-table">Token Decimals</td>
-              <td>18</td>
-            </tr>
-            <tr valign="top">
               <td class="left-table">Token Supply</td>
               <td>Fixed supply of 1 billion, 200 million for sale</td>
             </tr>
