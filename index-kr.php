@@ -654,10 +654,6 @@ Private Sale
 <td>스텔라 (Stellar)</td>
 </tr>
 <tr valign="top">
-<td class="left-table">토큰 유효 소수점 자리수</td>
-<td>18</td>
-</tr>
-<tr valign="top">
 <td class="left-table">토큰 공급량</td>
 <td>고정 공급량 10억 개, 판매용 2억 개</td>
 </tr>
@@ -1245,14 +1241,15 @@ Private Sale
           </div>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-<a href="#dongyul" class="open-popup-link"><div class="team-img"><img src="img/team-dongyul-seok.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>석동률 (DONGYUL SEOK)</h3>
-<h4>W재단 Public Relations Adviser</h4>
-<p>(동아일보 부국장)</p>
-</div>
-</div>
+<div class="col-md-2 col-sm-4 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/team-dongyul-seok.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>석동률 (DONGYUL SEOK)</h3>
+            <h4>W재단 Public Relations Adviser</h4>
+		  <p>(동아일보 부국장)</p>
+          </div>
+        </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Dongsik---Kweather.jpg" alt=""></div>
           <br>
