@@ -327,210 +327,210 @@ Private Sale
 <br>
 <br>
 <div class="row">
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/INFINITE.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>인피니트</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/IOI.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>아이오아이 (IOI)</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/The-One.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>더원</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Lydia-Ko.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>리디아 고</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Jang-Wookhyuk.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>장우혁</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Changmin-(TVXQ).jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>동방신기 최강창민</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Choi-Siwon-(Super-Junior).jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>슈퍼주니어 시원</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Donghae-(Super-Junior).jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>슈퍼주니어 동해</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Jinho-(SBS-Producer-of-'Law-of-the-Jungle').jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>김진호PD</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Jongguk.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>김종국</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Alberto-Mondi.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>알베르토 몬디</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Hyungjun.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>김형준</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Eddy-Kim.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>에디킴</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Baek,-Seonghyeon.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>백성현</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Gangnam.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>강남</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Yujung.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>김유정</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Yeo,-Jingu.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>여진구</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Tiffany-(Girl's-Generation).jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>소녀시대 티파니</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Seo,-Muntak.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>서문탁</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Bobby-Kim.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>바비킴</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/ZoPD.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>조PD</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Eru.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>이루</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Yoo,-Inyeong.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>유인영</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Lee,-Eungyeol.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>이은결</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/JK-Kim-Donguk.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>JK김동욱</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Cheon,-Hyeonmu.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>전현무</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Ailee.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>에일리</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Kwon,-Hyeoksu.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>권혁수</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/ULALA-SESSION.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
             <h3>울랄라세션</h3>
           </div>
         </div>
-        <div class="col-md-3 col-sm-3 col-xs-6 v-pad">
+        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Ambassadors/Jang,-Hyuk.jpg" alt=""></div>
           <br>
           <div class="celeb-title">
