@@ -1244,7 +1244,7 @@ Private Sale
           <div class="team-img adviser-img"><img src="img/team-dongyul-seok.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
-            <h3>석동률 (DONGYUL SEOK)</h3>
+            <h3>석동률</h3>
             <h4>W재단 Public Relations Adviser</h4>
 		  <p>(동아일보 부국장)</p>
           </div>
