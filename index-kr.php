@@ -150,7 +150,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="dropdown">
           <a href="">언어 &nbsp;<i class="fa fa-chevron-down"></i></a>
           <div class="dropdown-content">
-            <p><a href="index.php">영어</a></p>
+            <p><a href="index.php">English</a></p>
             <p><a href="index-zh.php">중국말</a></p>
           </div>
       </div> 
@@ -167,7 +167,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a href="#advisers" onClick="closeSidebar(this)">명예고문</a>
 <a href="#contact" onClick="closeSidebar(this)">연락처</a>
 <div class="lng-mobile">
-<a href="index.php">영어</a> &nbsp; <a href="index-zh.php">중국말</a> 
+<a href="index.php">EN</a> &nbsp; <a href="index-zh.php">중국말</a> 
 </div>
 </nav>
 </div>

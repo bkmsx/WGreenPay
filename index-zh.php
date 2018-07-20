@@ -152,7 +152,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="dropdown">
           <a href="">语言 &nbsp;<i class="fa fa-chevron-down"></i></a>
           <div class="dropdown-content">
-            <p><a href="index.php">英语</a></p>
+            <p><a href="index.php">English</a></p>
             <p><a href="index-kr.php">韩语</a></p>
           </div>
       </div> 
@@ -169,7 +169,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <a href="#advisers" onclick="closeSidebar(this)">顾问</a>
       <a href="#contact" onclick="closeSidebar(this)">联系方式</a>
       <div class="lng-mobile">
-        <a href="index.php">英语</a>  &nbsp;<a href="index-kr.php">韩语</a>
+        <a href="index.php">EN</a>  &nbsp;<a href="index-kr.php">韩语</a>
       </div>
     </nav>
   </div>
@@ -691,7 +691,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table">硬上限</td>
-              <td>200 万美元 WGP</td>
+              <td>WGP 2亿个</td>
             </tr>
             <tr valign="top">
               <td class="left-table" style="padding-bottom:40px;">禁售期</td>
