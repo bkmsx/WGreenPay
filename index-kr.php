@@ -147,8 +147,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="#contact">연락처</a></li>
 </ul>
 <div class="lng-container">
-<a href="index.php" class="lng">영어</a> &nbsp;<a href="#" class="lng lng-active">한국어</a>
-</div>
+      <div class="dropdown">
+          <a href="">언어 &nbsp;<i class="fa fa-chevron-down"></i></a>
+          <div class="dropdown-content">
+            <p><a href="index.php">영어</a></p>
+            <p><a href="index-zh.php">중국말</a></p>
+          </div>
+      </div> 
+      <!--<a href="#" class="lng lng-active">EN</a> &nbsp;<a href="index-kr.php" class="lng">KR</a>-->
+    </div>
 <nav>
 <a href="" id="menuToggle" title="show menu"><span class="navClosed"></span></a>
 <a href="#about" onClick="closeSidebar(this)">소개</a>
@@ -160,7 +167,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a href="#advisers" onClick="closeSidebar(this)">명예고문</a>
 <a href="#contact" onClick="closeSidebar(this)">연락처</a>
 <div class="lng-mobile">
-<a href="index.php">한국어</a>
+<a href="index.php">영어</a> &nbsp; <a href="index-zh.php">중국말</a> 
 </div>
 </nav>
 </div>
@@ -652,6 +659,10 @@ Private Sale
 <tr valign="top">
 <td class="left-table">플랫폼</td>
 <td>스텔라 (Stellar)</td>
+</tr>
+<tr valign="top">
+<td class="left-table">토큰 유효 소수점 자리수</td>
+<td>18</td>
 </tr>
 <tr valign="top">
 <td class="left-table">토큰 공급량</td>
@@ -1241,14 +1252,14 @@ Private Sale
           </div>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/team-dongyul-seok.jpg" alt=""></div>
-          <br>
-          <div class=" kr-adviser">
-            <h3>석동률</h3>
-            <h4>W재단 Public Relations Adviser</h4>
-		  <p>(동아일보 부국장)</p>
-          </div>
-        </div>
+<a href="#dongyul" class="open-popup-link"><div class="team-img"><img src="img/team-dongyul-seok.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>석동률 (DONGYUL SEOK)</h3>
+<h4>W재단 Public Relations Adviser</h4>
+<p>(동아일보 부국장)</p>
+</div>
+</div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Dongsik---Kweather.jpg" alt=""></div>
           <br>

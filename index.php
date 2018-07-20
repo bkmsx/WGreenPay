@@ -149,7 +149,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <li><a href="#contact">Contact</a></li>
     </ul>
     <div class="lng-container">
-      <a href="#" class="lng lng-active">EN</a> &nbsp;<a href="index-kr.php" class="lng">KR</a>
+      <div class="dropdown">
+          <a href="">Language &nbsp;<i class="fa fa-chevron-down"></i></a>
+          <div class="dropdown-content">
+            <p><a href="index-kr.php">Korean</a></p>
+            <p><a href="index-zh.php">Chinese</a></p>
+          </div>
+      </div> 
+      <!--<a href="#" class="lng lng-active">EN</a> &nbsp;<a href="index-kr.php" class="lng">KR</a>-->
     </div>
     <nav> 
       <a href="" id="menuToggle" title="show menu"><span class="navClosed"></span></a> 
@@ -162,7 +169,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <a href="#advisers" onclick="closeSidebar(this)">Advisers</a>
       <a href="#contact" onclick="closeSidebar(this)">Contact</a>
       <div class="lng-mobile">
-        <a href="index-kr.php">KR</a>
+        <a href="index-kr.php">KR</a> &nbsp; <a href="index-zh.php">CN</a> 
       </div>
     </nav>
   </div>
