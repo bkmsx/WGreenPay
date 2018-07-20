@@ -247,7 +247,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="h-line"></div>
         <h1>W <span style="color:#87b44c;">Green Pay</span></h1>
         <br>
-        <h4>W Green Pay（“WGP”）是符合ERC20标准，可以在以太坊区块链上使用的一种代币。 W Green Pay致力于提升公众对GHG（温室气体）减排的参与度。 W Green Pay将通过多种方式激励公众减少温室气体排放。</h4>
+        <h4>W Green Pay（“WGP”）是符合Stellar标准，可以在以太坊区块链上使用的一种代币。 W Green Pay致力于提升公众对GHG（温室气体）减排的参与度。 W Green Pay将通过多种方式激励公众减少温室气体排放。</h4>
         <br>
         <h4>用户完成温室气体减排任务后，可通过HOOXI应用程序获得奖励。</h4>
         <br>
@@ -914,7 +914,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h3 class="timeline-title">2017年12月</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>HOOXI活动宣言</h4></li>
+                  <li><h4>HOOXI运动发布仪式</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -929,8 +929,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h3 class="timeline-title">2018年4月</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>HOOXI竞选委员会就职典礼</h4></li>
-                  <li><h4>W Green Pay得到新加坡认证</h4></li>
+                  <li><h4>HOOXI运动委员会成立仪式</h4></li>
+                  <li><h4>W Green Pay在新加坡获得认证</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -945,7 +945,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h3 class="timeline-title">2018年5月-7月</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>W Green Pay非公开销售e</h4></li>
+                  <li><h4>非公开发售W Green Pay</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -960,7 +960,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h3 class="timeline-title">2018年7月-8</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>W Green Pay 公开发售</h4></li>
+                  <li><h4>公开发售W Green Pay</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -975,7 +975,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h3 class="timeline-title">2018年10月</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>HOOXI应用启动</h4></li>
+                  <li><h4>推出HOOXI 应用软件</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -990,7 +990,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h3 class="timeline-title">2018年10月中旬</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>HOOXI应用启动节</h4></li>
+                  <li><h4>HOOXI应用软件、HOOXI运动节</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -1002,10 +1002,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">2019年13月</h3>
+                <h3 class="timeline-title">2019年3月</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>W 交易启动</h4></li>
+                  <li><h4>成立W Exchange</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
