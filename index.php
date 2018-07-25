@@ -182,8 +182,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <h1>JOIN <span style="color:#87b44c;">W GREEN PAY</span> HOOXI CAMPAIGN</h1>
     <h4>The most innovative social carbon credit platform to be launched.</h4>
     <br><br>
-    <h4 style="font-weight:700;"><span style="color:#87b44c;">PUBLIC SALE</span> STARTS IN:</h4>
-    <br><br>
+    <table>
+      <tr valign="top"> 
+        <td style="text-align:right;"><h4>PRIVATE SALE</h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">1st Tier SOLD OUT</span></h4></td>
+      </tr>
+      <tr valign="top"> 
+        <td></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">2nd Tier ON-GOING</span></h4></td>
+      </tr> 
+      <tr valign="top"> 
+        <td style="text-align:right;"><h4>PUBLIC SALE</h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">Q4 2018</span></h4></td>
+      </tr>  
+    </table>
+    <br>
+    <!--
     <div id="token_sale"></div>
     <br>
     <ul class="countdown">
@@ -679,11 +693,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table">Private Sale Date</td>
-              <td>14th of May to 26th of July, 2018</td>
+              <td>May to October, 2018</td>
             </tr>
             <tr valign="top">
               <td class="left-table">Public Sale Date</td>
-              <td>27th of July to 27th of August, 2018</td>
+              <td>Q4 2018</td>
             </tr>
             <tr valign="top">
               <td class="left-table">Soft Cap</td>
@@ -942,7 +956,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">May - Jul 2018</h3>
+                <h3 class="timeline-title">May - Oct 2018</h3>
                 <br>
                 <ul class="roadmap">
                   <li><h4>W Green Pay Private Sale</h4></li>
@@ -957,7 +971,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">Jul - Aug 2018</h3>
+                <h3 class="timeline-title">Q4 2018</h3>
                 <br>
                 <ul class="roadmap">
                   <li><h4>W Green Pay Public Sale</h4></li>
@@ -966,6 +980,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div style="clear:both;"></div>
             </div>
           </li>
+          <!--
           <li class="timeline-item">
             <div class="timeline-info"> </div>
             <div class="timeline-marker timeline-inactive"></div>
@@ -995,7 +1010,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div style="clear:both;"></div>
             </div>
-          </li>
+          </li>-->
           <li class="timeline-item">
             <div class="timeline-info"> </div>
             <div class="timeline-marker timeline-inactive"></div>
