@@ -709,7 +709,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table" style="padding-bottom:40px;">Lock-up Period</td>
-              <td style="padding-bottom:40px;">W Green Pay held by the Team and Private Sale investors shall be subjected to a lock-up period of six (6) months from the end of public sale (27th of August, 2018)</td>
+              <td style="padding-bottom:40px;">W Green Pay held by the Team and Private Sale investors shall be subjected to a lock-up period of six (6) months from the end of public sale</td>
             </tr>
         </table>
       </div>
