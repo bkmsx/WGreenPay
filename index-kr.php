@@ -654,9 +654,9 @@ Private Sale
 <br>
 <p>이번 ICO에는 10억개의 전체 물량 중 2억개의 WGP만 판매된다. 판매되지 않는 8억개 WGP의 용도는 다음과 같다: </p>
 <ul>
-          <li>2억개 (20%): WGP 발행자 보유분 (이번 ICO 공개판매 종료일자 2018년 8월 27일부터 6개월동안 판매 제한)</li>
+          <li>2억개 (20%): WGP 발행자 보유분 (이번 ICO 공개판매 종료일자 부터 6개월동안 판매 제한)</li>
           <li>2억개 (20%): HOOXI 캠페인 참가자에 대한 리워드 제공을 위해 HOOXI 앱에 할당 (리워드 보유물량 소진시, 시장에서 WGP를 구매하여 리워드 시스템 유지)</li>
-          <li>4억개 (40%): 판매 유보분 (이번 ICO 공개판매 종료일자 2018년 8월 27일부터 6개월동안 판매 제한)</li>
+          <li>4억개 (40%): 판매 유보분 (이번 ICO 공개판매 종료일자 부터 6개월동안 판매 제한)</li>
         </ul>
 </div>
 <div class="col-md-8 token-table">
@@ -707,7 +707,7 @@ Private Sale
 </tr>
 <tr valign="top">
 <td class="left-table" style="padding-bottom:40px;">매각 제한 기간</td>
-<td style="padding-bottom:40px;">발행자와 비공개 투자자가 보유한 WGP 및 판매가 유보된 WGP는 공개 판매 종료 일자인 2018년 8월 27일부터 6개월 동안 매각이 제한된다</td>
+<td style="padding-bottom:40px;">발행자와 비공개 투자자가 보유한 WGP 및 판매가 유보된 WGP는 공개 판매 종료 일자인 부터 6개월 동안 매각이 제한된다</td>
 </tr>
 </table>
 </div>
