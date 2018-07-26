@@ -247,7 +247,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="h-line"></div>
         <h1>W <span style="color:#87b44c;">Green Pay</span></h1>
         <br>
-        <h4>W Green Pay（“WGP”）是符合Stellar标准，可以在以太坊区块链上使用的一种代币。 W Green Pay致力于提升公众对GHG（温室气体）减排的参与度。 W Green Pay将通过多种方式激励公众减少温室气体排放。</h4>
+        <h4>W Green Pay（“WGP”）是符合Stellar标准，可以在Stellar区块链上使用的一种代币。 W Green Pay致力于提升公众对GHG（温室气体）减排的参与度。 W Green Pay将通过多种方式激励公众减少温室气体排放。</h4>
         <br>
         <h4>用户完成温室气体减排任务后，可通过HOOXI应用程序获得奖励。</h4>
         <br>
