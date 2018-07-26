@@ -660,9 +660,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <br>
         <p>本次ICO仅发售10亿总量中的2亿个WGP，未售出的8亿WGP具有以下用途：</p>
         <ul>
-          <li>2亿（20%）：WGP发行人持有（自本次ICO公开发售结束日期2018年8月27日起6个月内限售）</li>
+          <li>2亿（20%）：WGP发行人持有（自本次ICO公开发售结束日期起6个月内限售）</li>
           <li>2亿（2 0%）：分配给H O O X I应用软件，为HOOXI运动的参与者提供奖励（当奖励持有量耗尽时，通过在市场上购买WGP来维持奖励系统运作）</li>
-          <li>4亿（40%）：保留待售（自本次ICO公开发售结束日期2018年8月27日起6个月内限售）</li>
+          <li>4亿（40%）：保留待售（自本次ICO公开发售结束日期起6个月内限售）</li>
         </ul>
       </div>
       <div class="col-md-8 token-table">
@@ -709,7 +709,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table" style="padding-bottom:40px;">禁售期</td>
-              <td style="padding-bottom:40px;">公开售卖日（2018年8月27日）起六（6）个月内为禁售期，团体及私人投资者需等待禁售期过后才能出售持有的W Green Pay 。</td>
+              <td style="padding-bottom:40px;">公开售卖日 起六（6）个月内为禁售期，团体及私人投资者需等待禁售期过后才能出售持有的W Green Pay 。</td>
             </tr>
         </table>
       </div>
