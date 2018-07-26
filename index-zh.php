@@ -182,8 +182,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <h1>加入<span style="color:#87b44c;">W GREEN PAY</span> 的 HOOXI 活动！</h1>
     <h4>最具创新性的社会碳信用平台即将推出</h4>
     <br><br>
-    <h4 style="font-weight:700;"><span style="color:#87b44c;">公开发售</span> 开始日期：</h4>
-    <br><br>
+    <table>
+      <tr> 
+        <td style="text-align:right;"><h4>私人发售</h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">第一阶段已售完。</span></h4></td>
+      </tr>
+      <tr> 
+        <td></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">第二阶段正在进行中</span></h4></td>
+      </tr> 
+      <tr> 
+        <td style="text-align:right;"><h4>公开发售</h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">2018年第四季度开始</span></h4></td>
+      </tr>  
+    </table>
+    <br>
+    <!--
     <div id="token_sale"></div>
     <br>
     <ul class="countdown">
@@ -678,12 +692,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <td>每币2美元</td>
             </tr>
             <tr valign="top">
-              <td class="left-table">非公开发售日期</td>
-              <td>2018年5月14日至26日</td>
+              <td class="left-table">私人发售日期</td>
+              <td>2018年5月至10月</td>
             </tr>
             <tr valign="top">
               <td class="left-table">公开发售日期</td>
-              <td>2018年7月27日至8月27日</td>
+              <td>2018年第四季度</td>
             </tr>
             <tr valign="top">
               <td class="left-table">软上限</td>
@@ -942,10 +956,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">2018年5月-7月</h3>
+                <h3 class="timeline-title">2018年5月-10月</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>非公开发售W Green Pay</h4></li>
+                  <li><h4>私人发售W Green Pay</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -957,7 +971,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">2018年7月-8</h3>
+                <h3 class="timeline-title">2018年第四季度8</h3>
                 <br>
                 <ul class="roadmap">
                   <li><h4>公开发售W Green Pay</h4></li>
@@ -966,6 +980,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div style="clear:both;"></div>
             </div>
           </li>
+          <!--
           <li class="timeline-item">
             <div class="timeline-info"> </div>
             <div class="timeline-marker timeline-inactive"></div>
@@ -995,7 +1010,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div style="clear:both;"></div>
             </div>
-          </li>
+          </li>-->
           <li class="timeline-item">
             <div class="timeline-info"> </div>
             <div class="timeline-marker timeline-inactive"></div>

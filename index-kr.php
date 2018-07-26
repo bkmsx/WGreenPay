@@ -181,9 +181,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <br>  
 <h4>가장 혁신적인 온실가스 감축 플랫폼이 출시됩니다.</h4>
 <br><br>
-<h4 style="font-weight:700;"><span style="color:#87b44c;">공개 판매가 곧 시작됩니다! (하기 카운트 다운):</h4>
-<br><br>
-<div id="token_sale"></div>
+<table>
+      <tr> 
+        <td style="text-align:right;"><h4>비공개판매</h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">1차분 마감!</span></h4></td>
+      </tr>
+      <tr> 
+        <td></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">2차분 진행중</span></h4></td>
+      </tr> 
+      <tr> 
+        <td style="text-align:right;"><h4>공개판매</h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">2018년 4분기 중</span></h4></td>
+      </tr>  
+    </table>
+    <br>
+<!--<div id="token_sale"></div>
 <br>
 <ul class="countdown">
 <li class="days small-font">
@@ -678,11 +691,11 @@ Private Sale
 </tr>
 <tr valign="top">
 <td class="left-table">비공개 판매일정</td>
-<td>2018년 5월 14일-7월26일</td>
+<td>2018년 5월-10월</td>
 </tr>
 <tr valign="top">
 <td class="left-table">공개 판매일정</td>
-<td>2018년 7월 27일-8월27일</td>
+<td>2018년 4분기</td>
 </tr>
 <tr valign="top">
 <td class="left-table">소프트 캡</td>
@@ -952,7 +965,7 @@ Private Sale
 <div class="timeline-content">
 <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
 <div class="timeline-detail">
-<h3 class="timeline-title">2018년 5월-7월</h3>
+<h3 class="timeline-title">2018년 5월-10월</h3>
 <br>
 <ul class="roadmap">
 <li><h4>W Green Pay 비공개판매</h4></li>
@@ -967,7 +980,7 @@ Private Sale
 <div class="timeline-content">
 <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
 <div class="timeline-detail">
-<h3 class="timeline-title">2018년 7월-8월</h3>
+<h3 class="timeline-title">2018년 4분기</h3>
 <br>
 <ul class="roadmap">
 <li><h4>W Green Pay 공개판매</h4></li>
@@ -976,7 +989,7 @@ Private Sale
 <div style="clear:both;"></div>
 </div>
 </li>
-<li class="timeline-item">
+<!--<li class="timeline-item">
 <div class="timeline-info"> </div>
 <div class="timeline-marker timeline-inactive"></div>
 <div class="timeline-content">
@@ -1005,7 +1018,7 @@ Private Sale
 </div>
 <div style="clear:both;"></div>
 </div>
-</li>
+</li>-->
 <li class="timeline-item">
 <div class="timeline-info"> </div>
 <div class="timeline-marker timeline-inactive"></div>

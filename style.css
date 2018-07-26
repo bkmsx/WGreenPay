@@ -302,6 +302,15 @@ ul.countdown h3 {
 .mins {width:80px;}
 .sec {width:75px;}
 
+.home-container h4 {
+	font-weight:700;
+}
+
+.home-container td {
+	padding:3px 15px;
+	width:50%;
+}
+
 .progress {
 	border-radius:10px;
 }
