@@ -709,7 +709,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table" style="padding-bottom:40px;">禁售期</td>
-              <td style="padding-bottom:40px;">公开售卖日 起六（6）个月内为禁售期，团体及私人投资者需等待禁售期过后才能出售持有的W Green Pay 。</td>
+              <td style="padding-bottom:40px;">公开售卖日 起六（6）个月内为禁售期，团体需等待禁售期过后才能出售持有的W Green Pay</td>
             </tr>
         </table>
       </div>

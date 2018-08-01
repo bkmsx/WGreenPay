@@ -707,7 +707,7 @@ Private Sale
 </tr>
 <tr valign="top">
 <td class="left-table" style="padding-bottom:40px;">매각 제한 기간</td>
-<td style="padding-bottom:40px;">발행자와 비공개 투자자가 보유한 WGP 및 판매가 유보된 WGP는 공개 판매 종료 일자인 부터 6개월 동안 매각이 제한된다</td>
+<td style="padding-bottom:40px;">발행자가 보유한 WGP 및 판매가 유보된 WGP는 공개 판매 종료 일자일로부터 6개월 동안 매각이 제한된다</td>
 </tr>
 </table>
 </div>
