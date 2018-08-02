@@ -1116,6 +1116,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="team-title">
           <h3>Jeremy Khoo</h3>
           <h4>商务拓展顾问</h4>
+		<p>（首席执行官，区块链基金伙伴，区块链企业家）</p>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 v-pad">
@@ -1124,6 +1125,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="team-title">
           <h3>Irwin Chee</h3>
           <h4>商务拓展顾问</h4>
+		<p>（风险投资基金合伙人，区块链基金伙伴，区块链顾问）</p>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 v-pad">
