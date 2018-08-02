@@ -1116,6 +1116,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="team-title">
           <h3>Jeremy Khoo</h3>
           <h4>Business Development Adviser</h4>
+		 <p>(Group CEO iFashion Group, Crypto Fund Partner, Blockchain Entrepreneur)</p>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 v-pad">
@@ -1124,6 +1125,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="team-title">
           <h3>Irwin Chee</h3>
           <h4>Business Development Adviser</h4>
+		 <p>(Venture Capital Partner, Crypto Fund Partner, Blockchain Consultant)</p>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 v-pad">
