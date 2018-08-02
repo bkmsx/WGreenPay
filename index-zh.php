@@ -895,16 +895,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     <div class="row" style="margin-top:80px;">
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-		<a href="https://icobench.com/ico/w-green-pay" target="_blank"><img src="img/media-logos/media-icobench.jpg"></a>
+		<a href="https://icobench.com/ico/w-green-pay" target="_blank"><img src="img/media-logos/ICObench.png"></a>
       </div>
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        <a href="https://www.icoalert.com/?q=w%20green%20pay&is_v=1" target="_blank"><img src="img/media-logos/media-icoalert.jpg"></a>
+        <a href="https://www.icoalert.com/?q=w%20green%20pay&is_v=1" target="_blank"><img src="img/media-logos/icoalert2.png"></a>
       </div>
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        <a href="https://www.coinhills.com/ico/view/w-green-pay/" target="_blank"><img src="img/media-logos/media-coinhills.jpg"></a>
+        <a href="https://www.coinhills.com/ico/view/w-green-pay/" target="_blank"><img src="img/media-logos/coinhills.png"></a>
       </div>
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        <a href="https://www.trackico.io/ico/w-green-pay/" target="_blank"><img src="img/media-logos/media-trackico.jpg"></a>
+        <a href="https://www.trackico.io/ico/w-green-pay/" target="_blank"><img src="img/media-logos/TrackICO.png"></a>
       </div>
     </div>
   </div>
