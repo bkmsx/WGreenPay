@@ -1055,6 +1055,7 @@ Private Sale
 <h4>W재단 이사장</h4>
 </div>
 </div>
+<!--
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#kyung" class="open-popup-link"><div class="team-img"><img src="img/team-kyeong-keun-hong.jpg" alt=""></div></a>
 <br>
@@ -1062,7 +1063,7 @@ Private Sale
 <h3>홍경근 (Kyung Keun Hong)</h3>
 <h4>W재단 총재</h4>
 </div>
-</div>
+</div>-->
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#youreelee" class="open-popup-link"><div class="team-img"><img src="img/team-youree-lee.jpg" alt=""></div></a>
 <br>
@@ -1079,8 +1080,6 @@ Private Sale
 <h4>W재단 Director of Strategy</h4>
 </div>
 </div>
-</div>
-<div class="row">
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#keon" class="open-popup-link"><div class="team-img"><img src="img/team-keon.jpg" alt=""></div></a>
 <br>
@@ -1089,6 +1088,8 @@ Private Sale
 <h4>W재단 Financial Adviser</h4>
 </div>
 </div>
+</div>
+<div class="row">
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
 <br>
@@ -1098,6 +1099,7 @@ Private Sale
 <p>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</p>
 </div>
 </div>
+<!--
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#alex" class="open-popup-link"><div class="team-img"><img src="img/team-sung-hyuk-hong.jpg" alt=""></div></a>
 <br>
@@ -1106,7 +1108,7 @@ Private Sale
 <h4>W재단 Director</h4>
 <p>(HOOXI Global 이사, AZworth Trust 대표)</p>
 </div>
-</div>
+</div>-->
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
 <br>
@@ -1116,8 +1118,6 @@ Private Sale
 <p>(Managing Partner and Executive Chairman at Novum Capital)</p>
 </div>
 </div>
-</div>
-<div class="row">
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#jeremy" class="open-popup-link"><div class="team-img"><img src="img/team-jeremy.jpg" alt=""></div></a>
 <br>
@@ -1136,6 +1136,8 @@ Private Sale
 	<p>(Venture Capital Partner, Crypto Fund Partner, Blockchain Consultant)</p>
 </div>
 </div>
+</div>
+<div class="row">
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#seonggu" class="open-popup-link"><div class="team-img"><img src="img/team-seonggu-ryu.jpg" alt=""></div></a>
 <br>

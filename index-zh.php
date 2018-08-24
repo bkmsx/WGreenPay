@@ -1047,6 +1047,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>主席</h4>
         </div>
       </div>
+	  <!--
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#kyung" class="open-popup-link"><div class="team-img"><img src="img/team-kyeong-keun-hong.jpg" alt=""></div></a>
         <br>
@@ -1054,7 +1055,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h3>Kyung Keun Hong</h3>
           <h4>W-Foundation总裁</h4>
         </div>
-      </div>
+      </div>-->
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#youreelee" class="open-popup-link"><div class="team-img"><img src="img/team-youree-lee.jpg" alt=""></div></a>
         <br>
@@ -1071,9 +1072,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>策略总监</h4>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-3 col-sm-6 v-pad">
+	  <div class="col-md-3 col-sm-6 v-pad">
         <a href="#keon" class="open-popup-link"><div class="team-img"><img src="img/team-keon.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1081,6 +1080,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>财务顾问</h4>
         </div>
       </div>
+    </div>
+    <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
         <br>
@@ -1090,6 +1091,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p>WWRC Holding Pte. Ltd. WWRC 集团，集团战略与公司事务经理</p>
         </div>
       </div>
+	  <!--
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#alex" class="open-popup-link"><div class="team-img"><img src="img/team-sung-hyuk-hong.jpg" alt=""></div></a>
         <br>
@@ -1098,7 +1100,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>W-Foundation董事</h4>
           <p>（HOOXI Global 董事兼 AZworth Trust首席执行官）</p>
         </div>
-      </div>
+      </div>-->
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
         <br>
@@ -1108,9 +1110,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p>Novum Capital 高级管理合伙人兼执行主席</p>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-3 col-sm-6 v-pad">
+	  <div class="col-md-3 col-sm-6 v-pad">
         <a href="#jeremy" class="open-popup-link"><div class="team-img"><img src="img/team-jeremy.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1128,6 +1128,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<p>（风险投资基金合伙人，区块链基金伙伴，区块链顾问）</p>
         </div>
       </div>
+    </div>
+    <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#seonggu" class="open-popup-link"><div class="team-img"><img src="img/team-seonggu-ryu.jpg" alt=""></div></a>
         <br>
