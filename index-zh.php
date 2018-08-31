@@ -144,6 +144,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <li><a href="#token">代币销售</a></li>
       <li><a href="#media">媒体</a></li>
       <li><a href="#roadmap">路径图</a></li>
+	  <li><a href="#partner">策略伙伴</a></li>
       <li><a href="#team">团队</a></li>
       <li><a href="#advisers">顾问</a></li>
       <li><a href="#contact">联系方式</a></li>
@@ -165,6 +166,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <a href="#token" onclick="closeSidebar(this)">代币销售</a>
       <a href="#media" onclick="closeSidebar(this)">媒体</a>
       <a href="#roadmap" onclick="closeSidebar(this)">路径图</a>
+	  <a href="#partner" onclick="closeSidebar(this)">策略伙伴</a>
       <a href="#team" onclick="closeSidebar(this)">团队</a>
       <a href="#advisers" onclick="closeSidebar(this)">顾问</a>
       <a href="#contact" onclick="closeSidebar(this)">联系方式</a>
@@ -193,7 +195,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </tr> 
       <tr> 
         <td style="text-align:right;"><h4>公开发售</h4></td>
-        <td style="text-align:left;"><h4 style="color:#87b44c;">2018年第四季度开始</span></h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">2018年十月一日至十四日</span></h4></td>
       </tr>  
     </table>
     <br>
@@ -290,21 +292,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="features-icon">
           <img src="img/feature-icon-1.png" alt="">
           <br><br>
-          <h4>将完成任务所积攒的任务点交易变为W Green Pay</h4>
+          <h4>根据完成的环境任务奖励的任务点获得WGP</h4>
         </div>
       </div>
       <div class="col-md-4 v-pad">
         <div class="features-icon">
           <img src="img/feature-icon-2.png" alt="">
           <br>
-          <h4>在网上商城使用W Green Pay（W-Foundation的合作伙伴）消费</h4>
+          <h4>在HOOXI购物中心和合作的线上/线下商店花费W Green Pay（即通过Zeex，包括Amazon，Starbucks等450多个品牌的商店）</h4>
         </div>
       </div>
       <div class="col-md-4 v-pad">
         <div class="features-icon">
           <img src="img/feature-icon-3.png" alt="">
           <br>
-          <h4>使用W Green Pay作为收益回报系统</h4>
+          <h4>发行“W Green Pay Crypto Card” - 在全球任何地方使用WGP作为付款方式</h4>
         </div>
       </div>
     </div>
@@ -316,11 +318,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <br>
     <h2><span style="color:#ggg;">HOOXI</span> 应用</h2>
     <br>
-    <p>移动应用HOOXI将跟踪、汇总个人的温室气体减排数据，根据该数据，W-Foundation将分配国家排放许可证（NEPs），即在韩国市场交易的碳排放单位。通过HOOXI活动，基于NEP的碳交易的经济奖励将不再是公司和机构的独有的市场，而是将向个人开放的领域。</p>
+    <p>移动应用HOOXI将跟踪、汇总个人的温室气体减排数据，根据该数据，W-Foundation将分配国家排放许可证（韩国碳补偿额度），即在韩国市场交易的碳排放单位。通过HOOXI活动，基于韩国碳补偿额度的碳交易的经济奖励将不再是公司和机构的独有的市场，而是将向个人开放的领域。</p>
     <br>
     <h2>W Exchange</h2>
     <br>
-    <p>经韩国电力公司（KEPCO）批准，W Exchange将于2019年3月启动。预计W Exchange将成为符合KETS资格的商业实体。预计HOOXI应用分配的NEP将使用W Exchange以代币KRX进行交易，</p>
+    <p>经韩国电力公司（KEPCO）批准，W Exchange将于2019年3月启动。预计W Exchange将成为符合KETS资格的商业实体。预计HOOXI应用分配的韩国碳补偿额度将使用W Exchange以代币KRX进行交易，</p>
   </div>
 </section>
 <section class="sponsors">
@@ -574,7 +576,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <br>
         <p>2009年，韩国加入《哥本哈根协议》，承诺参与温室气体减排这一全球运动。韩国政府的目标是到2030年将温室气体排放量在目前基础上减少37％。 2015年，韩国推出了碳排放交易体系（Korea's Emissions Trading Scheme，即KETS），该体系是欧盟减排交易机制之后的第二大碳排放交易制度。</p>
     <br>
-    <p>韩国的总量管制与交易（Cap-and-Trade）系统通过市场机制减少温室气体排放。该系统适用于约600家公司，这些公司的碳排放量占韩国温室气体排放量的68％以上（Korea Carbon，2018年）。确定公司最高排放量上限由政府规定。当公司排放量超过上限时，公司必须以市场价额外购买国家排放许可证（NEP），或向政府支付罚款。</p>
+    <p>韩国的总量管制与交易（Cap-and-Trade）系统通过市场机制减少温室气体排放。该系统适用于约600家公司，这些公司的碳排放量占韩国温室气体排放量的68％以上（Korea Carbon，2018年）。确定公司最高排放量上限由政府规定。当公司排放量超过上限时，公司必须以市场价额外购买国家排放许可证（韩国碳补偿额度），或向政府支付罚款。</p>
     <br>
     <p>不遵守碳排放交易体系（KETS）的罚款为：每单位的tCO2e需支付平均市场价的三倍罚金。最高罚款上限为每吨二氧化碳100,000韩元（约合93美元/吨二氧化碳当量）。</p>
         <br>
@@ -584,20 +586,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="img/emission.png" alt="">
       </div>
       <div class="col-md-6 v-pad">
-        <h2>NEP <span style="color:#87b44c;">（国家排放许可证）</span></h2>
+        <h2>韩国碳补偿额度</h2>
         <br>
         <h4 style="font-weight:700;">（国家排放许可证）验证</h4>
         <br>
-        <p>韩国的NEP（国家排放许可证）由环境部验证，并以现行市场价格进行交易。尽管市场对NEP的需求不断增长，但环境部对NEP的配额依然有限。截至2018年4月14日，NEP的价格高达约每吨22,000韩元（20美元），这高于欧盟的CER（核证减排量）。截至2017年4月16日，欧盟的CER价格约为每吨13.84欧元（约合每吨17,700韩元）。</p>
+        <p>韩国的韩国碳补偿额度（国家排放许可证）由环境部验证，并以现行市场价格进行交易。尽管市场对韩国碳补偿额度的需求不断增长，但环境部对韩国碳补偿额度的配额依然有限。截至2018年4月14日，韩国碳补偿额度的价格高达约每吨22,000韩元（20美元），这高于欧盟的CER（核证减排量）。截至2017年4月16日，欧盟的CER价格约为每吨13.84欧元（约合每吨17,700韩元）。</p>
         <br><br>
         <img src="img/graph-nep.png" alt="">
         <br>
         <br>
         <br>
         <br>
-        <h4 style="font-weight:700;">NEP（国家排放许可证）市场规模</h4>
+        <h4 style="font-weight:700;">韩国碳补偿额度（国家排放许可证）市场规模</h4>
         <br>
-        <p>目前约有600家公司参与韩国的碳排放交易。NEP市场规模从2015年的573亿韩元基线迅速增长；2016年，KETS高达1946亿韩元，2017年则达到4385亿韩元（取自于2017年1月至10月的有效数据）（韩国战略与金融部，2017年）。据韩国政府预计，未来几年内NEP市场将持续增长。</p>
+        <p>目前约有600家公司参与韩国的碳排放交易。韩国碳补偿额度市场规模从2015年的573亿韩元基线迅速增长；2016年，KETS高达1946亿韩元，2017年则达到4385亿韩元（取自于2017年1月至10月的有效数据）（韩国战略与金融部，2017年）。据韩国政府预计，未来几年内韩国碳补偿额度市场将持续增长。</p>
         
       </div> 
     </div>
@@ -676,16 +678,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <td>WGP</td>
             </tr>
             <tr valign="top">
-              <td class="left-table">交易平台</td>
-              <td>恒星币</td>
+              <td class="left-table">运行平台</td>
+              <td>Stellar</td>
             </tr>
             <tr valign="top">
-              <td class="left-table">代币供应 </td>
-              <td>固定供应量为1亿，其中2000万可售</td>
+              <td class="left-table">代币供应量</td>
+              <td>固定供应10亿个，对外发售2亿个</td>
             </tr>
             <tr valign="top">
               <td class="left-table">交易货币</td>
-              <td>恒星币/以太币 / 比特币 / 美元</td>
+              <td>恒星币 / 以太币 / 比特币 / 美元</td>
             </tr>
             <tr valign="top">
               <td class="left-table">代币价格</td>
@@ -693,11 +695,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table">私人发售日期</td>
-              <td>2018年5月至10月</td>
+              <td>2018年5月至9月</td>
             </tr>
             <tr valign="top">
               <td class="left-table">公开发售日期</td>
-              <td>2018年第四季度</td>
+              <td>2018年10月1日至14日</td>
             </tr>
             <tr valign="top">
               <td class="left-table">软上限</td>
@@ -709,7 +711,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table" style="padding-bottom:40px;">禁售期</td>
-              <td style="padding-bottom:40px;">公开售卖日 起六（6）个月内为禁售期，团体需等待禁售期过后才能出售持有的W Green Pay</td>
+              <td style="padding-bottom:40px;">从公开发售结束当天(2018年10月14日)起6个月限售由发行人所 持有的WGP</td>
             </tr>
         </table>
       </div>
@@ -928,7 +930,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h3 class="timeline-title">2017年12月</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>HOOXI运动发布仪式</h4></li>
+                  <li><h4>HOOXI运动宣言</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -943,8 +945,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h3 class="timeline-title">2018年4月</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>HOOXI运动委员会成立仪式</h4></li>
-                  <li><h4>W Green Pay在新加坡获得认证</h4></li>
+                  <li><h4>HOOXI竞选委员会 就职典礼</h4></li>
+                  <li><h4>W Green Pay 证书在新加坡</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -956,10 +958,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">2018年5月-10月</h3>
+                <h3 class="timeline-title">2018年5月-9月</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>私人发售W Green Pay</h4></li>
+                  <li><h4>W Green Pay 私人发售</h4></li>
+                </ul>
+              </div>
+              <div style="clear:both;"></div>
+            </div>
+          </li>
+		  <li class="timeline-item">
+            <div class="timeline-info"> </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+              <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
+              <div class="timeline-detail">
+                <h3 class="timeline-title">2018年7月27日至29日</h3>
+                <br>
+                <ul class="roadmap">
+                  <li><h4>HOOXI露营节</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -971,26 +988,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">2018年第四季度8</h3>
+                <h3 class="timeline-title">2018年十月1日至14日</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>公开发售W Green Pay</h4></li>
-                </ul>
-              </div>
-              <div style="clear:both;"></div>
-            </div>
-          </li>
-          <!--
-          <li class="timeline-item">
-            <div class="timeline-info"> </div>
-            <div class="timeline-marker timeline-inactive"></div>
-            <div class="timeline-content">
-              <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
-              <div class="timeline-detail">
-                <h3 class="timeline-title">2018年10月</h3>
-                <br>
-                <ul class="roadmap">
-                  <li><h4>推出HOOXI 应用软件</h4></li>
+                  <li><h4>W Green Pay 公开发售</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -1002,16 +1003,46 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">2018年10月中旬</h3>
+                <h3 class="timeline-title">2018年10月4日</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>HOOXI应用软件、HOOXI运动节</h4></li>
+                  <li><h4>HOOXI APP 在应用商店可下载</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
             </div>
-          </li>-->
+          </li>
           <li class="timeline-item">
+            <div class="timeline-info"> </div>
+            <div class="timeline-marker timeline-inactive"></div>
+            <div class="timeline-content">
+              <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
+              <div class="timeline-detail">
+                <h3 class="timeline-title">2018年10月10日至12日</h3>
+                <br>
+                <ul class="roadmap">
+                  <li><h4>韩国碳论坛</h4></li>
+                </ul>
+              </div>
+              <div style="clear:both;"></div>
+            </div>
+          </li>
+          <li class="timeline-item">
+            <div class="timeline-info"> </div>
+            <div class="timeline-marker timeline-inactive"></div>
+            <div class="timeline-content">
+              <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
+              <div class="timeline-detail">
+                <h3 class="timeline-title">2018年11月2日至4日</h3>
+                <br>
+                <ul class="roadmap">
+                  <li><h4>HOOXI应用软件发布会</h4></li>
+                </ul>
+              </div>
+              <div style="clear:both;"></div>
+            </div>
+          </li>
+		  <li class="timeline-item">
             <div class="timeline-info"> </div>
             <div class="timeline-marker timeline-inactive"></div>
             <div class="timeline-content">
@@ -1020,7 +1051,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h3 class="timeline-title">2019年3月</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>成立W Exchange</h4></li>
+                  <li><h4>W Exchange启动</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -1033,6 +1064,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </section>
 <!------------ Roadmap end ------------>
 
+<!------------ Partner start ------------>
+<section id="partner">
+  <div class="container">
+	<h1>策略伙伴</h1>
+    <div class="h-line"></div>
+	<div class="row">
+	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-lightyear.jpg" alt=""></div> 
+	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-yg.jpg" alt=""></div> 
+	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-icon.jpg" alt=""></div> 
+      <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-factblock.jpg" alt=""></div> 
+	</div>
+	<div class="row">
+	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-kona.jpg" alt=""></div> 
+	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-zeex.jpg" alt=""></div> 
+	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-emusic.jpg" alt=""></div> 
+      <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-daehyun.jpg" alt=""></div> 
+	</div>
+  </div>
+</section>
+<!------------ Partner end ------------>
+
 <!------------ Team start ------------>
 <section id="team">
   <div class="container">
@@ -1043,71 +1095,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <a href="#wooklee" class="open-popup-link"><div class="team-img"><img src="img/team-wook-lee.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
-          <h3>Wook Lee</h3>
-          <h4>主席</h4>
+          <h3>李旭 (WOOK LEE)</h3>
+          <h4>W-Foundation主席</h4>
         </div>
       </div>
-	  <!--
-      <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#kyung" class="open-popup-link"><div class="team-img"><img src="img/team-kyeong-keun-hong.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Kyung Keun Hong</h3>
-          <h4>W-Foundation总裁</h4>
-        </div>
-      </div>-->
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#youreelee" class="open-popup-link"><div class="team-img"><img src="img/team-youree-lee.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
-          <h3>Youree Lee 博士</h3>
-          <h4>CEO</h4>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#bruno" class="open-popup-link"><div class="team-img"><img src="img/team-bruno-wu.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Bruno Wu</h3>
-          <h4>策略总监</h4>
+          <h3>YOUREE LEE博士</h3>
+          <h4>W-Foundation的联合创始人兼首席执行官 (汉阳大学商学院客座教授)</h4>
         </div>
       </div>
 	  <div class="col-md-3 col-sm-6 v-pad">
         <a href="#keon" class="open-popup-link"><div class="team-img"><img src="img/team-keon.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
-          <h3>KEON HO SHIM</h3>
-          <h4>财务顾问</h4>
+          <h3>沈健浩(KEON HO SHIM)</h3>
+          <h4>W-Foundation首席财务官</h4>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#bruno" class="open-popup-link"><div class="team-img"><img src="img/team-bruno-wu.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>吴征(BRUNO WU)</h3>
+          <h4>W-Foundation策划管理顾问</h4>
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Chen Shun Teng</h3>
-          <h4>商务顾问</h4>
-          <p>WWRC Holding Pte. Ltd. WWRC 集团，集团战略与公司事务经理</p>
-        </div>
-      </div>
-	  <!--
-      <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#alex" class="open-popup-link"><div class="team-img"><img src="img/team-sung-hyuk-hong.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Alex Sung-Hyeok Hong, Msci学位,理学硕士</h3>
-          <h4>W-Foundation董事</h4>
-          <p>（HOOXI Global 董事兼 AZworth Trust首席执行官）</p>
-        </div>
-      </div>-->
-      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
           <h3>Chris Low</h3>
-          <h4>技术顾问</h4>
-          <p>Novum Capital 高级管理合伙人兼执行主席</p>
+          <h4>首席技术官</h4>
         </div>
       </div>
 	  <div class="col-md-3 col-sm-6 v-pad">
@@ -1115,37 +1138,83 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <br>
         <div class="team-title">
           <h3>Jeremy Khoo</h3>
-          <h4>商务拓展顾问</h4>
-		<p>（首席执行官，区块链基金伙伴，区块链企业家）</p>
+          <h4>区块链技术和投资顾问与专家</h4>
         </div>
       </div>
-      <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
+	  <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#stas" class="open-popup-link"><div class="team-img"><img src="img/team-stas.jpeg" alt=""></div></a>
         <br>
         <div class="team-title">
-          <h3>Irwin Chee</h3>
-          <h4>商务拓展顾问</h4>
-		<p>（风险投资基金合伙人，区块链基金伙伴，区块链顾问）</p>
+          <h3>Stas Oskin</h3>
+          <h4>技术，研究与开发顾问 (Wings的联合创始人)</h4>
+        </div>
+      </div>
+	  <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#sebastian" class="open-popup-link"><div class="team-img"><img src="img/team-sebastian.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>SEBASTIAN STUPURAC</h3>
+          <h4>区块链产品顾问(Wings的联合创始人)</h4>
         </div>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#seonggu" class="open-popup-link"><div class="team-img"><img src="img/team-seonggu-ryu.jpg" alt=""></div></a>
+	  <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#seonik" class="open-popup-link"><div class="team-img"><img src="img/team-seonik-jeon.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
-          <h3>Seonggu Ryu 博士.</h3>
-          <h4>顾问/首席公关官</h4>
-          <p>（韩国西京大学教授</p>
+          <h3>SEONIK JEON</h3>
+          <h4>社区建设与营销顾问 (Factblock&Blockpost首席执行官，财经新闻首席战略官)</h4>
         </div>
       </div>
-      <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#chuljun" class="open-popup-link"><div class="team-img"><img src="img/team-chuljun-kim.jpg" alt=""></div></a>
+	  <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#sonic" class="open-popup-link"><div class="team-img"><img src="img/team-sonic-zhang.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
-          <h3>医学博士Chuljun Kim</h3>
-          <h4>顾问/首席技术官</h4>
-          <p>（大田Wellness医院主席/医生）</p>
+          <h3>SONIC ZHANG</h3>
+          <h4>加密投资，代币经济专家/技术顾问 (Ledger Z Capital创始人兼董事总经理)</h4>
+        </div>
+      </div>
+	  <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Irwin Chee</h3>
+          <h4>加密顾问</h4>
+        </div>
+      </div>
+	  <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#guy" class="open-popup-link"><div class="team-img"><img src="img/team-melamed.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Guy Melamed</h3>
+          <h4>战略业务顾问(Zeex联合创始人兼首席执行官)</h4>
+        </div>
+      </div>
+	</div>
+    <div class="row">
+	  <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#sangjin" class="open-popup-link"><div class="team-img"><img src="img/team-sang-jin-hong.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Sangjin Hong</h3>
+          <h4>区块链投资顾问(Chain Cabinet联合创始人兼首席执行官)</h4>
+        </div>
+      </div>
+	  <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Chen Shun Teng</h3>
+          <h4>商业顾问(WWRC Holding Pte.Ltd，即“WWRC集团”集 团战略与公司事务经理)</h4>
+        </div>
+      </div>
+	  <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#satoshi" class="open-popup-link"><div class="team-img"><img src="img/team-profile.png" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Satoshi D.</h3>
+          <h4>区块链专家，顾问(Dfital联合创始人，Dcapital创始人)</h4>
         </div>
       </div>
     </div>
@@ -1213,7 +1282,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <br>
           <div class="team-title ">
             <h3>Ko, Eunseok</h3>
-            <h4>仁川地方检察官办事处富川分会（Bucheon）首席检察官</h4>
+            <h4>仁川地方检察厅富川支厅部长检察官</h4>
           </div>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
@@ -1225,27 +1294,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/Park,-Huiseung--Lawyer.jpg" alt=""></div>
+          <div class="team-img adviser-img"><img src="img/Advisors/hong-kyeong-keun.jpg" alt=""></div>
           <br>
           <div class="team-title ">
-            <h3>Park, Huiseung</h3>
-            <h4>地区法院、 Pyeong San（律师事务所）及水原地方法院主任律师兼前首席法官 </h4>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/Jang,-Ilsuk--NEw-Finance-Society-Institute.jpg" alt=""></div>
-          <br>
-          <div class="team-title ">
-            <h3>Jang, Ilsuk</h3>
-            <h4>新金融社会学会（New Finance Society Institute）主席</h4>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/Choi,-Huinam--KIC.jpg" alt=""></div>
-          <br>
-          <div class="team-title ">
-            <h3>Choi, Huinam</h3>
-            <h4>韩国投资公司（ Korea Investment Corporation）（主权财富基金）总裁</h4>
+            <h3>Hong, Kyung Keun</h3>
+            <h4>TRUBEN投资集团董事长</h4>
           </div>
         </div>
       </div>
@@ -1397,10 +1450,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </section>	  
     <div class="team-advisor">
-      <h3>请点击以下链接以了解更多<br>有关160多位领导者和具有影响力人物<br>为W-Foundation和HOOXI活动提供的建议和资讯</h3>
+	  <div class="row">
+	  <div class="col-md-9 col-sm-9 col-xs-7 v-pad">
+      <h3>请点击以下链接以了解更多有关160多位领导者和具有影响力人物为W-Foundation和HOOXI活动提供的建议和资讯</h3>
  	    <br>
  	    <h4>韩语: <a href="http://www.gcrfund.org/honorary_advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/honorary_advisors/</a></h4>
        <h4>英语: <a href="http://www.gcrfund.org/en/honorary-advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/en/honorary-advisors/</a></h4>
+	  </div>
+	  <div class="col-md-3 col-sm-3 col-xs-5 v-pad" style="text-align: center;">
+		  <img src="img/leaf-big.png" alt="">
+		</div>
+	  </div>
     </div>    
   </div>
 </section>
@@ -1504,27 +1564,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!---------- Team popup content start------------> 
 
 <div id="wooklee" class="white-popup mfp-hide sans">
-  <h3>WOOK LEE</h3>
+  <h3>李旭 (WOOK LEE)</h3>
   <h4>W-Foundation主席</h4>
   <br><br><br>
-  <p>WOOK LEE主席是W-Foundation创始人兼董事长，慈善家、企业家，他建立了全球网络，实现了与政府、企业和各机构的公私合作伙伴关系；与全球捐助者建立了全球气候难民基金（Global Climate Refugee Fund ），并将W-Foundation发展成为极具影响力的全球自然保护组织（ Global Nature Conservation Organization）。Lee主席拥有汉阳大学法学学士学位。</p>
+  <p>W-Foundation的创始人兼主席，慈善家和企业家。建立全球网络，以实 现与政府，企业和机构的公私合作伙伴关系。与全球捐助者建立全球气 候难民基金，并将W-基金会发展成为一个有影响力的全球自然保护组织。</p>
+  <br>
+  <p>他毕业于汉阳大学，获得法学学士学位。</p>
 </div>
 
 <div id="youreelee" class="white-popup mfp-hide sans">
-  <h3>YOUREE LEE 博士</h3>
-  <h4>W-Foundation CEO</h4>
+  <h3>YOUREE LEE博士</h3>
+  <h4>W-Foundation的联合创始人兼首席执行官 (汉阳大学商学院客座教授)</h4>
   <br><br><br>
-  <p>
-Youree Lee 博士是W-Foundation的联合创始人兼首席执行官，W-HY R＆D、Hooxi研究所及Hooxi Foundation（美国）的首席运营官。Lee 博士在Shinhan Macquarie Financial Advisory和Sumitomo Mitsui Banking Corporation拥有广泛的投资和企业银行业务经验，拥有梨花女子大学国际商务博士、文学硕士学位以及文学学士学位，目前在梨花女子大学和汉阳大学任教。</p>
+  <p>Youree Lee 博士是W-Foundation、W-HY R&D、Hooxi研究所的联合创 始人兼首席执行官，以及Hooxi Foundation (美国) 的首席运营官。</p>
+  <br>
+  <p>Lee博士是将区块链引入社会融资领域的先驱。 为了由W-Foundation和 韩国政府组织的全球自然保护运动“HOOXI”，她领导建立了区块链W Green Pay(WGP)。</p>
+  <br>
+  <p>Lee 博士在麦格理和三井住友银行拥有广泛的投资和企业银行业务经验， 范围涵盖基础设施和可再生能源项目融资及关系管理。 拥有梨花女子大 学国际商务博士、硕士学位及学士学位，目前在梨花女子大学和汉阳大 学教授商务、策略与金融。</p>
 </div>
 
 <div id="keon" class="white-popup mfp-hide sans">
-  <h3>KEON HO SHIM</h3>
-  <h4>W-Foundation财务顾问n</h4>
+  <h3>沈健浩(KEON HO SHIM)</h3>
+  <h4>W-Foundation首席财务官</h4>
   <br><br><br>
-  <p>
-KEON HO SHIM拥有23年银行、咨询及新业务拓展经验，曾在美林银行、花旗银行、奥纬咨询和三星公司任职，拥有纽约大学斯特恩商学院的工商管理硕士学位及乔治华盛顿大学的政治经济学的文学学士学位。
-</p>
+  <p>在担任W-Foundation首席财务官之前，他曾担任美国银行美林交易银行 部门的公司销售主管。 Shim先生在银行，咨询和新业务开发方面拥有超 过23年的经验。 Shim先生还曾在Citi，Oliver Wyman 和 Samsung Corporation工作。</p>
+  <br>
+  <p>Shim先生拥有Stern School of Business, New York University, 的M.B.A. 和B.A.在乔治华The George Washington University的经济学和政治学。</p>
 </div>
 
 <div id="dongyul" class="white-popup mfp-hide sans">
@@ -1550,38 +1615,91 @@ Dongyul Seok先生是韩国知名记者、国际新闻工作者联合会（ Inte
 </div>
 
 <div id="bruno" class="white-popup mfp-hide sans">
-  <h3>BRUNO WU</h3>
-  <h4>W-Foundation策略总监 </h4>
+  <h3>吴征(BRUNO WU)</h3>
+  <h4>W-Foundation策划管理顾问</h4>
   <br><br><br>
-  <p>中国五十大富豪，他是中国最大传媒公司“阳光七星娱乐媒体集团有限 公司”的创始人、主席、CEO。他是美国SEC(证券委员会)唯一授权区 块链交易所DBOT(Delaware Board of Trade Holdings Inc.)的第一大 股东。既是阳光传媒集团的前任董事长，也是盛大集团的前董事。他 和妻子杨澜(中国知名主持人)曾在2016年荣登《福布斯》中国顶 级富豪榜。</p>
+  <p>Bruno Wu来自中国的知名媒体大亨。 Sun Seven Stars Entertainment&Media Group Limited的创始人，联合主席兼首席执行官，该公司是中国最大的私营媒 体和投资公司之一。</p>
+  <br>
+  <p>吴先生还是特拉华州贸易控股公司(DBOT)的主要股东，该公司是美国证券交 易委员会(SEC)完全许可的第一个也是唯一一个基于区块链的替代交易系统。</p>
+  <br>
+  <p>Bruno Wu还是Sun Media Group的前任主席和盛大集团的前董事。Bruno Wu和 他的妻子(Yang Lan，中国最受欢迎的名人之一)获得2016福布斯中国富豪榜 ，估计财富价值10亿美元。</p>
 </div>
 
 <div id="chen" class="white-popup mfp-hide sans">
   <h3>CHEN SHUN TENG</h3>
-  <h4>商务顾问, WWRC Holding Pte. Ltd. WWRC 集团，集团战略与公司事务经理</h4>
+  <h4>商业顾问(WWRC Holding Pte.Ltd，即“WWRC集团”集 团战略与公司事务经理)</h4>
   <br><br><br>
-  <p>WWRC集团已成为16个亚洲国家的主要化学品分销商，他在集团内负责 基于海外扩张、合资、合作、并购的未来战略规划。他在任职于WWRC 集团之前，曾在花旗银行和华侨银行工作。拥有南洋理工大学材料工程 系学士学位(荣誉毕业)。</p>
+  <p>负责通过海外扩张，合资企业或合作伙伴关系以及WWRC集团的并购 实现未来增长。WWRC集团是一家泛亚化学品分销商，业务遍及16 个亚洲城市。在加入WWRC集团之前，他曾在花旗和华侨银行工作。 CHEN SHUN TENG拥有南洋理工大学一等荣誉工程学士学位(材料 工程)</p>
 </div>
 
 <div id="chris" class="white-popup mfp-hide sans">
   <h3>CHRIS LOW</h3>
-  <h4>W-Foundation技术顾问，（Novum Capital 高级管理合伙人兼执行主席）</h4>
+  <h4>首席技术官</h4>
   <br><br><br>
-  <p>Chris Low先生是一位成功的连续创业者，他创办了东南亚最大的社交游戏网站之一Viwawa，联合创立了越南最大的移动POS机公司SoftPay Mobile。Low先生毕业于新加坡国立大学计算机科学专业并拥有理学学士学位。</p>
+  <p>Chris Low是一位成功的连续创业者，他创办了东南亚最大的社交游戏网 站之一Viwawa，联合创立了越南最大的移动POS机公司SoftPay Mobile。 Low先生毕业于新加坡国立大学计算机科学专业并拥有理学学士学位。</p>
 </div>
 
 <div id="jeremy" class="white-popup mfp-hide sans">
   <h3>JEREMY KHOO</h3>
-  <h4>W-Foundation商务拓展顾问</h4>
+  <h4>区块链技术和投资顾问与专家</h4>
   <br><br><br>
-  <p>区块链专家兼成功的全球企业家。他成功退出VC投资的3家风险投资公 司，现任零售中心iFashion Group集团的首席执行官，正在新加坡证券 交易所(SGX)推动MC Payment上市。他深入参与许多区块链项目，并 在为8家机构售出1亿美元以上区块链代币的过程中发挥重要作用。</p>
+  <p>Jeremy Khoo是一家国际业务运营商、企业创始人及区块链企业家，已先后在3 家风险投资公司成功任过职。他目前现任MC Payment副总裁兼iFashion集团首 席执行官。iFashion是一家领先的区域零售业推动者集团企业。在他的领导下， iFashion和它的子公司已从风险投资方处经过多轮投资后获得B轮融资。 iFashion被MC Payment以2300万美元收购，而Jeremy将共同领导联合推动企业 于2018年在新交所上市。 Jeremy还是Novum Capital和Enblockr的合伙人兼首 席顾问，这两家公司助推并投资了许多知名公司，迄今为止已售出超过1亿美元 的代币。 Jeremy还是CRC Capital的执行合伙人，该公司投资早期区块链创新企 业。 Jeremy共同创立了零售区块链MegaX以及Crypto-E-Commerce商店 Megaxstore，该商店正在促进人们大规模使用加密货币。他还花时间建议和建 立了40多个令人兴奋的区块链项目，如Consentium，Spiking，Bountie，Viola ，Vanig和W Green Pay。他拥有新加坡南洋理工大学机械工程学士学位，并在 新加坡空军共和国军官调试期间获得了著名的荣誉之剑(Sword of Honour)。</p>
+</div>
+
+<div id="stas" class="white-popup mfp-hide sans">
+  <h3>STAS OSKIN</h3>
+  <h4>技术，研究与开发顾问 (Wings的联合创始人)</h4>
+  <br><br><br>
+  <p>凭借在信息技术工程，开发和管理企业产品方面超过15年的经验，Stas 共同创立了WINGS --- 一个成功的社区参与和智能合约促进平台，以及 以太网区块链中为数不多的DAPPS工作之一。</p>
+  <br>
+  <p>在担任现职之前，Stas担任BeeCom Israel的首席技术官，领导公司向开 源/ Linux平台的战略转变。他还参与了多个备受瞩目的软件项目，为 BeeContact，Dead Sea Labs和国防部等组织提供咨询服务，并且是以 色列第一个在线社交网络Comoona的联合创始人。</p>
+</div>
+
+<div id="sebastian" class="white-popup mfp-hide sans">
+  <h3>SEBASTIAN STUPURAC</h3>
+  <h4>区块链产品顾问(Wings的联合创始人)</h4>
+  <br><br><br>
+  <p>Sebastien共同创立了WINGS，这是一个成功的社区参与度和智能合约推 进平台，也是少数几个在以太坊区块链上运行DAPPS的公司之一。自 2013年以来，Sebastien收获了在分散式解决方案和区块链技术方面的丰 富经验。
+</p>
+</div>
+
+<div id="seonik" class="white-popup mfp-hide sans">
+  <h3>SEONIK JEON</h3>
+  <h4>社区建设与营销顾问 (Factblock&Blockpost首席执行官，财经新闻首席战略官)</h4>
+  <br><br><br>
+  <p>Seonik Jeon担任区块链咨询服务平台FactBlock的首席执行官，聚焦区 块链的媒体The Blockpost的首席执行官，以及《财经新闻》的首席战略 官。曾任《财经新闻》局长，《财经新闻》洛杉矶记者，MPIO副总裁。 拥有韩国大学EMBA学位，加州州立大学长滩分校商业与信息系统学士学 位。</p>
+</div>
+
+<div id="sonic" class="white-popup mfp-hide sans">
+  <h3>SONIC ZHANG</h3>
+  <h4>加密投资，代币经济专家/技术顾问 (Ledger Z Capital创始人兼董事总经理)</h4>
+  <br><br><br>
+  <p>Sonic Zhang是一位企业家和投资者，也是 LedgerZ Capital(ledgerz.capital) 和ValueNet Capital(valuenet.capital)的创始人。Sonic聚焦投资区块链创业 企业，安全令牌产品(STO)和密码。其产品组合包括OmiseGo，Binance， PowerLedger，WAX，CoinPoker，Lympo，Bankorus， RobotCache，Celsius Network，tZERO，Tenzorum等。他是二十国区块链联盟(B20)的联合创始人 兼全球总监，该组织是一个国际非政府组织，专注于桥接全球区块链和加密社区 。 他还是ValueBank Group的联合创始人，该公司提供全球网络加密( Cointobe.com)交换，加密钱包(Coinwall.io / Coinwallpro.com)和ICO服务 。 他同时也是Murint Capital的联合创始人，主要业务是对技术和娱乐行业的风 险投资基金。 Sonic也是SoRelax的创始人，SoRelax是提供跨境营销与服务的全 球平台。 Sonic在悉尼大学拥有机电一体化的MPM和BE。</p>
 </div>
 
 <div id="irwin" class="white-popup mfp-hide sans">
   <h3>IRWIN CHEE</h3>
-  <h4>W-Foundation商务拓展顾问</h4>
+  <h4>加密顾问</h4>
   <br><br><br>
-  <p>作为Novum Capital的首席顾问，专门从事区块链应用、ICO咨询、投资 者关系等工作。在个人经办的ICO项目中成功售出超过1亿美元的代币。</p>
+  <p>Irwin从事产品开发和营销工作，从事安全技术公司i-Sprint Innovations的工作。 他是Rimu Group的联合创始人，Rimu Group是一家投资于东南亚的风险投资基 金，与Wavemaker Partners，Ardent Capital，SMDV，SPH，Fenox和DeNA等 其他风险投资公司一起领导并共同投资。拥有4个收购和2个退出的投资组合。</p>
+  <br>
+  <p>Irwin是ICO的早期投资者，其中包括NXT，AntShares(现在的NEO)，Stratis 和Status。 Irwin现在是区块链咨询公司Novum Capital的管理顾问。 Irwin还是www.cryptofinn.net的撰稿人，负责关于加密货币的意见，并尽可能 地审查ICOS。
+</p>
+</div>
+
+<div id="guy" class="white-popup mfp-hide sans">
+  <h3>GUY MELAMED</h3>
+  <h4>战略业务顾问(Zeex联合创始人兼首席执行官)</h4>
+  <br><br><br>
+  <p>Guy是一位产品策略家和不屈不挠的企业家。他作为其首席运营官和战略合作伙 伴关系负责人已经为主营商业车队和联网汽车的GreenRoad的成功做出了贡献。 他还创办并曾担任一个引人入胜的动画短信创业公司Toontok的首席执行官。作 为Ginger Software和Time to Know的产品和解决方案设计副总裁，Guy是数字 教室学习材料的提供者，他进一步深化了在这些动态领域的专业知识。 Guy还拥 有阿姆斯特丹大学通信硕士学位。</p>
+</div>
+
+<div id="sangjin" class="white-popup mfp-hide sans">
+  <h3>SANGJIN HONG</h3>
+  <h4>区块链投资顾问(Chain Cabinet联合创始人兼首席执行官)</h4>
+  <br><br><br>
+  <p>Sangjin是一位经验丰富的企业家、投资者和区块链顾问。他是Chain Cabinet的联合创始人兼首席执行官，Chain Cabinet是一家位于首尔和 新加坡的多维区块链公司，该公司设立并投资多种ICO项目。 Sangjin还 是Kstartup的合伙人，Kstartup是一家创业企业加速器，已帮助50多家 创业公司建立了自己的业务。作为前Microsoft Office产品经理和曾经的 Monitor Group管理顾问，他为团队贡献了20多年的经验技术和业务管 理经验。
+</p>
 </div>
 
 <div id="kyung" class="white-popup mfp-hide sans">

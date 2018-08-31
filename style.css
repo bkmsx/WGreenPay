@@ -133,8 +133,8 @@ ul#menu {
 ul#menu li {
     display: inline-block;
 	transition:0.8s;
-	margin-right:25px;
-	padding-top:24px;
+	margin-right:20px;
+	padding-top:22px;
 	font-weight:700;
 }
 
@@ -142,7 +142,7 @@ ul#menu li a {
 	color:#b7c0bf;
 	padding-top: 22px;
     margin-top: 4px;
-	font-size:13px;
+	font-size:12px;
 }
 
 ul#menu li a:hover {
@@ -397,7 +397,7 @@ ul.home-btn li {
 
 .features-icon {
 	text-align:center;
-	height:350px;
+	height:390px;
 	width:100%;
 	padding:30px 40px;
 	box-sizing:border-box;
@@ -506,6 +506,10 @@ ul.roadmap {
 
 ul.roadmap li {padding:5px 0;}
 
+#partner h1 {color:#000;}
+#partner .h-line {background:#000;}
+#partner img {max-width: 360px;}
+
 #team {
 	background-image:url(img/bg-pattern-team.jpg);
 	background-repeat:repeat;
@@ -540,13 +544,13 @@ ul.roadmap li {padding:5px 0;}
 .team-advisor {
 	border-top-left-radius: 50px;
 	border-bottom-right-radius: 50px;
-	padding:60px 15px;
-	text-align:center;
+	padding:40px;
 	background:rgba(0,0,0,0.3);
 	width:100%;
 }
 
 .team-advisor h3 {text-transform:none; color:#fff !important;}
+.team-advisor img {max-width: 200px;}
 
 #contact {
 	background:#001a3d;

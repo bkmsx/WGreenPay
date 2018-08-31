@@ -1,6 +1,5 @@
 <!doctype html>
-<html>
-<head>
+<html><head>
 <meta charset="UTF-8">
 <title>W Green Pay</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -142,6 +141,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="#token">토큰정보</a></li>
 <li><a href="#media">미디어</a></li>
 <li><a href="#roadmap">로드맵</a></li>
+<li><a href="#partner">파트너</a></li>
 <li><a href="#team">팀</a></li>
 <li><a href="#advisers">명예고문</a></li>
 <li><a href="#contact">연락처</a></li>
@@ -163,6 +163,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a href="#token" onClick="closeSidebar(this)">토큰정보</a>
 <a href="#media" onClick="closeSidebar(this)">미디어</a>
 <a href="#roadmap" onClick="closeSidebar(this)">로드맵</a>
+<a href="#partner" onClick="closeSidebar(this)">팀</a>
 <a href="#team" onClick="closeSidebar(this)">팀</a>
 <a href="#advisers" onClick="closeSidebar(this)">명예고문</a>
 <a href="#contact" onClick="closeSidebar(this)">연락처</a>
@@ -192,7 +193,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </tr> 
       <tr> 
         <td style="text-align:right;"><h4>공개판매</h4></td>
-        <td style="text-align:left;"><h4 style="color:#87b44c;">2018년 4분기 중</span></h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">2018년 10월 1일~14일</span></h4></td>
       </tr>  
     </table>
     <br>
@@ -288,21 +289,22 @@ Private Sale
 <div class="features-icon">
 <img src="img/feature-icon-1.png" alt="">
 <br><br>
-<h4>HOOXI 앱 미션 수행 후  WGP 획득</h4>
+<h4>HOOXI 앱 미션 수행 후 WGP 획득</h4>
 </div>
 </div>
 <div class="col-md-4 v-pad">
 <div class="features-icon">
 <img src="img/feature-icon-2.png" alt="">
 <br>
-<h4>W재단 파트너사 쇼핑몰 (오프라인, 온라인)에서 WGP로 쇼핑</h4>
+<h4>후시몰 등 국내외 파트너사
+온/오프라인 쇼핑몰에서 W Green Pay로 결제 (예: Zeex 와의 파트너쉽 통해 해외 스타벅스, 아마존 등 450개 글로벌 브랜드에서 WGP사용)</h4>
 </div>
 </div>
 <div class="col-md-4 v-pad">
 <div class="features-icon">
 <img src="img/feature-icon-3.png" alt="">
 <br>
-<h4>신용카드 캐시백으로 WGP 받기</h4>
+<h4>W Green Pay 크립토카트" 를 발급받아 전세계 카드결제가 가능한 곳 어디서든 결제수단으로 사용</h4>
 </div>
 </div>
 </div>
@@ -691,11 +693,11 @@ Private Sale
 </tr>
 <tr valign="top">
 <td class="left-table">비공개 판매일정</td>
-<td>2018년 5월-10월</td>
+<td>2018년 5월-9월</td>
 </tr>
 <tr valign="top">
 <td class="left-table">공개 판매일정</td>
-<td>2018년 4분기</td>
+<td>2018년 10월 1일 ~ 14일</td>
 </tr>
 <tr valign="top">
 <td class="left-table">소프트 캡</td>
@@ -707,7 +709,7 @@ Private Sale
 </tr>
 <tr valign="top">
 <td class="left-table" style="padding-bottom:40px;">매각 제한 기간</td>
-<td style="padding-bottom:40px;">발행자가 보유한 WGP 및 판매가 유보된 WGP는 공개 판매 종료 일자일로부터 6개월 동안 매각이 제한된다</td>
+<td style="padding-bottom:40px;">발행자가 보유한 WGP 및 판매가 유보된 WGP는 공개 판매 종료 일자인 2018년 10월 14일부터 6개월 동안 매각이 제한된다.</td>
 </tr>
 </table>
 </div>
@@ -965,10 +967,25 @@ Private Sale
 <div class="timeline-content">
 <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
 <div class="timeline-detail">
-<h3 class="timeline-title">2018년 5월-10월</h3>
+<h3 class="timeline-title">2018년 5월-9월</h3>
 <br>
 <ul class="roadmap">
-<li><h4>W Green Pay 비공개판매</h4></li>
+<li><h4>W Green Pay 비공개 판매</h4></li>
+</ul>
+</div>
+<div style="clear:both;"></div>
+</div>
+</li>
+<li class="timeline-item">
+<div class="timeline-info"> </div>
+<div class="timeline-marker"></div>
+<div class="timeline-content">
+<div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
+<div class="timeline-detail">
+<h3 class="timeline-title">2018년7월27일~29일</h3>
+<br>
+<ul class="roadmap">
+<li><h4>HOOXI 캠핑페스티벌</h4></li>
 </ul>
 </div>
 <div style="clear:both;"></div>
@@ -980,22 +997,22 @@ Private Sale
 <div class="timeline-content">
 <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
 <div class="timeline-detail">
-<h3 class="timeline-title">2018년 4분기</h3>
+<h3 class="timeline-title">2018년 10월 1일~14일</h3>
 <br>
 <ul class="roadmap">
-<li><h4>W Green Pay 공개판매</h4></li>
+<li><h4>W Green Pay 공개 판매</h4></li>
 </ul>
 </div>
 <div style="clear:both;"></div>
 </div>
 </li>
-<!--<li class="timeline-item">
+<li class="timeline-item">
 <div class="timeline-info"> </div>
 <div class="timeline-marker timeline-inactive"></div>
 <div class="timeline-content">
 <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
 <div class="timeline-detail">
-<h3 class="timeline-title">2018년 10월</h3>
+<h3 class="timeline-title">2018년 10월 4일</h3>
 <br>
 <ul class="roadmap">
 <li><h4>HOOXI 앱 출시</h4></li>
@@ -1010,7 +1027,22 @@ Private Sale
 <div class="timeline-content">
 <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
 <div class="timeline-detail">
-<h3 class="timeline-title">2018년 10월 중순</h3>
+<h3 class="timeline-title">2018년 10월 10일~12일</h3>
+<br>
+<ul class="roadmap">
+<li><h4>대한민국탄소포럼 (평창포럼)</h4></li>
+</ul>
+</div>
+<div style="clear:both;"></div>
+</div>
+</li>
+<li class="timeline-item">
+<div class="timeline-info"> </div>
+<div class="timeline-marker timeline-inactive"></div>
+<div class="timeline-content">
+<div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
+<div class="timeline-detail">
+<h3 class="timeline-title">2018년 11월 2일~4일</h3>
 <br>
 <ul class="roadmap">
 <li><h4>HOOXI 앱, HOOXI 캠페인 페스티벌</h4></li>
@@ -1018,7 +1050,7 @@ Private Sale
 </div>
 <div style="clear:both;"></div>
 </div>
-</li>-->
+</li>
 <li class="timeline-item">
 <div class="timeline-info"> </div>
 <div class="timeline-marker timeline-inactive"></div>
@@ -1041,6 +1073,27 @@ Private Sale
 </section>
 <!------------ Roadmap end ------------>
 
+<!------------ Partner start ------------>
+<section id="partner">
+  <div class="container">
+	<h1>파트너</h1>
+    <div class="h-line"></div>
+	<div class="row">
+	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-lightyear.jpg" alt=""></div> 
+	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-yg.jpg" alt=""></div> 
+	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-icon.jpg" alt=""></div> 
+      <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-factblock.jpg" alt=""></div> 
+	</div>
+	<div class="row">
+	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-kona.jpg" alt=""></div> 
+	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-zeex.jpg" alt=""></div> 
+	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-emusic.jpg" alt=""></div> 
+      <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-daehyun.jpg" alt=""></div> 
+	</div>
+  </div>
+</section>
+<!------------ Partner end ------------>
+
 <!------------ Team start ------------>
 <section id="team">
 <div class="container">
@@ -1055,29 +1108,12 @@ Private Sale
 <h4>W재단 이사장</h4>
 </div>
 </div>
-<!--
-<div class="col-md-3 col-sm-6 v-pad">
-<a href="#kyung" class="open-popup-link"><div class="team-img"><img src="img/team-kyeong-keun-hong.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>홍경근 (Kyung Keun Hong)</h3>
-<h4>W재단 총재</h4>
-</div>
-</div>-->
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#youreelee" class="open-popup-link"><div class="team-img"><img src="img/team-youree-lee.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
-<h3>이유리 박사 (Youree Lee PH.D.)</h3>
-<h4>W재단 CEO</h4>
-</div>
-</div>
-<div class="col-md-3 col-sm-6 v-pad">
-<a href="#bruno" class="open-popup-link"><div class="team-img"><img src="img/team-bruno-wu.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>Bruno Wu</h3>
-<h4>W재단 Director of Strategy</h4>
+<h3>이유리 박사 (Dr. YOUREE LEE)</h3>
+<h4>W재단 Co-Founder/CEO (한양대 경영대학 파이낸스금융학과 겸임교수)</h4>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 v-pad">
@@ -1085,11 +1121,95 @@ Private Sale
 <br>
 <div class="team-title">
 <h3>심건호 (KEON HO SHIM)</h3>
-<h4>W재단 Financial Adviser</h4>
+<h4>W재단 CFO</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#bruno" class="open-popup-link"><div class="team-img"><img src="img/team-bruno-wu.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Bruno Wu</h3>
+<h4>W재단 전략경영 자문</h4>
 </div>
 </div>
 </div>
 <div class="row">
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Chris Low</h3>
+<h4>CTO</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#jeremy" class="open-popup-link"><div class="team-img"><img src="img/team-jeremy.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Jeremy Khoo</h3>
+<h4>Technology and Investments Adviser</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#stas" class="open-popup-link"><div class="team-img"><img src="img/team-stas.jpeg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Stas Okin</h3>
+<h4>Technology, R&D Adviser (Co-Founder of Wings)</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#sebastian" class="open-popup-link"><div class="team-img"><img src="img/team-sebastian.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Sebastian Stupurac</h3>
+<h4>Blockchain Product Adviser (Co-Founder of Wings)</h4>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#seonik" class="open-popup-link"><div class="team-img"><img src="img/team-seonik-jeon.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>전성익 (SEONIK JEON)</h3>
+<h4>Community Building and Marketing Adviser (CEO of Factblock & Blockpost, CSO of Financial News)</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#sonic" class="open-popup-link"><div class="team-img"><img src="img/team-sonic-zhang.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>SONIC ZHANG</h3>
+<h4>Crypto Investment, Tokenomics Specialist / Technology Adviser (Founder & Managing Director of Ledger Z Capital)</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Irwin Chee</h3>
+<h4>Crypto Adviser</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#guy" class="open-popup-link"><div class="team-img"><img src="img/team-melamed.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Guy Melamed</h3>
+<h4>Strategic Business Adviser (Co-Founder, CEO of Zeex)</h4>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#sangjin" class="open-popup-link"><div class="team-img"><img src="img/team-sang-jin-hong.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Sangjin Hong</h3>
+<h4>Blockchain Investments Adviser (Co-Founder, CEO of Chain Cabinet)</h4>
+</div>
+</div>
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
 <br>
@@ -1099,61 +1219,12 @@ Private Sale
 <p>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</p>
 </div>
 </div>
-<!--
 <div class="col-md-3 col-sm-6 v-pad">
-<a href="#alex" class="open-popup-link"><div class="team-img"><img src="img/team-sung-hyuk-hong.jpg" alt=""></div></a>
+<a href="#satoshi" class="open-popup-link"><div class="team-img"><img src="img/team-profile.png" alt=""></div></a>
 <br>
 <div class="team-title">
-<h3>홍성혁 (ALEX Sung-Hyeok HONG, Msci, MSc.)</h3>
-<h4>W재단 Director</h4>
-<p>(HOOXI Global 이사, AZworth Trust 대표)</p>
-</div>
-</div>-->
-<div class="col-md-3 col-sm-6 v-pad">
-<a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>Chris Low</h3>
-<h4>W재단 Technology Adviser</h4>
-<p>(Managing Partner and Executive Chairman at Novum Capital)</p>
-</div>
-</div>
-<div class="col-md-3 col-sm-6 v-pad">
-<a href="#jeremy" class="open-popup-link"><div class="team-img"><img src="img/team-jeremy.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>Jeremy Khoo</h3>
-<h4>W재단 Business Development Adviser</h4>
-	<p>(Group CEO iFashion Group, Crypto Fund Partner, Blockchain Entrepreneur)</p>
-</div>
-</div>
-<div class="col-md-3 col-sm-6 v-pad">
-<a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>Irwin Chee</h3>
-<h4>W재단 Business Development Adviser</h4>
-	<p>(Venture Capital Partner, Crypto Fund Partner, Blockchain Consultant)</p>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-md-3 col-sm-6 v-pad">
-<a href="#seonggu" class="open-popup-link"><div class="team-img"><img src="img/team-seonggu-ryu.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>유승규 교수 (SEONGGU RYU PH.D.)</h3>
-<h4>W 재단 Adviser/Chief Relationship Officer</h4>
-<p>(서경대학교 교수)</p>
-</div>
-</div>
-<div class="col-md-3 col-sm-6 v-pad">
-<a href="#chuljun" class="open-popup-link"><div class="team-img"><img src="img/team-chuljun-kim.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>김철준(Chuljun Kim M.D.)</h3>
-<h4>W재단 Adviser/Chief Technology Officer</h4>
-<p>(대전 웰니스 요양병원 병원장)</p>
+<h3>Satoshi D.</h3>
+<h4>Blockchain Industry Expert, Adviser (Co-Founder of Dfund, Founder of Dcapital)</h4>
 </div>
 </div>
 </div>
@@ -1221,7 +1292,7 @@ Private Sale
           <br>
           <div class=" kr-adviser">
             <h3>고은석 </h3>
-            <h4>인천지방검찰청 부천지청 부장검사</h4>
+            <h4>대전지방검찰청서산지청장</h4>
           </div>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
@@ -1233,27 +1304,11 @@ Private Sale
           </div>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/Park,-Huiseung--Lawyer.jpg" alt=""></div>
+          <div class="team-img adviser-img"><img src="img/Advisors/hong-kyeong-keun.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
-            <h3>박희승</h3>
-            <h4>법무법인 평산 대표변호사 & 전 수원지방법원 안양지원장</h4>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/Jang,-Ilsuk--NEw-Finance-Society-Institute.jpg" alt=""></div>
-          <br>
-          <div class=" kr-adviser">
-            <h3>장일석</h3>
-            <h4>새금융사회연구소 이사장</h4>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/Choi,-Huinam--KIC.jpg" alt=""></div>
-          <br>
-          <div class=" kr-adviser">
-            <h3>최희남</h3>
-            <h4>한국투자공사 사장</h4>
+            <h3>홍경근</h3>
+            <h4>트루벤인베스트먼트그룹회장</h4>
           </div>
         </div>
       </div>
@@ -1414,11 +1469,18 @@ Private Sale
       </div>
     </section>
 <div class="team-advisor">
-<h4>W재단 HOOXI 캠페인에 자문과 조언을 주시는 <br> 160여명의 사회저명인사에 대한 <br>자세한 정보를 보시려면 다음을 클릭하세요:</h4>
+<div class="row">
+<div class="col-md-9 col-sm-9 col-xs-7 v-pad">
+<h4>W재단 HOOXI 캠페인에 자문과 조언을 주시는 160여명의 사회저명인사에 대한 자세한 정보를 보시려면 다음을 클릭하세요:</h4>
 <br>
 <h4>한국어: <a href="http://www.gcrfund.org/honorary_advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/honorary_advisors/</a></h4>
 <h4>영어: <a href="http://www.gcrfund.org/en/honorary-advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/en/honorary-advisors/</a></h4>
-    </div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-5 v-pad" style="text-align: center;">
+<img src="img/leaf-big.png" alt="">
+</div>
+</div>
+</div>
 	</section>	  
 <!------------ Team end ------------>
 
@@ -1523,21 +1585,27 @@ Private Sale
 <h3>이욱(WOOK LEE)</h3>
 <h4>W재단 이사장</h4>
 <br><br><br>
-<p>W재단 설립자, 자선가, 기업가. 정부, 기업, 기관과의 공공-개인 파트너십을 가능케 하는 글로벌 네트워크를 구축함. 글로벌 기부자와 함께 글로벌 기후 난민 기금을 설립, W재단을 영향력 있는 글로벌 자연 보전 기구로 발전시킴. 한양대학교 법과 대학에서 학사 학위를 취득함.</p>
+<p>W재단 설립자, 자선가, 기업가. 정부, 기업, 기관과의 공공-개인 파트너십을 가능케 하는 글로벌 네트워크를 구축했다. 글로벌 기부자와 함께 글로벌 기후 난민 기금을 설립, W재단을 영향력 있는 글로벌 자연 보전 기구로 발전시켰다. 한양대학교 법과 대학에서 학사 학위를 취득했다.</p>
 </div>
 
 <div id="youreelee" class="white-popup mfp-hide sans">
 <h3>이유리 박사(YOUREE LEE PH.D.)</h3>
-<h4>W재단 CEO</h4>
+<h4>W재단 Co-Founder/CEO (한양대 경영대학 파이낸스금융학과 겸임교수)</h4>
 <br><br><br>
-<p>W재단 공동설립자, W-HY 연구소, HOOXI 연구소의 CEO, HOOXI 재단(미국)의 COO. 맥쿼리, 미쓰이스미토모은행 등 금융기관에서 인프라스트럭처, 신재생에너지사업 등에 대한 투자자문 및 기업금융을 담당함. 이화여자대학교 국제경영  학사, 석사, 박사 학위를 취득함. 현재 이화여자대학교와 한양대학교에서 경영전략, 금융시장 및 재무관리에 대한 강의를 하고있음.</p>
+<p>W재단 공동창립자이자 CEO인 이유리 교수는 자선사업가이자 기업가로서 사회적금융에 블록체인을 도입한 개척자이다.  현재 W-HY 연구소, HOOXI 연구소의 CEO, HOOXI 재단(미국)의 COO로도 역임하고 있다.</p>
+<br>
+<p>이유리 교수는 한국정부와 W재단이 추진하는 세계자연보전 캠페인, HOOXI 프로젝트를 위해 블록체인 W Green Pay(WGP)의 런칭을 주도했다. 이유리 교수의 주요 연구분야에는 사회적 금융, 거버넌스, 기업의 사회적 책임 등이있다.</p>
+<br>
+<p>맥쿼리, 미쓰이스미토모은행 등 금융기관에서 인프라스트럭처, 신재생에너지사업 등에 대한 투자자문 및 기업금융을 담당했으며 현재 이화여자대학교와 한양대학교에서 경영전략, 금융시장 및 재무관리에 대한 강의를 하고있다.</p>
 </div>
 
 <div id="keon" class="white-popup mfp-hide sans">
 <h3>심건호 (KEON HO SHIM)</h3>
-<h4>W재단 Financial Adviser</h4>
+<h4>W재단 CFO</h4>
 <br><br><br>
-<p>뱅크오브아메리카 메릴린치, 시티은행, 올리버 와이만, 삼성물산 등 은행, 컨설팅, 신사업 개발 분야에서 23년 이상의 경험을 보유. 뉴욕대 Stern MBA, 조지 워싱턴 대학교 경영학 학사 학위를 취득함.</p>
+<p>최근까지 뱅크오브아메리카 메릴린치 Transaction Banking division의 Head of Corporate Sales로 근무했으며, 시티은행, 올리버 와이만, 삼성물산 등 은행, 컨설팅, 신사업 개발 분야에서 23년 이상의 경험을 쌓았다.</p>
+<br>
+<p>뉴욕대 Stern MBA 및 조지 워싱턴 대학교 경영학 학사 학위를 취득했다.</p>
 </div>
 
 <div id="dongyul" class="white-popup mfp-hide sans">
@@ -1563,9 +1631,13 @@ Private Sale
 
 <div id="bruno" class="white-popup mfp-hide sans">
 <h3>BRUNO WU</h3>
-<h4>W재단 Director of Strategy</h4>
+<h4>W재단 전략경영 자문</h4>
 <br><br><br>
-<p>중국의 50대 부호. 중국의 최대 미디어 회사, Sun Seven Stars Entertainment & Media Group Limited의 창립자, 회장, 그리고 CEO. 미국 SEC(증권위원회)가 허가한 유일한 블록체인 기반 거래소, DBOT (Delaware Board of Trade Holdings Inc.)의 최대주주. Sun Media Group 의 전 회장이자 Shanda Group의 전 이사. Bruno와 그의 아내 (양란, 중국 톱스타)은 2016년 포브스지가 선정한 중국 최대 부호 리스트에 오름.</p>
+<p>Mr. Wu는 중국의 50대 부호로 잘 알려져있다. 중국의 최대 미디어 회사인 Sun Seven Stars Entertainment & Media Group Limited의 창립자, 회장, 그리고 CEO이다.</p>
+<br>
+<p>미국 SEC(증권위원회)가 허가한 유일한 블록체인 기반 거래소, DBOT (Delaware Board of Trade Holdings Inc.)의 최대주주이기도 하며 Sun Media Group의 전 회장이자 Shanda Group의 전 이사이다. </p>
+<br>
+<p>Bruno와 그의 아내 (양란, 중국 톱스타)은 2016년 포브스지가 선정한 중국 최대 부호 리스트에  오르기도 했다.</p>
 </div>
 
 <div id="chen" class="white-popup mfp-hide sans">
@@ -1577,23 +1649,78 @@ Private Sale
 
 <div id="chris" class="white-popup mfp-hide sans">
 <h3>CHRIS LOW</h3>
-<h4>W재단 Technology Adviser ((Managing Partner and Executive Chairman at Novum Capital)</h4>
+<h4>CTO</h4>
 <br><br><br>
-<p>성공적인 창업가로서 동남 아시아에서 대형 소셜 게임 사이트인 Viwawa를 개발함. 베트남 최대의 모바일 POS 회사인 소프트페이 모바일을 공동 설립함. 국립싱가포르대학교 컴퓨터공학과에서 학사 학위를 취득함.</p>
+<p>Mr. Low는 20 년 경력의 기술 전문 기업가, 성공적인 창업가이다. 설립한 Pendulab이라는 첫 번째 벤처 기업은 웹 기반 협업 솔루션을 제공하는 SaaS (Software-as-a-Service)로 운영되었으며 Pendulab은 이후 미국의 주요 사모 투자 회사에 인수되었다. 또 동남 아시아에 설립한 에서 대형 소셜 게임 플랫폼 Viwawa는 동남아에서 가장 활발한 사이트 톱100랭킹을 기록하고있다. Mr. Low가 설립한 또다른 벤처 기업인 SoftPay Mobile은 베트남에서 가장 큰 Mobile Point of Sale 회사이기도 하며 인도네시아에서 가장 큰 은행 인 Bank Mandiri와 파트너쉽 체계를 구축하고있다.</p>
+<br>
+<p>Mr. Low는 싱가포르 국립 대학 (National University of Singapore)의 컴퓨터 공학 (Merit in Computing)을 전공했다. </p>
 </div>
 
 <div id="jeremy" class="white-popup mfp-hide sans">
 <h3>JEREMY KHOO</h3>
-<h4>W재단 Business Development Adviser</h4>
+<h4>Technology and Investments Adviser</h4>
 <br><br><br>
-<p>블록체인 전문가이자 성공적인 글로벌 사업가. VC가 투자한 3개의 벤처기업을 성공적으로 엑시트(EXIT)함. 현재 리테일 중심 iFashion그룹의 CEO이며 MC Payment의 SGX (싱가폴거래소) 상장을 추진 중. 다수의 블록체인 사업에 깊이 관여하고있으며 8개 회사를 위해 블록체인 토큰을 1 억달러 이상 판매 하는데 중요한 역할을 함.</p>
+<p>블록체인 전문가이자 성공적인 글로벌 사업가. VC가 투자한 3개의 벤처기업을 성공적으로 엑시트(EXIT)하였다. Mr. Khoo는 iFashion그룹의 CEO로서 iFashion 및 자회사들의 여러 VC투자, Series B까지 성공적으로 이끌었다. 현재 iFashion은 MC Payments가 23백만달러에 인수했으며 최근 Mr. Khoo는 MC Payment의 SGX (싱가폴거래소) 상장을 리드하고 있다.</p>
+<br>
+<p>Mr. Khoo는 블록체인 자문사 Novum Capital 및 Enblockr의 파트너 및 수석 컨설턴트이며, 블록 체인에 투자하는 크립토 펀드 CRC Capital의 Managing Partner이다.</p>
+<br>
+<p>더하여 Mr. Khoo는 블록 체인 MegaX와 가상화폐의 대중화 (mass adoption)을 리드하는 Crypto-E-Commerce 스토어 Megaxstore를 공동 창립했다. 싱가포르의 난양 기술 대학에서 기계 공학 학사를 받았다.</p>
+</div>
+	
+<div id="stas" class="white-popup mfp-hide sans">
+<h3>STAS OKIN</h3>
+<h4>Technology, R&D Adviser (Co-Founder of Wings)</h4>
+<br><br><br>
+<p>IT 엔지니어링, 엔터프라이즈 제품 개발 및 관리 분야에서 15 년 이상의 경력을 쌓은 Mr. Oskin은 성공적인 커뮤니티 참여 및 스마트 계약 촉진 플랫폼과 함께 이더리움 블록 체인에서 작동하는 몇 가지 DAPPS 중 하나를 공동 창업했다. Mr. Oskin은 아이캠, NeoCam 및 NeoVSP의 CTO이기도하다. Mr. Oskin은 웹 기반 플랫폼, 스트리밍 미디어, 분산 형 스토리지, 클러스터 형 솔루션 및 네트워크에 대한 광범위한 전문 지식을 제공한다.</p>
+<br>
+<p>과거 Mr. Oskin은 BeeCom Israel의 CTO로서 오픈 소스 / Linux 기반 플랫폼으로의 전략적 전환을 이끌었다. 또한 BeeContact, Dead Sea Labs 및 국방부와 같은 조직에 자문위원으로 일하며 여러 이스라엘 프로필 프로젝트에 참여했다. Mr. Oskin은 이스라엘 최초의 온라인 소셜 네트워크 인 Comoona의 공동 창립자이기도 하다.</p>
+</div>
+	
+<div id="sebastian" class="white-popup mfp-hide sans">
+<h3>SEBASTIAN STUPURAC</h3>
+<h4>Blockchain Product Adviser (Co-Founder of Wings)</h4>
+<br><br><br>
+<p>Mr. Stupurac은 이더리움 블록체인에서 작동되는 소수의 성공적인 DAPP중 하나인 WINGS를 공동 창립했다. WINGS는 스마트 계약 체결 및 커뮤니티 관리 플랫폼이다. Mr. Stupurac은 2013년부터 분산 솔루션 및 블록체인 기술에 대한 폭 넓은 경험을 쌓아왔다.
+</p>
+<br>
+<p>Mr. Stupurac은 또한 eyecam의 ChainLab, CIO 및 Product & Project Manager의 CEO였다. Mr. Stupurac은 The Academic College of Tel-Aviv, Yaffo에서 정보 시스템 관리 학사 학위를 받았다.</p>
+</div>
+	
+<div id="seonik" class="white-popup mfp-hide sans">
+<h3>SEONIK JEON</h3>
+<h4>Community Building and Marketing Adviser (CEO of Factblock & Blockpost, CSO of Financial News)</h4>
+<br><br><br>
+<p>팩트블록 (블록체인 자문사)의 CEO, 공동창립자, 블록포스트(블록체인 전문 미디어)의 CEO, 파이낸셜뉴스의 CSO, 일본 파이낸셜뉴스의 도쿄 지국장이다. 그리고 파이낸셜뉴스의 LA 특파원으로 근무하였으며 前 Mpio 부사장으로 역임했다. 고려대학교 경영대학원의 최고경영자 과정 및 캘리포니아 주립대학교 롱비치 캠퍼스에서 경영학 및 경영정보시스템을 전공했다.</p>
+</div>
+	
+<div id="sonic" class="white-popup mfp-hide sans">
+<h3>SONIC ZHANG</h3>
+<h4>Crypto Investment, Tokenomics Specialist / Technology Adviser (Founder & Managing Director of Ledger Z Capital)</h4>
+<br><br><br>
+<p>Mr. Zhang은 기업가이자 투자자이다. 블록체인 스타트업, security token offerings (STO) 및 암호화쳬에 대한 투자에 중점을 둔 LedgerZ Capital (ledgerz.capital) 및 ValueNet Capital (valuenet.capital)의 창립자며, 투자 포트폴리오에는 OmiseGo, Binance, PowerLedger, WAX, CoinPoker, Lympo, Bankorus, RobotCache, Celsius Network, tZERO, Tenzorum 등이 있습니다. 그는 전세계의 블록 체인 및 암호화폐 커뮤니티를 연결하는 데 초점을 둔 국제 NGO 인 B20의 20 개 국가 연합 리그 (B20)의 공동 창립자 겸 글로벌 디렉터이다. 암호화폐 거래소의 글로벌 네트워크 (Cointobe.com), 암호화폐 지갑 (Coinwall.io / Coinwallpro.com) 및 ICO관련 서비스를 제공하는 ValueBank Group 의 공동 창업자이다. Murint, 테크 및 엔터테인먼트 산업에 투자하는 VC 펀드 의 공동창업자이며, 해외 마케팅 서비스 제공 플랫폼 인 SoRelax의 창립자이다. Mr. Zhang은 시드니 대학교에서 메카트로닉스(mechatronics) MPM 및 BE를 수료했다.</p>
 </div>
 
 <div id="irwin" class="white-popup mfp-hide sans">
 <h3>IRWIN CHEE</h3>
-<h4>W재단 Business Development Adviser</h4>
+<h4>Crypto Adviser</h4>
 <br><br><br>
-<p>Novum Capital사의 수석 컨설턴트로서 블록체인 Application, ICO 컨설팅 및 Investor Relations 전문. 담당한 ICO 프로젝트들에 1억 달러 이상의 토큰판매를 성공.</p>
+<p>Mr. Chee는 제품 개발 및 마케팅 분야에서 경력을 쌓으며 보안 기술 회사 인 i-Sprint Innovations에서 근무했다. 그는 Rimu Group의 공동 창립자였으며, SEI 전역에 투자하고 Wavemaker Partners, Ardent Capital, SMDV, SPH, Fenox 및 DeNA와 같은 다른 VC와 공동 투자했습니다. 4 건의 인수 및 2 건의 포트폴리오 포트폴리오를 보유한 그는 싱가포르의 비디오 제작 회사 인 Rockstagvid의 사업 개발 및 운영을 총괄하는 총책임자였다.</p>
+<br>
+<p>Mr. Chee는 ICO의 초기 투자자로서 NXT, AntShares (현재 NEO), Stratis and Status 등 유명 프로젝트에 투자했다. Irwin은 현재 블록체인 자문사 Novum Capital의 경영 컨설턴트이자 www.cryptofinn.net (ICO검토 및 가상화폐 의견공유 채널)에 Writer이다.</p>
+</div>
+
+<div id="guy" class="white-popup mfp-hide sans">
+<h3>GUY MELAMED</h3>
+<h4>Strategic Business Adviser (Co-Founder, CEO of Zeex)</h4>
+<br><br><br>
+<p>Mr. Melamed는 성공적인 창업가이자 전략가. 스타트업 GreenRoad (Commercial Fleet 및 커넥티드 카(Connected car) 시장 선두주자)의 CPO, 전략파트너쉽담당 Head로서 회사의 성공에 기여하였다. 또한 에니메이션 메신저 Toontok을 창립, CEO로 역임했다. 디지털 교육 학습자료 제공업체인 Ginger Software 및 Time To Know에서 VP로서 제품 및 솔루션 설계를 담당했다. Mr. Melamed는 암스테르담 대학교에서 커뮤니케이션 석사 학위를 취득했다.</p>
+</div>
+	
+<div id="sangjin" class="white-popup mfp-hide sans">
+<h3>SANGJIN HONG</h3>
+<h4>Blockchain Investments Adviser (Co-Founder, CEO of Chain Cabinet)</h4>
+<br><br><br>
+<p>경험이 풍부한 사업가, 투자자로, 서울과 싱가포르에 본사를 둔 블록체인 투자 회사 인 Chain Cabinet의 공동 창립자 겸 CEO로 다양한 ICO 프로젝트에 투자를하고 있다. 50 개 이상의 스타트업 엑셀레이터를 한 Kstartup의 파트너이기도 하다. Microsoft에서 Microsoft Office 제품 관리자 및 Monitor Group의 경영 컨설턴트로서도 경험을 쌓았으며 20 년 이상의 기술 및 경영의 경험을 보유하고 있다.</p>
 </div>
 
 <div id="kyung" class="white-popup mfp-hide sans">

@@ -36,6 +36,10 @@ ul#menu {
 	height:850px;
 }
 
+.features-icon {
+    height: 420px;
+}
+
 }
 
 @media (max-width: 991px) {
@@ -66,6 +70,10 @@ ul#menu {
 
 .media-articles {
 	height:485px;
+}
+	
+.features-icon {
+    height: auto;
 }
 
 }
@@ -114,6 +122,10 @@ h4 {font-size:16px;}
 .celeb-title {height:60px;}
 .celeb-title h4 {font-size:14px;}
 
+.team-advisor {
+	padding:20px;
+}	
+
 .team-advisor h3 {font-size:16px;}
 .team-advisor h4 {font-size:14px;}
 
@@ -145,7 +157,7 @@ h4 {font-size:16px;}
 
 .home-container h4 {
 	font-size:14px;
-}
+}	
 
 }
 
