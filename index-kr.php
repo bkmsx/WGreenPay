@@ -1181,7 +1181,7 @@ Private Sale
 <br>
 <div class="team-title">
 <h3>SONIC ZHANG</h3>
-<h4>Crypto Investment, Tokenomics Specialist / Technology Adviser (Founder & Managing Director of Ledger Z Capital)</h4>
+<h4>Crypto Investment, Tokenomics Specialist / Technology Adviser (Founder & Managing Director of LedgerZ Capital)</h4>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 v-pad">
@@ -1287,6 +1287,14 @@ Private Sale
       <h2>Legal Profession & Financial Institutions</h2>
       <br>
       <div class="row" style="margin-bottom:60px;">
+		<div class="col-md-2 col-sm-4 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/hong-kyeong-keun.jpg" alt=""></div>
+          <br>
+          <div class=" kr-adviser">
+            <h3>홍경근</h3>
+            <h4>W재단 총재 (트루벤인베스트먼트그룹 회장)</h4>
+          </div>
+        </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Ko,-Eunseok--Prosecutor.jpg" alt=""></div>
           <br>
@@ -1303,14 +1311,7 @@ Private Sale
             <h4>한양대학교 법학과 교수 & 전 서울고등법원 판사</h4>
           </div>
         </div>
-        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/hong-kyeong-keun.jpg" alt=""></div>
-          <br>
-          <div class=" kr-adviser">
-            <h3>홍경근</h3>
-            <h4>트루벤인베스트먼트그룹회장</h4>
-          </div>
-        </div>
+        
       </div>
       <h2>Media & Entertainment</h2>
       <br>
@@ -1324,7 +1325,7 @@ Private Sale
           </div>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-<a href="#dongyul" class="open-popup-link"><div class="team-img"><img src="img/team-dongyul-seok.jpg" alt=""></div></a>
+<div class="team-img"><img src="img/team-dongyul-seok.jpg" alt=""></div>
 <br>
 <div class="team-title">
 <h3>석동률 (DONGYUL SEOK)</h3>
@@ -1695,7 +1696,7 @@ Private Sale
 	
 <div id="sonic" class="white-popup mfp-hide sans">
 <h3>SONIC ZHANG</h3>
-<h4>Crypto Investment, Tokenomics Specialist / Technology Adviser (Founder & Managing Director of Ledger Z Capital)</h4>
+<h4>Crypto Investment, Tokenomics Specialist / Technology Adviser (Founder & Managing Director of LedgerZ Capital)</h4>
 <br><br><br>
 <p>Mr. Zhang은 기업가이자 투자자이다. 블록체인 스타트업, security token offerings (STO) 및 암호화쳬에 대한 투자에 중점을 둔 LedgerZ Capital (ledgerz.capital) 및 ValueNet Capital (valuenet.capital)의 창립자며, 투자 포트폴리오에는 OmiseGo, Binance, PowerLedger, WAX, CoinPoker, Lympo, Bankorus, RobotCache, Celsius Network, tZERO, Tenzorum 등이 있습니다. 그는 전세계의 블록 체인 및 암호화폐 커뮤니티를 연결하는 데 초점을 둔 국제 NGO 인 B20의 20 개 국가 연합 리그 (B20)의 공동 창립자 겸 글로벌 디렉터이다. 암호화폐 거래소의 글로벌 네트워크 (Cointobe.com), 암호화폐 지갑 (Coinwall.io / Coinwallpro.com) 및 ICO관련 서비스를 제공하는 ValueBank Group 의 공동 창업자이다. Murint, 테크 및 엔터테인먼트 산업에 투자하는 VC 펀드 의 공동창업자이며, 해외 마케팅 서비스 제공 플랫폼 인 SoRelax의 창립자이다. Mr. Zhang은 시드니 대학교에서 메카트로닉스(mechatronics) MPM 및 BE를 수료했다.</p>
 </div>

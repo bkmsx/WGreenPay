@@ -1172,7 +1172,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <br>
         <div class="team-title">
           <h3>SONIC ZHANG</h3>
-          <h4>Crypto Investment, Tokenomics Specialist / Technology Adviser<br>(Founder & Managing Director of Ledger Z Capital)</h4>
+          <h4>Crypto Investment, Tokenomics Specialist / Technology Adviser<br>(Founder & Managing Director of LedgerZ Capital)</h4>
         </div>
       </div>
 	  <div class="col-md-3 col-sm-6 v-pad">
@@ -1276,6 +1276,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <h2>Legal Profession & Financial Institutions</h2>
       <br>
+	  <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
+          <div class="team-img adviser-img"><img src="img/Advisors/hong-kyeong-keun.jpg" alt=""></div>
+          <br>
+          <div class="team-title ">
+            <h3>Hong, Kyung Keun</h3>
+            <h4>President, W-Foundation (Chairman, TRUBEN Investment Group)</h4>
+          </div>
+        </div>
       <div class="row" style="margin-bottom:60px;">
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Ko,-Eunseok--Prosecutor.jpg" alt=""></div>
@@ -1293,14 +1301,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h4>Professor in Department of Law & Former Judge of Seoul High Court, Hanyang University</h4>
           </div>
         </div>
-		<div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/hong-kyeong-keun.jpg" alt=""></div>
-          <br>
-          <div class="team-title ">
-            <h3>Hong, Kyung Keun</h3>
-            <h4>Chairman, TRUBEN Investment Group</h4>
-          </div>
-        </div>
+		
 		<!--
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Park,-Huiseung--Lawyer.jpg" alt=""></div>
@@ -1704,7 +1705,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div id="sonic" class="white-popup mfp-hide sans">
   <h3>SONIC ZHANG</h3>
-  <h4>Crypto Investment, Tokenomics Specialist / Technology Adviser (Founder & Managing Director of Ledger Z Capital)</h4>
+  <h4>Crypto Investment, Tokenomics Specialist / Technology Adviser (Founder & Managing Director of LedgerZ Capital)</h4>
   <br><br><br>
   <p>Sonic Zhang is an entrepreneur and investor. Founder of LedgerZ Capital (ledgerz.capital) and ValueNet Capital (valuenet.capital), focusing on investing in blockchain startup, security token offerings (STO) and cryptos， portfolio include OmiseGo, Binance, PowerLedger, WAX, CoinPoker, Lympo, Bankorus, RobotCache, Celsius Network, tZERO, Tenzorum, etc. He is the Co-founder and Global Director of 20 Nations League of Blockchain (B20), an international NGO focused on bridging blockchain and crypto communities worldwide. And the co-founder of ValueBank Group, a global network of fiat-crypto/crypto-crypto (Cointobe.com) exchanges, with a crypto wallet (Coinwall.io / Coinwallpro.com), and ICO services. Co-founder of Murint Capital, a VC Fund for tech and entertainment industries. Founder of SoRelax, a global platform for cross border marketing and services. Sonic has a MPM and a BE in Mechatronics from University of Sydney.</p>
 </div>
@@ -1738,7 +1739,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div id="kyung" class="white-popup mfp-hide sans">
   <h3>KYUNG KEON HONG</h3>
-  <h4>President, W-Foundation</h4>
+  <h4>President, W-Foundation (Chairman, TRUBEN Investment Group)</h4>
   <br><br><br>
   <p>President of W-Foundation, Chairman of Hooxi Global and Chairman of Truben Investment Group. Truben Investment Group manages one of the biggest investment funds in Korea, with focus on infrastructure and long term capital projects. One of the businesses Truben Investment Group owns is the National Sports Lottery of Korea called K-toto, which is operated under an exclusive license agreement with the Korean government. Annual sale of the K-toto is approximately 5 billion USD.</p>
 </div>
