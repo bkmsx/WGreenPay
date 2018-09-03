@@ -758,6 +758,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <br><br>
                 <h4>GHG Reduction Campaign (HOOXI Campaign) Committee Inauguration Ceremony</h4>
               </div>
+		      <div class="col-md-6 col-sm-6 v-pad">
+                <a href="https://www.youtube.com/watch?v=vM34RZbFILQ&t=7s" class="video-pop-up"><img src="img/video-thumb-6.jpg" alt=""></a>
+                <br><br>
+                <h4>W Green Pay's Partnership Meeting with Zeex</h4>
+              </div>
+            </li>
+			<li>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <a href="https://www.youtube.com/watch?v=5lrMelrVj9w" class="video-pop-up"><img src="img/video-thumb-7.jpg" alt=""></a>
+                <br><br>
+                <h4>Tutorial Video on utilizing WGP tokens on Zeex’s platform</h4>
+              </div>
             </li>
           </ul>
         </div>
@@ -894,6 +906,77 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </div>
+	<div style="background:#00bc7b; width:100%; height:1px; margin:60px 0;"></div>
+    <h2>Blog</h2>
+    <br>
+    <br>
+    <div class="row">
+	  <div class="flex-container">
+        <div class="blog-slider">
+          <ul class="slides">
+		    <li>
+			  <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/blog-1.jpg" alt=""></div>
+                  <br><br>
+                  <h4>ICON and W Green Pay’s Strategic Partnership</h4>
+                  <br>
+                  <a href="https://medium.com/wgreenpay/icon-and-w-green-pays-strategic-partnership-aadb6d99ded" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+		      <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/blog-2.jpg" alt=""></div>
+                  <br><br>
+                  <h4>W Green Pay Announces Partnership with Zeex to Enhance the Usability of WGP Tokens</h4>
+                  <br>
+                  <a href=" https://medium.com/wgreenpay/w-green-pay-announces-partnership-with-zeex-to-enhance-the-usability-of-wgp-tokens-4b1fbf075a24" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+			  <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/blog-3.jpg" alt=""></div>
+                  <br><br>
+                  <h4>DaeHyun Accounting Corporation to Support the HOOXI Campaign as a Strategic Investor and Partner</h4>
+                  <br>
+                  <a href="https://medium.com/wgreenpay/daehyun-accounting-corporation-to-support-the-hooxi-campaign-as-a-strategic-investor-and-partner-a52c5e25c713" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+			</li>
+			<li>
+			  <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/blog-4.jpg" alt=""></div>
+                  <br><br>
+                  <h4>Exciting New Partnership Announcement for W-Foundation</h4>
+                  <br>
+                  <a href="https://medium.com/wgreenpay/exciting-new-partnership-announcement-for-w-foundation-9c6cd2aa99ce" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+		      <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/blog-5.jpg" alt=""></div>
+                  <br><br>
+                  <h4>W-Foundation’s Strategic Partnership with YG Investment</h4>
+                  <br>
+                  <a href="https://medium.com/wgreenpay/w-foundations-strategic-partnership-with-yg-investment-edb251ce5f01" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+			  <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/blog-6.jpg" alt=""></div>
+                  <br><br>
+                  <h4>Press Release: Stellar to Power W-Foundation’s HOOXI Campaign W Green Pay (WGP) Tokens</h4>
+                  <br>
+                  <a href="https://medium.com/wgreenpay/press-release-stellar-to-power-w-foundations-hooxi-campaign-w-green-pay-wgp-tokens-a70f0d630907" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+			</li>
+		  </ul>
+		  <div class="articles-viewall"><a href="blog.html" target="_blank" class="btn white-btn articles-btn">View All</a></div>
+		</div>
+	  </div>
+	</div>
     
     <div class="row" style="margin-top:80px;">
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
@@ -1848,6 +1931,13 @@ $(function() {
         $('.articles-slider').flexslider({
             animation: 'none',
             controlsContainer: '.articles-slider',
+        });
+    });
+	
+	$(document).ready(function () {
+        $('.blog-slider').flexslider({
+            animation: 'none',
+            controlsContainer: '.blog-slider',
         });
     });
 	

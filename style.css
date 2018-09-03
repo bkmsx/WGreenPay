@@ -475,6 +475,15 @@ td {
 
 .media-articles h4 {font-weight:700;}
 
+.blog-img {
+	width:100%;
+	height: auto;
+	overflow: hidden;
+	box-sizing:border-box;
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+}
+
 #roadmap {
 	background: url(img/bg-roadmap-top.png) top left no-repeat, 
  url(img/bg-bottom-trees.jpg) bottom right no-repeat;

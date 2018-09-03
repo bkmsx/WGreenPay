@@ -888,9 +888,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <a href="https://www.afp.com/en/news/1314/w-green-pay-wgp-global-solution-greenhouse-gas-ghg-reduction-201805300056201" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
                 </div>
               </div>
+			  <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-businesswire.png" alt="">
+                  <br><br>
+                  <p>Business Wire</p>
+                  <br>
+                  <h4>由韩国政府支持的HOOXI活动推出首个按个人温室气体减排贡献进行奖励的区块链奖励系统W Green Pay</h4>
+                  <br>
+                  <a href="https://www.businesswire.com/news/home/20180528005366/zh-CN/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+			  <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-cna.png" alt="">
+                  <br><br>
+                  <p>CNA</p>
+                  <br>
+                  <h4>W Green Pay (WGP) 溫室氣體(GHG)減排全球解決方案</h4>
+                  <br>
+                  <a href="http://www.cnabc.com/news/aall/201806110507.aspx" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
             </li>
           </ul>
-          <div class="articles-viewall"><a href="media.html" target="_blank" class="btn white-btn articles-btn">View All</a></div>
+          <div class="articles-viewall"><a href="media-zh.html" target="_blank" class="btn white-btn articles-btn">View All</a></div>
         </div>
       </div>
     </div>

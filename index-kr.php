@@ -897,12 +897,85 @@ Private Sale
                   <a href="http://m.news.naver.com/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0003950033" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
                 </div>
               </div>
+			  <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-sbs-cnbc.png" alt="">
+                  <br><br>
+                  <p>SBS CNBC</p>
+                  <br>
+                  <h4>W재단, 스텔라 Lightyear와 HOOXI 캠페인 위한 전략적 협력 체결</h4>
+                  <br>
+                  <a href="http://sbscnbc.sbs.co.kr/read.jsp?pmArticleId=10000909609&pc_searchclick=all_news_cont_00_03" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
             </li>
           </ul>
           <div class="articles-viewall"><a href="media-kr.html" target="_blank" class="btn white-btn articles-btn">View All</a></div>
         </div>
       </div>
     </div>
+	<div style="background:#00bc7b; width:100%; height:1px; margin:60px 0;"></div>
+    <h2>블로그</h2>
+    <br>
+    <br>
+    <div class="row">
+	  <div class="flex-container">
+        <div class="blog-slider">
+          <ul class="slides">
+		    <li>
+			  <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/blog-1.jpg" alt=""></div>
+                  <br><br>
+                  <h4>W재단, ICON과의 전략적 파트너쉽 통해블록체인 W Green Pay(WGP)의 안전성 강화한다</h4>
+                  <br>
+                  <a href="https://medium.com/wgreenpay/icon-and-w-green-pays-strategic-partnership-aadb6d99ded" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+		      <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/blog-2.jpg" alt=""></div>
+                  <br><br>
+                  <h4>W재단, Zeex와 협력하여 세계적으로 W Green Pay(WGP)의 사용처를 확대한다</h4>
+                  <br>
+                  <a href=" https://medium.com/wgreenpay/w-green-pay-announces-partnership-with-zeex-to-enhance-the-usability-of-wgp-tokens-4b1fbf075a24" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+			  <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/blog-3.jpg" alt=""></div>
+                  <br><br>
+                  <h4>대현회계법인, W재단 HOOXI 프로젝트에 전략적 파트너로 참여</h4>
+                  <br>
+                  <a href="https://medium.com/wgreenpay/daehyun-accounting-corporation-to-support-the-hooxi-campaign-as-a-strategic-investor-and-partner-a52c5e25c713" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+			</li>
+			<li>
+			  <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/blog-5.jpg" alt=""></div>
+                  <br><br>
+                  <h4>YG그룹, W재단 HOOXI 프로젝트에 전략적 파트너로 참여</h4>
+                  <br>
+                  <a href="https://medium.com/wgreenpay/exciting-new-partnership-announcement-for-w-foundation-9c6cd2aa99ce" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+		      <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/blog-6.jpg" alt=""></div>
+                  <br><br>
+                  <h4>더블유재단(W재단), 세계적인 블록체인 스텔라와HOOXI 캠페인 파트너쉽 체결</h4>
+                  <br>
+                  <a href="https://medium.com/wgreenpay/w-foundations-strategic-partnership-with-yg-investment-edb251ce5f01" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+			</li>
+		  </ul>
+		  <div class="articles-viewall"><a href="blog-kr.html" target="_blank" class="btn white-btn articles-btn">View All</a></div>
+		</div>
+	  </div>
+	</div>
     
     <div class="row" style="margin-top:80px;">
       <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
@@ -1834,6 +1907,13 @@ $(function() {
         $('.articles-slider').flexslider({
             animation: 'none',
             controlsContainer: '.articles-slider',
+        });
+    });
+	
+	$(document).ready(function () {
+        $('.blog-slider').flexslider({
+            animation: 'none',
+            controlsContainer: '.blog-slider',
         });
     });
 	

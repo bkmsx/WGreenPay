@@ -238,6 +238,18 @@ ul.social {
 	bottom:-52px;
 	right: 217px;
 }
+	
+.blog-slider .flex-direction-nav .flex-next {
+    top:inherit;
+	bottom:-52px;
+	right: 160px;
+}
+
+.blog-slider .flex-direction-nav .flex-prev {
+	top:inherit;
+	bottom:-52px;
+	right: 217px;
+}
 
 .articles-viewall {
 	top:inherit; 
