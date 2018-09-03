@@ -163,7 +163,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a href="#token" onClick="closeSidebar(this)">토큰정보</a>
 <a href="#media" onClick="closeSidebar(this)">미디어</a>
 <a href="#roadmap" onClick="closeSidebar(this)">로드맵</a>
-<a href="#partner" onClick="closeSidebar(this)">팀</a>
+<a href="#partner" onClick="closeSidebar(this)">파트너</a>
 <a href="#team" onClick="closeSidebar(this)">팀</a>
 <a href="#advisers" onClick="closeSidebar(this)">명예고문</a>
 <a href="#contact" onClick="closeSidebar(this)">연락처</a>
