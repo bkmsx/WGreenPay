@@ -1259,11 +1259,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 	  <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
+        <a href="#kjlee" class="open-popup-link"><div class="team-img"><img src="img/team-kjlee.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
-          <h3>Irwin Chee</h3>
-          <h4>Crypto Adviser</h4>
+          <h3>KJ LEE</h3>
+          <h4>Technology Adviser (Council Member, ICON Foundation)</h4>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 v-pad">
@@ -1276,6 +1276,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </div>
 	<div class="row">
+	  <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Irwin Chee</h3>
+          <h4>Crypto Adviser</h4>
+        </div>
+      </div>
 	  <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sangjin" class="open-popup-link"><div class="team-img"><img src="img/team-sang-jin-hong.jpg" alt=""></div></a>
         <br>
@@ -1791,6 +1799,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <h4>Crypto Investment, Tokenomics Specialist / Technology Adviser (Founder & Managing Director of LedgerZ Capital)</h4>
   <br><br><br>
   <p>Sonic Zhang is an entrepreneur and investor. Founder of LedgerZ Capital (ledgerz.capital) and ValueNet Capital (valuenet.capital), focusing on investing in blockchain startup, security token offerings (STO) and cryptos， portfolio include OmiseGo, Binance, PowerLedger, WAX, CoinPoker, Lympo, Bankorus, RobotCache, Celsius Network, tZERO, Tenzorum, etc. He is the Co-founder and Global Director of 20 Nations League of Blockchain (B20), an international NGO focused on bridging blockchain and crypto communities worldwide. And the co-founder of ValueBank Group, a global network of fiat-crypto/crypto-crypto (Cointobe.com) exchanges, with a crypto wallet (Coinwall.io / Coinwallpro.com), and ICO services. Co-founder of Murint Capital, a VC Fund for tech and entertainment industries. Founder of SoRelax, a global platform for cross border marketing and services. Sonic has a MPM and a BE in Mechatronics from University of Sydney.</p>
+</div>
+
+<div id="kjlee" class="white-popup mfp-hide sans">
+  <h3>KJ LEE</h3>
+  <h4>Technology Adviser (Council Member, ICON Foundation)</h4>
+  <br><br><br>
+  <p>KJ is Founder of Nomad Connection and CEO at DAYLI Intelligence. Nomad Connection is the company behind Zimly, a P2P media service with over 3 million users worldwide. KJ was previously software engineer at the SecureSoft team which developed South Korea's first firewall 'Suhoshin' in 1996. KJ holds a BS in Computer Science from from the Pohang University of Science and Technology (POSTECH).</p>
 </div>
 
 <div id="irwin" class="white-popup mfp-hide sans">

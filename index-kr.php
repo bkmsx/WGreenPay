@@ -1258,11 +1258,11 @@ Private Sale
 </div>
 </div>
 <div class="col-md-3 col-sm-6 v-pad">
-<a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
+<a href="#kjlee" class="open-popup-link"><div class="team-img"><img src="img/team-kjlee.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
-<h3>Irwin Chee</h3>
-<h4>Crypto Adviser</h4>
+<h3>이경준 (KJ LEE)</h3>
+<h4>Technology Adviser (Council Member, ICON Foundation)</h4>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 v-pad">
@@ -1275,6 +1275,14 @@ Private Sale
 </div>
 </div>
 <div class="row">
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Irwin Chee</h3>
+<h4>Crypto Adviser</h4>
+</div>
+</div>
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#sangjin" class="open-popup-link"><div class="team-img"><img src="img/team-sang-jin-hong.jpg" alt=""></div></a>
 <br>
@@ -1772,6 +1780,13 @@ Private Sale
 <h4>Crypto Investment, Tokenomics Specialist / Technology Adviser (Founder & Managing Director of LedgerZ Capital)</h4>
 <br><br><br>
 <p>Mr. Zhang은 기업가이자 투자자이다. 블록체인 스타트업, security token offerings (STO) 및 암호화쳬에 대한 투자에 중점을 둔 LedgerZ Capital (ledgerz.capital) 및 ValueNet Capital (valuenet.capital)의 창립자며, 투자 포트폴리오에는 OmiseGo, Binance, PowerLedger, WAX, CoinPoker, Lympo, Bankorus, RobotCache, Celsius Network, tZERO, Tenzorum 등이 있습니다. 그는 전세계의 블록 체인 및 암호화폐 커뮤니티를 연결하는 데 초점을 둔 국제 NGO 인 B20의 20 개 국가 연합 리그 (B20)의 공동 창립자 겸 글로벌 디렉터이다. 암호화폐 거래소의 글로벌 네트워크 (Cointobe.com), 암호화폐 지갑 (Coinwall.io / Coinwallpro.com) 및 ICO관련 서비스를 제공하는 ValueBank Group 의 공동 창업자이다. Murint, 테크 및 엔터테인먼트 산업에 투자하는 VC 펀드 의 공동창업자이며, 해외 마케팅 서비스 제공 플랫폼 인 SoRelax의 창립자이다. Mr. Zhang은 시드니 대학교에서 메카트로닉스(mechatronics) MPM 및 BE를 수료했다.</p>
+</div>
+	
+<div id="kjlee" class="white-popup mfp-hide sans">
+<h3>이경준 (KJ LEE)</h3>
+<h4>Technology Adviser (Council Member, ICON Foundation)</h4>
+<br><br><br>
+<p>포항공대에서 컴퓨터공학을 전공했고 시큐어소프트에서 국내 첫번째 Firewall인 '수호신'(SUHOSHIN)을 개발하였다. 노매드커넥션을 창업하여 P2P Media 서비스 Zimly를 통해 300만 사용자를 확보한 경험을 가지고 있다.</p>
 </div>
 
 <div id="irwin" class="white-popup mfp-hide sans">

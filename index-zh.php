@@ -1198,11 +1198,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 	  <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
+        <a href="#kjlee" class="open-popup-link"><div class="team-img"><img src="img/team-kjlee.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
-          <h3>Irwin Chee</h3>
-          <h4>加密顾问</h4>
+          <h3>KJLEE</h3>
+          <h4>技术顾问（ICON Foundation理事会成员）</h4>
         </div>
       </div>
 	  <div class="col-md-3 col-sm-6 v-pad">
@@ -1215,6 +1215,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
 	</div>
     <div class="row">
+	  <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Irwin Chee</h3>
+          <h4>加密顾问</h4>
+        </div>
+      </div>
 	  <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sangjin" class="open-popup-link"><div class="team-img"><img src="img/team-sang-jin-hong.jpg" alt=""></div></a>
         <br>
@@ -1697,6 +1705,13 @@ Dongyul Seok先生是韩国知名记者、国际新闻工作者联合会（ Inte
   <h4>加密投资，代币经济专家/技术顾问 (LedgerZ Capital创始人兼董事总经理)</h4>
   <br><br><br>
   <p>Sonic Zhang是一位企业家和投资者，也是 LedgerZ Capital(ledgerz.capital) 和ValueNet Capital(valuenet.capital)的创始人。Sonic聚焦投资区块链创业 企业，安全令牌产品(STO)和密码。其产品组合包括OmiseGo，Binance， PowerLedger，WAX，CoinPoker，Lympo，Bankorus， RobotCache，Celsius Network，tZERO，Tenzorum等。他是二十国区块链联盟(B20)的联合创始人 兼全球总监，该组织是一个国际非政府组织，专注于桥接全球区块链和加密社区 。 他还是ValueBank Group的联合创始人，该公司提供全球网络加密( Cointobe.com)交换，加密钱包(Coinwall.io / Coinwallpro.com)和ICO服务 。 他同时也是Murint Capital的联合创始人，主要业务是对技术和娱乐行业的风 险投资基金。 Sonic也是SoRelax的创始人，SoRelax是提供跨境营销与服务的全 球平台。 Sonic在悉尼大学拥有机电一体化的MPM和BE。</p>
+</div>
+
+<div id="kjlee" class="white-popup mfp-hide sans">
+  <h3>KJLEE</h3>
+  <h4>技术顾问（ICON Foundation理事会成员</h4>
+  <br><br><br>
+  <p>KJ是Nomad Connection的创始人和DAYLI Intelligence的首席执行官。Nomad Connection是Zimly背后的公司，Zimly是一家P2P媒体服务公司，在全球拥有超过300万用户。 KJ曾是SecureSoft团队的软件工程师，该团队于1996年开发了韩国首个防火墙“Suhoshin”. KJ拥有浦项科技大学（POSTECH）的计算机科学学士学位。</p>
 </div>
 
 <div id="irwin" class="white-popup mfp-hide sans">
