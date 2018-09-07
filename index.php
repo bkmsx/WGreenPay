@@ -900,6 +900,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <a href="https://www.afp.com/en/news/1314/w-green-pay-wgp-global-solution-greenhouse-gas-ghg-reduction-201805300056201" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
                 </div>
               </div>
+			  <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-eng-eth.png" alt="">
+                  <br><br>
+                  <p>Ethereum World News</p>
+                  <br>
+                  <h4>ICON (ICX) Partners W Foundation On Global Green Gas Reduction Compensation</h4>
+                  <br>
+                  <a href="https://ethereumworldnews.com/icon-icx-partners-w-foundation-on-global-green-gas-reduction-compensation/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+			  <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-eng-cryptorecorder.png" alt="">
+                  <br><br>
+                  <p>Crypto Recorder</p>
+                  <br>
+                  <h4>ICON Coin (ICX) Scoring New Partnerships while Working on Korean Crypto Hub</h4>
+                  <br>
+                  <a href="https://www.cryptorecorder.com/2018/09/01/icon-coin-icx-scoring-new-partnerships-while-working-on-korean-crypto-hub/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
             </li>
           </ul>
           <div class="articles-viewall"><a href="media.html" target="_blank" class="btn white-btn articles-btn">View All</a></div>
@@ -1301,7 +1323,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 	  <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#satoshi" class="open-popup-link"><div class="team-img"><img src="img/team-profile.png" alt=""></div></a>
+        <div class="team-img"><img src="img/team-profile.png" alt=""></div>
         <br>
         <div class="team-title">
           <h3>Satoshi D.</h3>
@@ -1593,12 +1615,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <h2 style="text-transform:none;"><a href="mailto:hello@wpay.sg" style="color:#87b44c;">hello@wpay.sg</a></h2>
       <ul class="social">
         <li><a href="https://www.facebook.com/wgreenpay/" target="_blank"><div class="social-icon"><i class="fa fa-facebook" aria-hidden="true"></i></div></a></li>
-        <!-- <li><a href="#" target="_blank"><div class="social-icon"><i class="fa fa-instagram" aria-hidden="true"></i></div></a></li> -->
-        <!-- <li><a href="#" target="_blank"><div class="social-icon"><i class="fa fa-bitcoin" aria-hidden="true"></i></div></a></li> -->
         <li><a href="https://twitter.com/WGreenPay" target="_blank"><div class="social-icon"><i class="fa fa-twitter" aria-hidden="true"></i></div></a></li>
         <li><a href="https://t.me/wgreenpay" target="_blank"><div class="social-icon"><i class="fa fa-telegram" aria-hidden="true"></i></div></a></li>
         <li><a href="https://medium.com/@wgreenpay" target="_blank"><div class="social-icon"><i class="fa fa-medium" aria-hidden="true"></i></div></a></li>
-        <!-- <li><a href="" target="_blank"><div class="social-icon"><i class="fa fa-github" aria-hidden="true"></i></div></a></li>        -->
+		<li><a href="https://www.youtube.com/channel/UCsyIK_QmL4GYOu_ulXrChdg?view_as=subscriber" target="_blank"><div class="social-icon"><i class="fa fa-youtube" aria-hidden="true"></i></div></a></li>
+		<li><a href="https://www.linkedin.com/company/wgreenpay/" target="_blank"><div class="social-icon"><i class="fa fa-linkedin" aria-hidden="true"></i></div></a></li>
+		<li><a href="https://www.reddit.com/user/WGreenPay" target="_blank"><div class="social-icon"><i class="fa fa-reddit" aria-hidden="true"></i></div></a></li>
+		<li><a href="https://bitcointalk.org/index.php?topic=4432415.0" target="_blank"><div class="social-icon"><i class="fa fa-bitcoin" aria-hidden="true"></i></div></a></li>
+		<li><a href="https://en.bitcoinwiki.org/wiki/W_Green_Pay" target="_blank"><div class="social-icon"><i class="fa fa-btc" aria-hidden="true"></i></div></a></li>
       </ul>
     </div>
   </div>

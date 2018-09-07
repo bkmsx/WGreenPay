@@ -1301,7 +1301,7 @@ Private Sale
 </div>
 </div>
 <div class="col-md-3 col-sm-6 v-pad">
-<a href="#satoshi" class="open-popup-link"><div class="team-img"><img src="img/team-profile.png" alt=""></div></a>
+<div class="team-img"><img src="img/team-profile.png" alt=""></div>
 <br>
 <div class="team-title">
 <h3>Satoshi D.</h3>
@@ -1406,7 +1406,7 @@ Private Sale
           </div>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-<div class="team-img"><img src="img/team-dongyul-seok.jpg" alt=""></div>
+<div class="team-img adviser-img"><img src="img/team-dongyul-seok.jpg" alt=""></div>
 <br>
 <div class="team-title">
 <h3>석동률 (DONGYUL SEOK)</h3>
@@ -1575,14 +1575,16 @@ Private Sale
 <h3 style="text-transform:none;">문의사항은 하기 이메일로 연락바랍니다:</h3>
 <h2 style="text-transform:none;"><a href="mailto:hello@wpay.sg" style="color:#87b44c;">hello@wpay.sg</a></h2>
 <ul class="social">
-<li><a href="https://www.facebook.com/wgreenpay/" target="_blank"><div class="social-icon"><i class="fa fa-facebook" aria-hidden="true"></i></div></a></li>
-<!-- <li><a href="#" target="_blank"><div class="social-icon"><i class="fa fa-instagram" aria-hidden="true"></i></div></a></li> -->
-<!-- <li><a href="#" target="_blank"><div class="social-icon"><i class="fa fa-bitcoin" aria-hidden="true"></i></div></a></li> -->
-<li><a href="https://twitter.com/WGreenPay" target="_blank"><div class="social-icon"><i class="fa fa-twitter" aria-hidden="true"></i></div></a></li>
-<li><a href="https://t.me/wgreenpay" target="_blank"><div class="social-icon"><i class="fa fa-telegram" aria-hidden="true"></i></div></a></li>
-<li><a href="https://medium.com/@wgreenpay" target="_blank"><div class="social-icon"><i class="fa fa-medium" aria-hidden="true"></i></div></a></li>
-<!-- <li><a href="" target="_blank"><div class="social-icon"><i class="fa fa-github" aria-hidden="true"></i></div></a></li>        -->
-</ul>
+        <li><a href="https://www.facebook.com/wgreenpay/" target="_blank"><div class="social-icon"><i class="fa fa-facebook" aria-hidden="true"></i></div></a></li>
+        <li><a href="https://twitter.com/WGreenPay" target="_blank"><div class="social-icon"><i class="fa fa-twitter" aria-hidden="true"></i></div></a></li>
+        <li><a href="https://t.me/wgreenpay" target="_blank"><div class="social-icon"><i class="fa fa-telegram" aria-hidden="true"></i></div></a></li>
+        <li><a href="https://medium.com/@wgreenpay" target="_blank"><div class="social-icon"><i class="fa fa-medium" aria-hidden="true"></i></div></a></li>
+		<li><a href="https://www.youtube.com/channel/UCsyIK_QmL4GYOu_ulXrChdg?view_as=subscriber" target="_blank"><div class="social-icon"><i class="fa fa-youtube" aria-hidden="true"></i></div></a></li>
+		<li><a href="https://www.linkedin.com/company/wgreenpay/" target="_blank"><div class="social-icon"><i class="fa fa-linkedin" aria-hidden="true"></i></div></a></li>
+		<li><a href="https://www.reddit.com/user/WGreenPay" target="_blank"><div class="social-icon"><i class="fa fa-reddit" aria-hidden="true"></i></div></a></li>
+		<li><a href="https://bitcointalk.org/index.php?topic=4432415.0" target="_blank"><div class="social-icon"><i class="fa fa-bitcoin" aria-hidden="true"></i></div></a></li>
+		<li><a href="https://en.bitcoinwiki.org/wiki/W_Green_Pay" target="_blank"><div class="social-icon"><i class="fa fa-btc" aria-hidden="true"></i></div></a></li>
+      </ul>
 </div>
 </div>
 </section>
