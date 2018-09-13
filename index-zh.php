@@ -1713,6 +1713,8 @@ Dongyul Seok先生是韩国知名记者、国际新闻工作者联合会（ Inte
   <h3>KJLEE</h3>
   <h4>技术顾问（ICON Foundation理事会成员</h4>
   <br><br><br>
+  <p>KJ Lee是ICON Foundation的理事会成员。 ICON是韩国主要的全球区块链项目。 ICON于2017年9月成功筹集了15万ETH，市值约为2.91亿美元（相当于约3,646.4亿韩元）。 ICON的本土代币ICX一直是前30名（按市值计算），这是唯一一款以韩国为基础的代币。</p>
+  <br>
   <p>KJ是Nomad Connection的创始人和DAYLI Intelligence的首席执行官。Nomad Connection是Zimly背后的公司，Zimly是一家P2P媒体服务公司，在全球拥有超过300万用户。 KJ曾是SecureSoft团队的软件工程师，该团队于1996年开发了韩国首个防火墙“Suhoshin”. KJ拥有浦项科技大学（POSTECH）的计算机科学学士学位。</p>
 </div>
 

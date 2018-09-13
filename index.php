@@ -1829,6 +1829,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <h3>KJ LEE</h3>
   <h4>Technology Adviser (Council Member, ICON Foundation)</h4>
   <br><br><br>
+  <p>KJ Lee is the Council Member of ICON Foundation. ICON is a major global blockchain project based in Korea. ICON successfully raised 150,000 ETH in September 2017 and maintains a market capitalization of approximately USD 291 million (equivalent to approximiately KRW 326.64 billion). ICON's native coin ICX has consistently been part of the top 30s (by market capitalization), the only Korea-based coin to do so.</p>
+  <br>
   <p>KJ is Founder of Nomad Connection and CEO at DAYLI Intelligence. Nomad Connection is the company behind Zimly, a P2P media service with over 3 million users worldwide. KJ was previously software engineer at the SecureSoft team which developed South Korea's first firewall 'Suhoshin' in 1996. KJ holds a BS in Computer Science from from the Pohang University of Science and Technology (POSTECH).</p>
 </div>
 
