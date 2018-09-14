@@ -1147,6 +1147,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </div>
     <div class="row">
+	  <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#kjlee" class="open-popup-link"><div class="team-img"><img src="img/team-kjlee.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>KJLEE</h3>
+          <h4>技术顾问（ICON Foundation理事会成员）</h4>
+        </div>
+      </div>
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
         <br>
@@ -1171,6 +1179,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>技术，研究与开发顾问 (Wings的联合创始人)</h4>
         </div>
       </div>
+    </div>
+    <div class="row">
 	  <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sebastian" class="open-popup-link"><div class="team-img"><img src="img/team-sebastian.jpg" alt=""></div></a>
         <br>
@@ -1179,8 +1189,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>区块链产品顾问(Wings的联合创始人)</h4>
         </div>
       </div>
-    </div>
-    <div class="row">
 	  <div class="col-md-3 col-sm-6 v-pad">
         <a href="#seonik" class="open-popup-link"><div class="team-img"><img src="img/team-seonik-jeon.jpg" alt=""></div></a>
         <br>
@@ -1195,14 +1203,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="team-title">
           <h3>SONIC ZHANG</h3>
           <h4>加密投资，代币经济专家/技术顾问 (LedgerZ Capital创始人兼董事总经理)</h4>
-        </div>
-      </div>
-	  <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#kjlee" class="open-popup-link"><div class="team-img"><img src="img/team-kjlee.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>KJLEE</h3>
-          <h4>技术顾问（ICON Foundation理事会成员）</h4>
         </div>
       </div>
 	  <div class="col-md-3 col-sm-6 v-pad">
