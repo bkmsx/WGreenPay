@@ -322,7 +322,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <br>
     <h2>W Exchange</h2>
     <br>
-    <p>W Exchange, under the Korea Electric Power Corporation (KEPCO) approval, will be launched in March 2019. W Exchange is expected to be a KETS-eligible business entity. The allocated KOCs of HOOXI App are expected to trade at KRX using W Exchange.</p>
+    <p>W Exchange is set to launch in March 2019 under the Korea Electric Power Corporation (KEPCO) approval. W Exchange is expected to be a KETS-eligible business entity. KOCs from HOOXI App will trade at KRX through W Exchange.</p>
   </div>
 </section>
 <section class="sponsors">
