@@ -306,7 +306,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="features-icon">
           <img src="img/feature-icon-3.png" alt="">
           <br>
-          <h4>Issue "W Green Pay Cryoto Card" to use WGP as payment at anywhere worldwide</h4>
+          <h4>Issue "W Green Pay Crypto Card" to use WGP as payment anywhere worldwide</h4>
         </div>
       </div>
     </div>
