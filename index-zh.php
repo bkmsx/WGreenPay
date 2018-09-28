@@ -1272,27 +1272,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Beongwook--National-Assembly-.jpg" alt=""></div>
-          <br>
-          <div class="team-title ">
-            <h3>Kim, Beongwook</h3>
-            <h4>韩国国会议员</h4>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/MOCT--Oh,-Jangsup.jpg" alt=""></div>
           <br>
           <div class="team-title ">
             <h3>Oh, Jangsup</h3>
             <h4>前建设与运输部部长</h4>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/Lee,-Sanghui.jpg" alt=""></div>
-          <br>
-          <div class="team-title ">
-            <h3>Lee, Sanghui</h3>
-            <h4>前科技部部长</h4>
           </div>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">

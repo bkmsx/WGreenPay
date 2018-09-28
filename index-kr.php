@@ -1333,27 +1333,11 @@ Private Sale
           </div>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/Kim,-Beongwook--National-Assembly-.jpg" alt=""></div>
-          <br>
-          <div class=" kr-adviser">
-            <h3>김병욱 </h3>
-            <h4>국회의원</h4>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/MOCT--Oh,-Jangsup.jpg" alt=""></div>
           <br>
           <div class=" kr-adviser">
             <h3>오장섭</h3>
             <h4>전 건설교통부 장관</h4>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/Lee,-Sanghui.jpg" alt=""></div>
-          <br>
-          <div class=" kr-adviser">
-            <h3>이상희 </h3>
-            <h4>과학기술부 전 장관</h4>
           </div>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
