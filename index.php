@@ -263,9 +263,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="h-line"></div>
         <h1>W <span style="color:#87b44c;">Green Pay</span></h1>
         <br>
-        <h4>W Green Pay ("WGP") is a Stellar-compliant token that operates on the Stellar blockchain. The aim of W Green Pay is to increase the public’s participation in GHG (Greenhouse Gas) reduction. W Green Pay will provide the means of incentivizing the public for their GHG reduction efforts.</h4>
-        <br>
-        <h4>The HOOXI App will serve as the platform for users to be rewarded by completing GHG reduction tasks.</h4>
+        <h4>W Green Pay ("WGP") is an ERC20-compliant token that operates on the Ethereum blockchain. The aim of W Green Pay is to increase the public’s participation in GHG (Greenhouse Gas) reduction. W Green Pay will provide the means of incentivizing the public for their GHG reduction efforts.</h4>
         <br>
         <br>
         <h2 style="text-transform:none; color:#87b44c;">Mission</h2>
@@ -679,7 +677,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table">Platform</td>
-              <td>Stellar</td>
+              <td>ERC20</td>
             </tr>
             <tr valign="top">
               <td class="left-table">Token Supply</td>
@@ -687,7 +685,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table">Currency Accepted</td>
-              <td>XLM / ETH / BTC / USD</td>
+              <td>ETH / BTC / XLM / USD</td>
             </tr>
             <tr valign="top">
               <td class="left-table">Token Price</td>

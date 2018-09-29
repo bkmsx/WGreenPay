@@ -263,9 +263,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="h-line"></div>
         <h1>W <span style="color:#87b44c;">Green Pay</span></h1>
         <br>
-        <h4>W Green Pay（“WGP”）是符合Stellar标准，可以在Stellar区块链上使用的一种代币。 W Green Pay致力于提升公众对GHG（温室气体）减排的参与度。 W Green Pay将通过多种方式激励公众减少温室气体排放。</h4>
-        <br>
-        <h4>用户完成温室气体减排任务后，可通过HOOXI应用程序获得奖励。</h4>
+        <h4>W Green Pay ("WGP") 是在以太坊区块链操作的ERC20代币。W Green Pay 主要是鼓励大家参加减少温室气体之类的活动。 参与者将获得W Green Pay所提供的津贴。</h4>
         <br>
         <br>
         <h2 style="text-transform:none; color:#87b44c;">任务</h2>
@@ -679,7 +677,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table">运行平台</td>
-              <td>Stellar</td>
+              <td>ERC20</td>
             </tr>
             <tr valign="top">
               <td class="left-table">代币供应量</td>
@@ -687,7 +685,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </tr>
             <tr valign="top">
               <td class="left-table">交易货币</td>
-              <td>恒星币 / 以太币 / 比特币 / 美元</td>
+              <td>ETH / BTC / XLM / USD</td>
             </tr>
             <tr valign="top">
               <td class="left-table">代币价格</td>

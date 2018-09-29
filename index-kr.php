@@ -260,7 +260,7 @@ Private Sale
 <div class="h-line"></div>
 <h1><span style="color:#87b44c;">W Green Pay </span></h1>
 <br>
-<h4>W Green Pay ("WGP")는 스텔라 블록체인 기반 토큰으로 스텔라 블록체인에서 구동된다. W Green Pay는 대국민 온실가스 감축노력을 증진시키고자, 온실가스 배출 감축 노력에 참여하는 대중에게 제공하는 리워드 시스템으로 활용된다. </h4>
+<h4>W Green Pay ("WGP")는 ERC20를 준수하는 토큰으로 이더리움 블록체인에서 구동된다. W Green Pay는 대국민 온실가스 감축노력을 증진시키고자, 온실가스 배출 감축 노력에 참여하는 대중에게 제공하는 리워드 시스템으로 활용된다.</h4>
 <br>
 <h4>HOOXI 앱은 개개인의 온실가스 배출 감축 노력을 미션으로 제공하고 미션 성공시 유저에게 리워드를 지급하는 플랫폼입니다.</h4>
 <br>
@@ -673,7 +673,7 @@ Private Sale
 </tr>
 <tr valign="top">
 <td class="left-table">플랫폼</td>
-<td>스텔라 (Stellar)</td>
+<td>ERC20</td>
 </tr>
 <tr valign="top">
 <td class="left-table">토큰 유효 소수점 자리수</td>
@@ -685,7 +685,7 @@ Private Sale
 </tr>
 <tr valign="top">
 <td class="left-table">허용되는 화폐</td>
-<td>XLM / ETH / BTC / USD</td>
+<td>ETH / BTC / XLM / USD</td>
 </tr>
 <tr valign="top">
 <td class="left-table">토큰 가격</td>
