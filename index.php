@@ -181,9 +181,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!------------ Home banner start ------------>
 <div id="home">
   <div class="home-container">
-    <h1>JOIN <span style="color:#87b44c;">W GREEN PAY</span> HOOXI CAMPAIGN</h1>
+    <h1>JOIN <span style="color:#87b44c;">W GREEN PAY</span> HOOXI CAMPAIGN!</h1>
     <h4>The most innovative social carbon credit platform to be launched.</h4>
-    <br><br>
+    <h4>Participate in the public sale now.</h4>
+    <br>
     <table>
       <tr valign="top"> 
         <td style="text-align:right;"><h4>PRIVATE SALE</h4></td>
@@ -198,8 +199,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <td style="text-align:left;"><h4 style="color:#87b44c;">1st ~ 14th October 2018</h4></td>
       </tr>  
     </table>
+    <br><br>
+    <h4>PUBLIC SALE WILL END IN:</h4>
     <br>
-    <!--
     <div id="token_sale"></div>
     <br>
     <ul class="countdown">
@@ -223,16 +225,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:30%">
       Private Sale
       </div>
+      <div class="progress-bar2">Public Sale</div>
     </div>
     <div class="sale-container">
-      <div class="privatesale">Soft Cap</div>
-      <div class="publicsale">60.000.000 WPAY</div>
+      <div class="privatesale">0</div>
+      <div class="publicsale">200,000,000 WGP</div>
     </div>-->
     <br>
     <br>
     <br>
     <ul class="home-btn">
-      <li><a href="#participateform" class="open-popup-link btn">Participate</a></li>
+      <li><a href="https://wpay.sg/kyc/" class="btn" target="_blank">Participate</a></li>
       <li><a href="WGreenPay-whitepaper-v2.0.pdf" target="_blank" class="btn">Whitepaper</a></li>
     </ul>
   </div>
@@ -1867,7 +1870,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		//var NY = Math.round((new Date('1/01/2015 00:00:01')).getTime()/1000);
 		$('#token_sale').flipcountdown({
 			size:'md',
-			beforeDateTime:'7/27/2018 00:00:01'
+			beforeDateTime:'10/14/2018 11:59:00'
 			/*tick:function(){
 				var nol = function(h){
 					return h>9?h:'0'+h;
