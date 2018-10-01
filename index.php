@@ -200,7 +200,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </tr>  
     </table>
     <br><br>
-    <h4>PUBLIC SALE WILL END IN:</h4>
+    <h4>Sale will resume 5th Oct, 12:00 GMT+8</h4>
     <br>
     <div id="token_sale"></div>
     <br>
@@ -235,7 +235,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <br>
     <br>
     <ul class="home-btn">
-      <li><a href="https://wpay.sg/kyc/" class="btn" target="_blank">Participate</a></li>
+      <li><a href="#participateform" class="open-popup-link btn" target="_blank">Participate</a></li>
       <li><a href="WGreenPay-whitepaper-v2.0.pdf" target="_blank" class="btn">Whitepaper</a></li>
     </ul>
   </div>
@@ -1870,7 +1870,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		//var NY = Math.round((new Date('1/01/2015 00:00:01')).getTime()/1000);
 		$('#token_sale').flipcountdown({
 			size:'md',
-			beforeDateTime:'10/14/2018 11:59:00'
+			beforeDateTime:'10/1/2018 00:00:00'
 			/*tick:function(){
 				var nol = function(h){
 					return h>9?h:'0'+h;

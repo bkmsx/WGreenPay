@@ -199,6 +199,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </tr>  
     </table>
     <br><br>
+    <h4>Sale will resume 5th Oct, 12:00 GMT+8</h4>
+    <br>
     <div id="token_sale"></div>
     <br>
     <ul class="countdown">
@@ -231,7 +233,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <br>
     <br>
     <ul class="home-btn">
-      <li><a href="https://wpay.sg/kyc/" class="btn" target="_blank">参与</a></li>
+      <li><a href="#participateform" class="open-popup-link btn" target="_blank">参与</a></li>
       <li><a href="WPay-whitepaper-CN.pdf" target="_blank" class="btn">白皮书</a></li>
     </ul>
   </div>
@@ -1748,7 +1750,7 @@ Dongyul Seok先生是韩国知名记者、国际新闻工作者联合会（ Inte
 		//var NY = Math.round((new Date('1/01/2015 00:00:01')).getTime()/1000);
 		$('#token_sale').flipcountdown({
 			size:'md',
-			beforeDateTime:'10/14/2018 11:59:00'
+			beforeDateTime:'10/01/2018 00:00:00'
 			/*tick:function(){
 				var nol = function(h){
 					return h>9?h:'0'+h;
