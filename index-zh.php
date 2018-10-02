@@ -191,16 +191,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </tr>
       <tr> 
         <td></td>
-        <td style="text-align:left;"><h4 style="color:#87b44c;">第二阶段正在进行中</span></h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">第二阶段已售完。</span></h4></td>
       </tr> 
       <tr> 
         <td style="text-align:right;"><h4>公开发售</h4></td>
-        <td style="text-align:left;"><h4 style="color:#87b44c;">2018年十月一日至十四日</span></h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">阶段已售完。</span></h4></td>
       </tr>  
     </table>
     <br><br>
-    <h4>Sale will resume 5th Oct, 12:00 GMT+8</h4>
-    <br>
+
     <div id="token_sale"></div>
     <br>
     <ul class="countdown">
