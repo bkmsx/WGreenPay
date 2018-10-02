@@ -185,19 +185,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <table>
       <tr> 
         <td style="text-align:right;"><h4>비공개판매</h4></td>
-        <td style="text-align:left;"><h4 style="color:#87b44c;">1차분 마감!</span></h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">1차분 판매 마감!</span></h4></td>
       </tr>
       <tr> 
         <td></td>
-        <td style="text-align:left;"><h4 style="color:#87b44c;">2차분 진행중</span></h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">2차분 판매 마감!</span></h4></td>
       </tr> 
       <tr> 
         <td style="text-align:right;"><h4>공개판매</h4></td>
-        <td style="text-align:left;"><h4 style="color:#87b44c;">2018년 10월 1일~14일</span></h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">판매 마감!</span></h4></td>
       </tr>  
     </table>
     <br><br>
-    <h4>Sale will resume 5th Oct, 12:00 GMT+8</h4>
+
     <br>
 <div id="token_sale"></div>
 <br>
