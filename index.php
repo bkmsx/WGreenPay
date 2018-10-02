@@ -233,7 +233,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <br>
     <br>
     <ul class="home-btn">
-      <li><a href="#participateform" class="open-popup-link btn" target="_blank">Participate</a></li>
+      <li><a href="#participateform" class="open-popup-link btn" target="_blank">Subscribe</a></li>
       <li><a href="WGreenPay-whitepaper-v2.0.pdf" target="_blank" class="btn">Whitepaper</a></li>
     </ul>
   </div>
