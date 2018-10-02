@@ -231,7 +231,7 @@ Private Sale
 <br>
 <br>
 <ul class="home-btn">
-<li><a href="#participateform" class="open-popup-link btn" target="_blank">참여하기</a></li>
+<li><a href="#participateform" class="open-popup-link btn" target="_blank">구독하다</a></li>
 <li><a href="WPay-whitepaper-KR-v2.0.pdf" target="_blank" class="btn">백서</a></li>
 </ul>
 </div>
