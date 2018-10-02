@@ -1117,10 +1117,11 @@ Private Sale
 <div class="timeline-content">
 <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
 <div class="timeline-detail">
-<h3 class="timeline-title">2018년 11월 2일~4일</h3>
+<h3 class="timeline-title">2018년 12월 </h3>
 <br>
+<h4>HOOXI 캠페인 자연보전 프로젝트 (북극생태계 보전 바다 쓰레기 청소)</h4>
 <ul class="roadmap">
-<li><h4>HOOXI 앱, HOOXI 캠페인 페스티벌</h4></li>
+<li><p>북극곰 등 북극 생태계 보존을 위한 바다 쓰레기 (플라스틱 등) 청소</p></li>
 </ul>
 </div>
 <div style="clear:both;"></div>
@@ -1310,6 +1311,16 @@ Private Sale
 <h4>Blockchain Industry Expert, Adviser (Co-Founder of Dfund, Founder of Dcapital)</h4>
 </div>
 </div>
+</div>
+<div class="row">
+  <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#saber" class="open-popup-link"><div class="team-img"><img src="img/team-saber.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Saber Aria</h3>
+          <h4>Partnership Adviser <br>(Founder of Beyond Blocks)</h4>
+        </div>
+  </div>
 </div>
 <div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
 <section id="advisers" style="padding-bottom:60px;">
@@ -1615,7 +1626,7 @@ Private Sale
 <!---------- Participate form ------------>
 
 <div id="participateform" class="white-popup mfp-hide sans">
-<h4><b>W Green Pay </b>에 참여하세요</h4>
+<h4><b>W Green Pay </b>에 구독하다</h4>
 <br><br>
 <div class="participate-messages"></div>
 <form id='participate' class="ajax-participate" action='https://global.us18.list-manage.com/subscribe/post?u=e1cce14547abb01d594305d38&amp;id=db0d55a049' method='post' accept-charset='UTF-8' name="mc-embedded-subscribe-form">
@@ -1814,6 +1825,13 @@ Private Sale
   <h4>W재단 Director (HOOXI Global 이사, AZworth Trust 대표)</h4>
   <br><br><br>
   <p>사모 펀드 및 과학/기술 전문 전략컨설팅에서 10 년의 경력을 쌓았다. 런던 Imperial College에서 이론 물리학 석사 학위, UCL에서 자연과학 철학 및 역사학 석사 학위를 취득. 현재 Truben Investment의 모회사이자 HOOXI Global의 주주인 AZworth Trust의 CEO로서 다양한 포트폴리오와 비즈니스를 관리하고 있다.</p>
+</div>
+
+<div id="saber" class="white-popup mfp-hide sans">
+  <h3>SABER ARIA</h3>
+  <h4>Partnership Adviser (Founder of Beyond Blocks)</h4>
+  <br><br><br>
+  <p>Sabre Aria는 마케팅 전략 및 비즈니스 구축 분야에서 10 년 이상의 경력을 쌓은 전략가입니다. 그는 블록체인 기술에 대한 열정과 2012년에 비트코인에 투자한 이래 탈중앙화에 대한 열정을 키워왔다. 그는 500 대 기업을 포함하여 다양한 고객 포트폴리오를 보유한 저명한 디지털 마케팅 대행사 및 광고 소프트웨어 회사의 창립자이다. 그는 ARIA256 블록 체인 가속기의 창립자이자 블록 체인 애호가, 투자자 및 개발자를 위한 글로벌 컨퍼런스 인 Beyond Blocks의 공동 설립자입니다. 세이버는 액셀러레이터 프로그램을 통해 겸 투자자로서 신흥 창업 기업을 찾아 내고 지원하는 데 열정을 갖고 있다.</p>
 </div>
 
 <!---------- Team popup content end------------

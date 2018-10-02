@@ -199,7 +199,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </tr>  
     </table>
     <br><br>
-
     <div id="token_sale"></div>
     <br>
     <ul class="countdown">
@@ -1213,7 +1212,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
 	</div>
     <div class="row">
-	  <div class="col-md-3 col-sm-6 v-pad">
+	    <div class="col-md-3 col-sm-6 v-pad">
         <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1221,7 +1220,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>加密顾问</h4>
         </div>
       </div>
-	  <div class="col-md-3 col-sm-6 v-pad">
+	    <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sangjin" class="open-popup-link"><div class="team-img"><img src="img/team-sang-jin-hong.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1229,7 +1228,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>区块链投资顾问(Chain Cabinet联合创始人兼首席执行官)</h4>
         </div>
       </div>
-	  <div class="col-md-3 col-sm-6 v-pad">
+	    <div class="col-md-3 col-sm-6 v-pad">
         <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1237,12 +1236,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>商业顾问(WWRC Holding Pte.Ltd，即“WWRC集团”集 团战略与公司事务经理)</h4>
         </div>
       </div>
-	  <div class="col-md-3 col-sm-6 v-pad">
+	    <div class="col-md-3 col-sm-6 v-pad">
         <div class="team-img"><img src="img/team-profile.png" alt=""></div>
         <br>
         <div class="team-title">
           <h3>Satoshi D.</h3>
           <h4>区块链专家，顾问(Dfital联合创始人，Dcapital创始人)</h4>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#saber" class="open-popup-link"><div class="team-img"><img src="img/team-saber.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Saber Aria</h3>
+          <h4>Partnership Adviser <br>(Founder of Beyond Blocks)</h4>
         </div>
       </div>
     </div>
@@ -1541,7 +1550,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!---------- Participate form ------------> 
 
 <div id="participateform" class="white-popup mfp-hide sans">
-  <h4>加入<b>W GREEN PAY</b></h4>
+  <h4>订阅<b>W GREEN PAY</b></h4>
   <br><br>
   <div class="participate-messages"></div>
   <form id='participate' class="ajax-participate" action='https://global.us18.list-manage.com/subscribe/post?u=e1cce14547abb01d594305d38&amp;id=db0d55a049' method='post' accept-charset='UTF-8' name="mc-embedded-subscribe-form">
@@ -1737,6 +1746,13 @@ Dongyul Seok先生是韩国知名记者、国际新闻工作者联合会（ Inte
   <h4>W-Foundation理事（HOOXI Global 董事兼 AZworth Trust首席执行官）</h4>
   <br><br><br>
   <p>在私募基金和科学、技术战略咨询方面拥有超过10年的经验。曾在伦敦帝国理工学院获得理论物理硕士学位，在伦敦大学学院获得自然科学哲学和历史硕士学位。 AZworth Trust既是Truben Investment的母公司，也是HOOXIGlobal的股东。目前，他在AZworth Trust担任首席执行官，负责管理各种投资组合和业务。</p>
+</div>
+
+<div id="saber" class="white-popup mfp-hide sans">
+  <h3>SABER ARIA</h3>
+  <h4>Partnership Adviser (Founder of Beyond Blocks)</h4>
+  <br><br><br>
+  <p>Saber Aria is a strategist with over 10 years of experience in marketing strategies and building businesses. He is an early blockchain enthusiast, with a passion for blockchain technology and decentralization after investing in bitcoin in 2012. He is the founder of a prominent digital marketing agency and an advertising software company, each with a diverse portfolio of clients including several fortune 500 companies. He is the founder of ARIA256 blockchain accelerator and the co-founder of Beyond Blocks, a global conference for blockchain enthusiasts, investors and developers. Saber has a passion for seeking out and assisting emerging start-ups both as an advisor and investor through his accelerator program. He focuses his council not only on brilliant business ideas, but just as importantly, the teams behind each project.</p>
 </div>
  
 

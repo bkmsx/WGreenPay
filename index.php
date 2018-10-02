@@ -199,7 +199,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </tr>  
     </table>
     <br><br>
-
     <div id="token_sale"></div>
     <br>
     <ul class="countdown">
@@ -1137,10 +1136,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">Nov 2-4, 2018</h3>
+                <h3 class="timeline-title">Dec 2018</h3>
                 <br>
+                <h4>HOOXI Campaign Nature Conservation Project (North Pole Waste Cleanup)</h4>
                 <ul class="roadmap">
-                  <li><h4>HOOXI App Launching Festival</h4></li>
+                  <li><p>North Pole cleanup of man-made waste (plastic, metal, etc.) to protect the habitat of polar bears</p></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -1304,7 +1304,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h3>Irwin Chee</h3>
           <h4>Crypto Adviser</h4>
         </div>
-      </div>
+    </div>
 	  <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sangjin" class="open-popup-link"><div class="team-img"><img src="img/team-sang-jin-hong.jpg" alt=""></div></a>
         <br>
@@ -1312,7 +1312,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h3>Sangjin Hong</h3>
           <h4>Blockchain Investments Adviser<br>(Co-Founder, CEO of Chain Cabinet)</h4>
         </div>
-      </div>
+    </div>
 	  <div class="col-md-3 col-sm-6 v-pad">
         <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
         <br>
@@ -1320,7 +1320,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h3>Chen Shun Teng</h3>
           <h4>Business Adviser<br>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</h4>
         </div>
-      </div>
+    </div>
 	  <div class="col-md-3 col-sm-6 v-pad">
         <div class="team-img"><img src="img/team-profile.png" alt=""></div>
         <br>
@@ -1328,8 +1328,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h3>Satoshi D.</h3>
           <h4>Blockchain Industry Expert, Adviser<br>(Co-Founder of Dfund, Founder of Dcapital)</h4>
         </div>
-      </div>
-	</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#saber" class="open-popup-link"><div class="team-img"><img src="img/team-saber.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Saber Aria</h3>
+          <h4>Partnership Adviser <br>(Founder of Beyond Blocks)</h4>
+        </div>
+    </div>
+  </div>
     <div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
     <section id="advisers" style="padding-bottom:60px;">
       <h1>ADVISERS (W-Foundation, HOOXI Campaign)</h1>
@@ -1651,7 +1661,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!---------- Participate form ------------> 
 
 <div id="participateform" class="white-popup mfp-hide sans">
-  <h4>PARTICIPATE IN <b>W GREEN PAY</b></h4>
+  <h4>SUBSCRIBE TO <b>W GREEN PAY</b></h4>
   <br><br>
   <div class="participate-messages"></div>
   <form id='participate' class="ajax-participate" action='https://global.us18.list-manage.com/subscribe/post?u=e1cce14547abb01d594305d38&amp;id=db0d55a049' method='post' accept-charset='UTF-8' name="mc-embedded-subscribe-form">
@@ -1856,6 +1866,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <h4>Director, W-Foundation (Director of HOOXI Global and CEO of AZworth Trust)</h4>
   <br><br><br>
   <p>With 10 years experiences in private equity fund and strategic consulting specializing as a science/technology expert as well as being a famed motivational speaker. Alex holds master's degrees in theoretical physics from Imperial College London and in history and philosophy of natural sciences from UCL. Currently serves as CEO of AZworth Trust, the parent company for Truben Investment and shareholder of HOOXI Global, managing various portfolio and business.</p>
+</div>
+
+<div id="saber" class="white-popup mfp-hide sans">
+  <h3>SABER ARIA</h3>
+  <h4>Partnership Adviser (Founder of Beyond Blocks)</h4>
+  <br><br><br>
+  <p>Saber Aria is a strategist with over 10 years of experience in marketing strategies and building businesses. He is an early blockchain enthusiast, with a passion for blockchain technology and decentralization after investing in bitcoin in 2012. He is the founder of a prominent digital marketing agency and an advertising software company, each with a diverse portfolio of clients including several fortune 500 companies. He is the founder of ARIA256 blockchain accelerator and the co-founder of Beyond Blocks, a global conference for blockchain enthusiasts, investors and developers. Saber has a passion for seeking out and assisting emerging start-ups both as an advisor and investor through his accelerator program. He focuses his council not only on brilliant business ideas, but just as importantly, the teams behind each project.</p>
 </div>
  
 
