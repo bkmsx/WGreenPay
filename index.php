@@ -183,25 +183,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="home-container">
     <h1>JOIN <span style="color:#87b44c;">W GREEN PAY</span> HOOXI CAMPAIGN!</h1>
     <h4>The most innovative social carbon credit platform to be launched.</h4>
-    <h4>Participate in the public sale now.</h4>
     <br>
     <table>
       <tr valign="top"> 
         <td style="text-align:right;"><h4>PRIVATE SALE</h4></td>
-        <td style="text-align:left;"><h4 style="color:#87b44c;">1st Tier SOLD OUT</span></h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">1st Tier SOLD OUT!</span></h4></td>
       </tr>
       <tr valign="top"> 
         <td></td>
-        <td style="text-align:left;"><h4 style="color:#87b44c;">2nd Tier ON-GOING</span></h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">2nd Tier SOLD OUT!</span></h4></td>
       </tr> 
       <tr valign="top"> 
         <td style="text-align:right;"><h4>PUBLIC SALE</h4></td>
-        <td style="text-align:left;"><h4 style="color:#87b44c;">1st ~ 14th October 2018</h4></td>
+        <td style="text-align:left;"><h4 style="color:#87b44c;">SOLD OUT!</h4></td>
       </tr>  
     </table>
     <br><br>
-    <h4>Sale will resume 5th Oct, 12:00 GMT+8</h4>
-    <br>
+
     <div id="token_sale"></div>
     <br>
     <ul class="countdown">
