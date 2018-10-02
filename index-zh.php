@@ -232,7 +232,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <br>
     <br>
     <ul class="home-btn">
-      <li><a href="#participateform" class="open-popup-link btn" target="_blank">参与</a></li>
+      <li><a href="#participateform" class="open-popup-link btn" target="_blank">订阅</a></li>
       <li><a href="WPay-whitepaper-CN.pdf" target="_blank" class="btn">白皮书</a></li>
     </ul>
   </div>
