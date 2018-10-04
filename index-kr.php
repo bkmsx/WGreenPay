@@ -1219,6 +1219,48 @@ Private Sale
 </div>
 </div>
 <div class="col-md-3 col-sm-6 v-pad">
+<a href="#seonik" class="open-popup-link"><div class="team-img"><img src="img/team-seonik-jeon.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>전성익 (SEONIK JEON)</h3>
+<h4>Community Building and Marketing Adviser (CEO of Factblock & Blockpost, CSO of Financial News)</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#stas" class="open-popup-link"><div class="team-img"><img src="img/team-stas.jpeg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Stas Okin</h3>
+<h4>Technology, R&D Adviser (Co-Founder of Wings)</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 v-pad">
+        <a href="#saber" class="open-popup-link"><div class="team-img"><img src="img/team-saber.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Saber Aria</h3>
+          <h4>Partnership Adviser <br>(Founder of Beyond Blocks)</h4>
+        </div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#guy" class="open-popup-link"><div class="team-img"><img src="img/team-melamed.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Guy Melamed</h3>
+<h4>Strategic Business Adviser (Co-Founder, CEO of Zeex)</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#sebastian" class="open-popup-link"><div class="team-img"><img src="img/team-sebastian.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Sebastian Stupurac</h3>
+<h4>Blockchain Product Adviser (Co-Founder of Wings)</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 v-pad">
 <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -1234,58 +1276,8 @@ Private Sale
 <h4>Technology and Investments Adviser</h4>
 </div>
 </div>
-<div class="col-md-3 col-sm-6 v-pad">
-<a href="#stas" class="open-popup-link"><div class="team-img"><img src="img/team-stas.jpeg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>Stas Okin</h3>
-<h4>Technology, R&D Adviser (Co-Founder of Wings)</h4>
-</div>
-</div>
 </div>
 <div class="row">
-<div class="col-md-3 col-sm-6 v-pad">
-<a href="#sebastian" class="open-popup-link"><div class="team-img"><img src="img/team-sebastian.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>Sebastian Stupurac</h3>
-<h4>Blockchain Product Adviser (Co-Founder of Wings)</h4>
-</div>
-</div>
-<div class="col-md-3 col-sm-6 v-pad">
-<a href="#seonik" class="open-popup-link"><div class="team-img"><img src="img/team-seonik-jeon.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>전성익 (SEONIK JEON)</h3>
-<h4>Community Building and Marketing Adviser (CEO of Factblock & Blockpost, CSO of Financial News)</h4>
-</div>
-</div>
-<div class="col-md-3 col-sm-6 v-pad">
-<a href="#sonic" class="open-popup-link"><div class="team-img"><img src="img/team-sonic-zhang.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>SONIC ZHANG</h3>
-<h4>Crypto Investment, Tokenomics Specialist / Technology Adviser (Founder & Managing Director of LedgerZ Capital)</h4>
-</div>
-</div>
-<div class="col-md-3 col-sm-6 v-pad">
-<a href="#guy" class="open-popup-link"><div class="team-img"><img src="img/team-melamed.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>Guy Melamed</h3>
-<h4>Strategic Business Adviser (Co-Founder, CEO of Zeex)</h4>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-md-3 col-sm-6 v-pad">
-<a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>Irwin Chee</h3>
-<h4>Crypto Adviser</h4>
-</div>
-</div>
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#sangjin" class="open-popup-link"><div class="team-img"><img src="img/team-sang-jin-hong.jpg" alt=""></div></a>
 <br>
@@ -1304,6 +1296,24 @@ Private Sale
 </div>
 </div>
 <div class="col-md-3 col-sm-6 v-pad">
+<a href="#sonic" class="open-popup-link"><div class="team-img"><img src="img/team-sonic-zhang.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>SONIC ZHANG</h3>
+<h4>Crypto Investment, Tokenomics Specialist / Technology Adviser (Founder & Managing Director of LedgerZ Capital)</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 v-pad">
+<a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
+<br>
+<div class="team-title">
+<h3>Irwin Chee</h3>
+<h4>Crypto Adviser</h4>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-3 col-sm-6 v-pad">
 <div class="team-img"><img src="img/team-profile.png" alt=""></div>
 <br>
 <div class="team-title">
@@ -1311,16 +1321,6 @@ Private Sale
 <h4>Blockchain Industry Expert, Adviser (Co-Founder of Dfund, Founder of Dcapital)</h4>
 </div>
 </div>
-</div>
-<div class="row">
-  <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#saber" class="open-popup-link"><div class="team-img"><img src="img/team-saber.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Saber Aria</h3>
-          <h4>Partnership Adviser <br>(Founder of Beyond Blocks)</h4>
-        </div>
-  </div>
 </div>
 <div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
 <section id="advisers" style="padding-bottom:60px;">

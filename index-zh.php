@@ -1144,7 +1144,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </div>
     <div class="row">
-	  <div class="col-md-3 col-sm-6 v-pad">
+	    <div class="col-md-3 col-sm-6 v-pad">
         <a href="#kjlee" class="open-popup-link"><div class="team-img"><img src="img/team-kjlee.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1153,40 +1153,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Chris Low</h3>
-          <h4>首席技术官</h4>
-        </div>
-      </div>
-	  <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#jeremy" class="open-popup-link"><div class="team-img"><img src="img/team-jeremy.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Jeremy Khoo</h3>
-          <h4>区块链技术和投资顾问与专家</h4>
-        </div>
-      </div>
-	  <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#stas" class="open-popup-link"><div class="team-img"><img src="img/team-stas.jpeg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Stas Oskin</h3>
-          <h4>技术，研究与开发顾问 (Wings的联合创始人)</h4>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-	  <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#sebastian" class="open-popup-link"><div class="team-img"><img src="img/team-sebastian.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>SEBASTIAN STUPURAC</h3>
-          <h4>区块链产品顾问(Wings的联合创始人)</h4>
-        </div>
-      </div>
-	  <div class="col-md-3 col-sm-6 v-pad">
         <a href="#seonik" class="open-popup-link"><div class="team-img"><img src="img/team-seonik-jeon.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1194,15 +1160,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>社区建设与营销顾问 (Factblock&Blockpost首席执行官，财经新闻首席战略官)</h4>
         </div>
       </div>
-	  <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#sonic" class="open-popup-link"><div class="team-img"><img src="img/team-sonic-zhang.jpg" alt=""></div></a>
+      <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#stas" class="open-popup-link"><div class="team-img"><img src="img/team-stas.jpeg" alt=""></div></a>
         <br>
         <div class="team-title">
-          <h3>SONIC ZHANG</h3>
-          <h4>加密投资，代币经济专家/技术顾问 (LedgerZ Capital创始人兼董事总经理)</h4>
+          <h3>Stas Oskin</h3>
+          <h4>技术，研究与开发顾问 (Wings的联合创始人)</h4>
         </div>
       </div>
-	  <div class="col-md-3 col-sm-6 v-pad">
+      <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#saber" class="open-popup-link"><div class="team-img"><img src="img/team-saber.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Saber Aria</h3>
+          <h4>Partnership Adviser <br>(Founder of Beyond Blocks)</h4>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#guy" class="open-popup-link"><div class="team-img"><img src="img/team-melamed.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1210,16 +1186,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>战略业务顾问(Zeex联合创始人兼首席执行官)</h4>
         </div>
       </div>
-	</div>
-    <div class="row">
 	    <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
+        <a href="#sebastian" class="open-popup-link"><div class="team-img"><img src="img/team-sebastian.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
-          <h3>Irwin Chee</h3>
-          <h4>加密顾问</h4>
+          <h3>SEBASTIAN STUPURAC</h3>
+          <h4>区块链产品顾问(Wings的联合创始人)</h4>
         </div>
       </div>
+	    <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Chris Low</h3>
+          <h4>首席技术官</h4>
+        </div>
+      </div>
+	    <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#jeremy" class="open-popup-link"><div class="team-img"><img src="img/team-jeremy.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Jeremy Khoo</h3>
+          <h4>区块链技术和投资顾问与专家</h4>
+        </div>
+      </div>
+	  </div>
+    <div class="row">
 	    <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sangjin" class="open-popup-link"><div class="team-img"><img src="img/team-sang-jin-hong.jpg" alt=""></div></a>
         <br>
@@ -1236,22 +1228,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>商业顾问(WWRC Holding Pte.Ltd，即“WWRC集团”集 团战略与公司事务经理)</h4>
         </div>
       </div>
-	    <div class="col-md-3 col-sm-6 v-pad">
-        <div class="team-img"><img src="img/team-profile.png" alt=""></div>
+      <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
-          <h3>Satoshi D.</h3>
-          <h4>区块链专家，顾问(Dfital联合创始人，Dcapital创始人)</h4>
+          <h3>Irwin Chee</h3>
+          <h4>加密顾问</h4>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#sonic" class="open-popup-link"><div class="team-img"><img src="img/team-sonic-zhang.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>SONIC ZHANG</h3>
+          <h4>加密投资，代币经济专家/技术顾问 (LedgerZ Capital创始人兼董事总经理)</h4>
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#saber" class="open-popup-link"><div class="team-img"><img src="img/team-saber.jpg" alt=""></div></a>
+        <div class="team-img"><img src="img/team-profile.png" alt=""></div>
         <br>
         <div class="team-title">
-          <h3>Saber Aria</h3>
-          <h4>Partnership Adviser <br>(Founder of Beyond Blocks)</h4>
+          <h3>Satoshi D.</h3>
+          <h4>区块链专家，顾问(Dfital联合创始人，Dcapital创始人)</h4>
         </div>
       </div>
     </div>
