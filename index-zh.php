@@ -1052,10 +1052,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">2018年11月2日至4日</h3>
+                <h3 class="timeline-title">2018年12月</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>HOOXI应用软件发布会</h4></li>
+                  <li><h4>北极清理人造废物 (塑料, 金属等) 以保护 北极熊的栖息地</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -1173,7 +1173,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <br>
         <div class="team-title">
           <h3>Saber Aria</h3>
-          <h4>Partnership Adviser <br>(Founder of Beyond Blocks)</h4>
+          <h4>合伙顾问（Beyond Blocks的创始人</h4>
         </div>
       </div>
     </div>
@@ -1750,9 +1750,9 @@ Dongyul Seok先生是韩国知名记者、国际新闻工作者联合会（ Inte
 
 <div id="saber" class="white-popup mfp-hide sans">
   <h3>SABER ARIA</h3>
-  <h4>Partnership Adviser (Founder of Beyond Blocks)</h4>
+  <h4>合伙顾问（Beyond Blocks的创始人</h4>
   <br><br><br>
-  <p>Saber Aria is a strategist with over 10 years of experience in marketing strategies and building businesses. He is an early blockchain enthusiast, with a passion for blockchain technology and decentralization after investing in bitcoin in 2012. He is the founder of a prominent digital marketing agency and an advertising software company, each with a diverse portfolio of clients including several fortune 500 companies. He is the founder of ARIA256 blockchain accelerator and the co-founder of Beyond Blocks, a global conference for blockchain enthusiasts, investors and developers. Saber has a passion for seeking out and assisting emerging start-ups both as an advisor and investor through his accelerator program. He focuses his council not only on brilliant business ideas, but just as importantly, the teams behind each project.</p>
+  <p>Sabre Aria是一位战略家，在营销策略和建立业务方面拥有超过10年的经验。 他是早期区块链爱好者也是在2012年投资比特币。他是一家着名的数字营销机构和广告软件公司的创始人，每家公司都拥有多元化的客户组合，其中包括几家财富500强企业。 他是ARIA256区块链加速器的创始人，也是区块链爱好者，投资者和开发商的全球会议Beyond Blocks的联合创始人。 Sabre热衷于通过他的加速器计划寻找和协助新兴初创企业作为顾问和投资者。 他的理事会不仅关注卓越的商业理念，而且同样重要的是每个项目背后的团队。</p>
 </div>
  
 
