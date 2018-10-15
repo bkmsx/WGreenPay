@@ -322,7 +322,7 @@ Private Sale
 <br>
 <h2>W Exchange</h2>
 <br>
-<p>W Exchange는 한국전력의 승인하에 2019년 3월에 출시예정이다. W Exchange는 한국 탄소배출권 거래제 대상 사업체로써, HOOXI 앱 온실가스 감축데이터에 할당된 탄소배출권을 한국거래소에서 거래할 예정입니다. W Exchange는 W Green Pay 를 현금으로 교환할 수 있는 거래소로도 활용될 예정입니다.</p>
+<p>W Exchange는 2019년 3월에 출시예정이다. W Exchange는 한국 탄소배출권 거래제 대상 사업체로써, HOOXI 앱 온실가스 감축데이터에 할당된 탄소배출권을 한국거래소에서 거래할 예정입니다. W Exchange는 W Green Pay 를 현금으로 교환할 수 있는 거래소로도 활용될 예정입니다.</p>
 </div>
 </section>
 <section class="sponsors">
