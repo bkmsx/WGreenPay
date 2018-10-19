@@ -1286,14 +1286,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h4>前建设与运输部部长</h4>
           </div>
         </div>
-        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/Ma-Changhwan--MOCIT.jpg" alt=""></div>
-          <br>
-          <div class="team-title ">
-            <h3>Ma, Changwan</h3>
-            <h4>科学与信息通信技术部规划与协调部（Planning and Coordination）副部长</h4>
-          </div>
-        </div>
       </div>
       <h2>法律专业领域及金融机构</h2>
       <br>

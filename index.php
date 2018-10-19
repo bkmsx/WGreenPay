@@ -1373,14 +1373,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h4>Former Minster, Ministry of Construction and Transportation</h4>
           </div>
         </div>
-        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/Ma-Changhwan--MOCIT.jpg" alt=""></div>
-          <br>
-          <div class="team-title ">
-            <h3>Ma, Changwan</h3>
-            <h4>Vice Minister for Planning and Coordination, Ministry of Science and ICT</h4>
-          </div>
-        </div>
       </div>
       <h2>Legal Profession & Financial Institutions</h2>
       <br>

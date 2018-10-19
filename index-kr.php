@@ -1353,14 +1353,6 @@ Private Sale
             <h4>전 건설교통부 장관</h4>
           </div>
         </div>
-        <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/Ma-Changhwan--MOCIT.jpg" alt=""></div>
-          <br>
-          <div class=" kr-adviser">
-            <h3>마창환 </h3>
-            <h4>과학기술정보통신부 기획조정실장</h4>
-          </div>
-        </div>
       </div>
       <h2>Legal Profession & Financial Institutions</h2>
       <br>
