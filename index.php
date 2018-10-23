@@ -1238,14 +1238,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#seonik" class="open-popup-link"><div class="team-img"><img src="img/team-seonik-jeon.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>SEONIK JEON</h3>
-          <h4>Community Building and Marketing Adviser<br>(CEO of Factblock & Blockpost, CSO of Financial News)</h4>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#stas" class="open-popup-link"><div class="team-img"><img src="img/team-stas.jpeg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1261,10 +1253,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>Partnership Adviser <br>(Founder of Beyond Blocks)</h4>
         </div>
       </div>
-	    
-    </div>
-    <div class="row">
-      <div class="col-md-3 col-sm-6 v-pad">
+	    <div class="col-md-3 col-sm-6 v-pad">
         <a href="#guy" class="open-popup-link"><div class="team-img"><img src="img/team-melamed.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1272,6 +1261,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>Strategic Business Adviser<br>(Co-Founder, CEO of Zeex)</h4>
         </div>
       </div>
+    </div>
+    <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sebastian" class="open-popup-link"><div class="team-img"><img src="img/team-sebastian.jpg" alt=""></div></a>
         <br>
@@ -1296,52 +1287,50 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>Technology and Investments Adviser</h4>
         </div>
       </div>
-
-    </div>
-	<div class="row">
-    <div class="col-md-3 col-sm-6 v-pad">
+      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sangjin" class="open-popup-link"><div class="team-img"><img src="img/team-sang-jin-hong.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
           <h3>Sangjin Hong</h3>
           <h4>Blockchain Investments Adviser<br>(Co-Founder, CEO of Chain Cabinet)</h4>
         </div>
+      </div>
     </div>
-    <div class="col-md-3 col-sm-6 v-pad">
+	  <div class="row">
+    
+      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
           <h3>Chen Shun Teng</h3>
           <h4>Business Adviser<br>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</h4>
         </div>
-    </div>
-    <div class="col-md-3 col-sm-6 v-pad">
+      </div>
+      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
           <h3>Irwin Chee</h3>
           <h4>Crypto Adviser</h4>
         </div>
-    </div>
-    <div class="col-md-3 col-sm-6 v-pad">
+      </div>
+      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sonic" class="open-popup-link"><div class="team-img"><img src="img/team-sonic-zhang.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
           <h3>SONIC ZHANG</h3>
           <h4>Crypto Investment, Tokenomics Specialist / Technology Adviser<br>(Founder & Managing Director of LedgerZ Capital)</h4>
         </div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-3 col-sm-6 v-pad">
+      </div>
+      <div class="col-md-3 col-sm-6 v-pad">
         <div class="team-img"><img src="img/team-profile.png" alt=""></div>
         <br>
         <div class="team-title">
           <h3>Satoshi D.</h3>
           <h4>Blockchain Industry Expert, Adviser<br>(Co-Founder of Dfund, Founder of Dcapital)</h4>
         </div>
+      </div>
     </div>
-  </div>
     <div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
     <section id="advisers" style="padding-bottom:60px;">
       <h1>ADVISERS (W-Foundation, HOOXI Campaign)</h1>

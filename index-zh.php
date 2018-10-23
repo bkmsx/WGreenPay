@@ -319,7 +319,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <br>
     <h2>W Exchange</h2>
     <br>
-    <p>经韩国电力公司（KEPCO）批准，W Exchange将于2019年3月启动。预计W Exchange将成为符合KETS资格的商业实体。预计HOOXI应用分配的韩国碳补偿额度将使用W Exchange以代币KRX进行交易，</p>
+    <p>W Exchange将于2019年3月启动。预计W Exchange将成为符合KETS资格的商业实体。预计HOOXI应用分配的韩国碳补偿额度将使用W Exchange以代币KRX进行交易，</p>
   </div>
 </section>
 <section class="sponsors">
@@ -1153,14 +1153,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#seonik" class="open-popup-link"><div class="team-img"><img src="img/team-seonik-jeon.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>SEONIK JEON</h3>
-          <h4>社区建设与营销顾问 (Factblock&Blockpost首席执行官，财经新闻首席战略官)</h4>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#stas" class="open-popup-link"><div class="team-img"><img src="img/team-stas.jpeg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1176,8 +1168,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>合伙顾问（Beyond Blocks的创始人</h4>
         </div>
       </div>
-    </div>
-    <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#guy" class="open-popup-link"><div class="team-img"><img src="img/team-melamed.jpg" alt=""></div></a>
         <br>
@@ -1186,6 +1176,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>战略业务顾问(Zeex联合创始人兼首席执行官)</h4>
         </div>
       </div>
+    </div>
+    <div class="row">
 	    <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sebastian" class="open-popup-link"><div class="team-img"><img src="img/team-sebastian.jpg" alt=""></div></a>
         <br>
@@ -1210,9 +1202,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>区块链技术和投资顾问与专家</h4>
         </div>
       </div>
-	  </div>
-    <div class="row">
-	    <div class="col-md-3 col-sm-6 v-pad">
+      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sangjin" class="open-popup-link"><div class="team-img"><img src="img/team-sang-jin-hong.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1220,6 +1210,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>区块链投资顾问(Chain Cabinet联合创始人兼首席执行官)</h4>
         </div>
       </div>
+	  </div>
+    <div class="row">
 	    <div class="col-md-3 col-sm-6 v-pad">
         <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
         <br>
@@ -1244,8 +1236,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>加密投资，代币经济专家/技术顾问 (LedgerZ Capital创始人兼董事总经理)</h4>
         </div>
       </div>
-    </div>
-    <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <div class="team-img"><img src="img/team-profile.png" alt=""></div>
         <br>
