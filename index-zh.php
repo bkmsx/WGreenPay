@@ -183,6 +183,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="home-container">
     <h1>加入<span style="color:#87b44c;">W GREEN PAY</span> 的 HOOXI 活动！</h1>
     <h4>最具创新性的社会碳信用平台即将推出</h4>
+    <!--
     <br><br>
     <table>
       <tr> 
@@ -215,7 +216,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         秒
       </li>
     </ul>
-    <!--
+    
     <br>
     <br>
     <div class="progress">
@@ -1280,14 +1281,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <h2>法律专业领域及金融机构</h2>
       <br>
       <div class="row" style="margin-bottom:60px;">
-		<div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/hong-kyeong-keun.jpg" alt=""></div>
-          <br>
-          <div class="team-title ">
-            <h3>Hong, Kyung Keun</h3>
-            <h4>W-Foundation社长 (TRUBEN投资集团董事长)</h4>
-          </div>
-        </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Ko,-Eunseok--Prosecutor.jpg" alt=""></div>
           <br>

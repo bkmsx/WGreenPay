@@ -183,6 +183,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="home-container">
     <h1>JOIN <span style="color:#87b44c;">W GREEN PAY</span> HOOXI CAMPAIGN!</h1>
     <h4>The most innovative social carbon credit platform to be launched.</h4>
+    <!--
     <br>
     <table>
       <tr valign="top"> 
@@ -215,7 +216,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         SEC
       </li>
     </ul>
-    <!--
+    
     <br>
     <br>
     <div class="progress">
@@ -1365,14 +1366,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <h2>Legal Profession & Financial Institutions</h2>
       <br>
-	  <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/hong-kyeong-keun.jpg" alt=""></div>
-          <br>
-          <div class="team-title ">
-            <h3>Hong, Kyung Keun</h3>
-            <h4>President, W-Foundation (Chairman, TRUBEN Investment Group)</h4>
-          </div>
-        </div>
       <div class="row" style="margin-bottom:60px;">
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Ko,-Eunseok--Prosecutor.jpg" alt=""></div>

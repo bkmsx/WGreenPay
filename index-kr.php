@@ -181,6 +181,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <h1><span style="color:#87b44c;">W Green Pay</span><br><br>HOOXI 캠페인에 참여하세요!</h1>
 <br>  
 <h4>가장 혁신적인 온실가스 감축 플랫폼이 출시됩니다.</h4>
+<!--
 <br><br>
 <table>
       <tr> 
@@ -215,7 +216,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 초
 </li>
 </ul>
-<!--
+
 <br>
 <br>
 <div class="progress">
@@ -271,8 +272,6 @@ Private Sale
 <br>
 <p>2009년 코펜하겐 협정에서 발표한 정부의 공약에 따라 한국은 2030년까지 온실가스 배출량을 37% 감소하고자 합니다.</p>
 <br>
-<p>한국 정부는 지난 2017년 W재단을 선정, 대국민 온실가스 감축운동 (HOOXI 캠페인)을 주도하도록 하였습니다.</p>
-<br>
 <p>W재단은 한국 정부의 온실가스 감축 목표 달성에 협력하기위해 HOOXI 앱을 출시하여 환경 이슈에 관한 대중의 인식을 고취하고, 대중의 온실가스 감축 참여를 높일 계획입니다. HOOXI 앱을 통해 온실가스 감축 노력에 참여하는 이들에게는 W Green Pay를 통해 리워드가 제공됩니다.</p>
 </div>
 </div>
@@ -281,7 +280,7 @@ Private Sale
 <br>
 <p>가장 혁신적인 온실가스 감축 플랫폼이 출시됩니다.</p>
 <br>
-<p>한국 정부와 W재단의 대국민 온실가스 감축운동(HOOXI 캠페인)을 위한 블록체인, W Green Pay(WGP)는 온실가스 감축노력에 참여하는 대중에게 제공될 보상수단으로 사용됩니다.</p>
+<p>와 W재단의 대국민 온실가스 감축운동(HOOXI 캠페인)을 위한 블록체인, W Green Pay(WGP)는 온실가스 감축노력에 참여하는 대중에게 제공될 보상수단으로 사용됩니다.</p>
 <br>
 <h4 style="font-weight:700;">W Green Pay(WGP)의 사용처는 다음과 같이 다양합니다:</h4>
 <br>
@@ -318,11 +317,7 @@ Private Sale
 <br>
 <h2><span style="color:#fff;">HOOXI</span> 앱</h2>
 <br>
-<p>HOOXI 앱은 개인의 온실가스 감축량을 데이터를 통합, 해당 데이터를 환경부로부터 인증받아 탄소배출권을 할당받습니다. HOOXI 앱을 통해 연간 온실가스 천만 톤을 줄일 수 있을 것으로 예측, 탄소배출권 거래를 통해 연간 약 2억 달러의 매출을 올릴 것으로 예상합니다.</p>
-<br>
-<h2>W Exchange</h2>
-<br>
-<p>W Exchange는 2019년 3월에 출시예정이다. W Exchange는 한국 탄소배출권 거래제 대상 사업체로써, HOOXI 앱 온실가스 감축데이터에 할당된 탄소배출권을 한국거래소에서 거래할 예정입니다. W Exchange는 W Green Pay 를 현금으로 교환할 수 있는 거래소로도 활용될 예정입니다.</p>
+<p>HOOXI 앱은 개인의 온실가스 감축량을 데이터를 통합, 해당 데이터를 인증받아 탄소배출권을 할당받습니다. HOOXI 앱을 통해 연간 온실가스 천만 톤을 줄일 수 있을 것으로 예측, 탄소배출권 거래를 통해 연간 약 2억 달러의 매출을 올릴 것으로 예상합니다.</p>
 </div>
 </section>
 <section class="sponsors">
@@ -1347,14 +1342,6 @@ Private Sale
       <h2>Legal Profession & Financial Institutions</h2>
       <br>
       <div class="row" style="margin-bottom:60px;">
-		<div class="col-md-2 col-sm-4 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Advisors/hong-kyeong-keun.jpg" alt=""></div>
-          <br>
-          <div class=" kr-adviser">
-            <h3>홍경근</h3>
-            <h4>W재단 총재 (트루벤인베스트먼트그룹 회장)</h4>
-          </div>
-        </div>
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Ko,-Eunseok--Prosecutor.jpg" alt=""></div>
           <br>
@@ -1529,19 +1516,19 @@ Private Sale
         </div>
       </div>
     </section>
-<div class="team-advisor">
-<div class="row">
-<div class="col-md-9 col-sm-9 col-xs-7 v-pad">
-<h4>W재단 HOOXI 캠페인에 자문과 조언을 주시는 160여명의 사회저명인사에 대한 자세한 정보를 보시려면 다음을 클릭하세요:</h4>
-<br>
-<h4>한국어: <a href="http://www.gcrfund.org/honorary_advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/honorary_advisors/</a></h4>
-<h4>영어: <a href="http://www.gcrfund.org/en/honorary-advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/en/honorary-advisors/</a></h4>
-</div>
-<div class="col-md-3 col-sm-3 col-xs-5 v-pad" style="text-align: center;">
-<img src="img/leaf-big.png" alt="">
-</div>
-</div>
-</div>
+    <!--<div class="team-advisor">
+      <div class="row">
+        <div class="col-md-9 col-sm-9 col-xs-7 v-pad">
+          <h4>W재단 HOOXI 캠페인에 자문과 조언을 주시는 160여명의 사회저명인사에 대한 자세한 정보를 보시려면 다음을 클릭하세요:</h4>
+          <br>
+          <h4>한국어: <a href="http://www.gcrfund.org/honorary_advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/honorary_advisors/</a></h4>
+          <h4>영어: <a href="http://www.gcrfund.org/en/honorary-advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/en/honorary-advisors/</a></h4>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-5 v-pad" style="text-align: center;">
+          <img src="img/leaf-big.png" alt="">
+        </div>
+      </div>
+    </div>-->
 	</section>	  
 <!------------ Team end ------------>
 
