@@ -271,8 +271,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <br>
         <p>Following the Korean government’s pledge made at Copenhagen Accord in 2009, the country aims to reduce GHG emission by 37% by 2030.</p>
         <br>
-        <p>The Korean government selected W-Foundation to lead the “Nation-wide Public Movement to Reduce GHG Emission (HOOXI Campaign)”.</p>
-        <br>
         <p>To support the government’s GHG emission reduction efforts, W-Foundation will launch a mobile application called HOOXI App that monitors and rewards the effort of individuals and the public to reduce GHG emissions.</p>
       </div>
     </div>
@@ -281,7 +279,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <br>
     <p>The most innovative social carbon credit platform to be launched.</p>
     <br>
-    <p>W Green Pay (WGP), the blockchain from HOOXI, Korea's government-backed Greenhouse Gas (GHG) reduction campaign, is issued to reward general public's contribution to reducing GHG emissions under Korea's KETS (Korea's Emissions Trading Scheme) market.</p>
+    <p>W Green Pay (WGP), the blockchain from HOOXI, Greenhouse Gas (GHG) reduction campaign, is issued to reward general public's contribution to reducing GHG emissions under Korea's KETS (Korea's Emissions Trading Scheme) market.</p>
     <br>
     <h4 style="font-weight:700;">WGP is a reward method to GHG reduction efforts on the anticipated HOOXI app. Users will be able to:</h4>
     <br>
@@ -318,10 +316,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <h2><span style="color:#fff;">HOOXI</span> Application</h2>
     <br>
     <p>HOOXI App will track and aggregate individuals’ GHG reduction data, based on which W-Foundation will be allocated KOC (Korean Offset Credit) - carbon emission units traded in the Korean market. Through HOOXI campaign, financial incentives of KOC-based carbon trading will no longer remain as the sole domain of corporations and institutions and will be open to individuals.</p>
-    <br>
-    <h2>W Exchange</h2>
-    <br>
-    <p>W Exchange is set to launch in March 2019. W Exchange is expected to be a KETS-eligible business entity. KOCs from HOOXI App will trade at KRX through W Exchange.</p>
   </div>
 </section>
 <section class="sponsors">
