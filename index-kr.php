@@ -143,7 +143,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="#roadmap">로드맵</a></li>
 <li><a href="#partner">파트너</a></li>
 <li><a href="#team">팀</a></li>
-<li><a href="#advisers">명예고문</a></li>
+<!--<li><a href="#advisers">명예고문</a></li>-->
 <li><a href="#contact">연락처</a></li>
 </ul>
 <div class="lng-container">
@@ -165,7 +165,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a href="#roadmap" onClick="closeSidebar(this)">로드맵</a>
 <a href="#partner" onClick="closeSidebar(this)">파트너</a>
 <a href="#team" onClick="closeSidebar(this)">팀</a>
-<a href="#advisers" onClick="closeSidebar(this)">명예고문</a>
+<!--<a href="#advisers" onClick="closeSidebar(this)">명예고문</a>-->
 <a href="#contact" onClick="closeSidebar(this)">연락처</a>
 <div class="lng-mobile">
 <a href="index.php">EN</a> &nbsp; <a href="index-zh.php">중국말</a> 
@@ -1307,7 +1307,7 @@ Private Sale
 </div>
 </div>
 </div>
-<div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
+<!--<div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
 <section id="advisers" style="padding-bottom:60px;">
       <h1>명예고문 (W재단, HOOXI 캠페인)</h1>
       <div class="h-line"></div>
@@ -1515,7 +1515,7 @@ Private Sale
           </div>
         </div>
       </div>
-    </section>
+    </section>-->
     <!--<div class="team-advisor">
       <div class="row">
         <div class="col-md-9 col-sm-9 col-xs-7 v-pad">
