@@ -144,9 +144,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <li><a href="#token">代币销售</a></li>
       <li><a href="#media">媒体</a></li>
       <li><a href="#roadmap">路径图</a></li>
-	  <li><a href="#partner">策略伙伴</a></li>
+	    <li><a href="#partner">策略伙伴</a></li>
       <li><a href="#team">团队</a></li>
-      <li><a href="#advisers">顾问</a></li>
+      <!--<li><a href="#advisers">顾问</a></li>-->
       <li><a href="#contact">联系方式</a></li>
     </ul>
     <div class="lng-container">
@@ -166,9 +166,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <a href="#token" onclick="closeSidebar(this)">代币销售</a>
       <a href="#media" onclick="closeSidebar(this)">媒体</a>
       <a href="#roadmap" onclick="closeSidebar(this)">路径图</a>
-	  <a href="#partner" onclick="closeSidebar(this)">策略伙伴</a>
+	    <a href="#partner" onclick="closeSidebar(this)">策略伙伴</a>
       <a href="#team" onclick="closeSidebar(this)">团队</a>
-      <a href="#advisers" onclick="closeSidebar(this)">顾问</a>
+      <!--<a href="#advisers" onclick="closeSidebar(this)">顾问</a>-->
       <a href="#contact" onclick="closeSidebar(this)">联系方式</a>
       <div class="lng-mobile">
         <a href="index.php">EN</a>  &nbsp;<a href="index-kr.php">韩语</a>
@@ -1246,7 +1246,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </div>
-    <div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
+    <!--<div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
     <section id="advisers" style="padding-bottom:60px;">
       <h1>顾问 (W-Foundation, HOOXI活动)</h1>
       <div class="h-line"></div>
@@ -1458,7 +1458,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 	  </div>
     </div>    
-  </div>
+  </div>-->
 </section>
 <!------------ Team end ------------>
 

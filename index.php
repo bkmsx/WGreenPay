@@ -144,9 +144,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <li><a href="#token">Tokensale</a></li>
       <li><a href="#media">Media</a></li>
       <li><a href="#roadmap">Roadmap</a></li>
-	  <li><a href="#partner">Partner</a></li>
+	    <li><a href="#partner">Partner</a></li>
       <li><a href="#team">Team</a></li>
-      <li><a href="#advisers">Advisers</a></li>
+      <!--<li><a href="#advisers">Advisers</a></li>-->
       <li><a href="#contact">Contact</a></li>
     </ul>
     <div class="lng-container">
@@ -166,9 +166,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <a href="#token" onclick="closeSidebar(this)">Tokensale</a>
       <a href="#media" onclick="closeSidebar(this)">Media</a>
       <a href="#roadmap" onclick="closeSidebar(this)">Roadmap</a>
-	  <a href="#partner" onclick="closeSidebar(this)">Partner</a>
+	    <a href="#partner" onclick="closeSidebar(this)">Partner</a>
       <a href="#team" onclick="closeSidebar(this)">Team</a>
-      <a href="#advisers" onclick="closeSidebar(this)">Advisers</a>
+      <!--<a href="#advisers" onclick="closeSidebar(this)">Advisers</a>-->
       <a href="#contact" onclick="closeSidebar(this)">Contact</a>
       <div class="lng-mobile">
         <a href="index-kr.php">KR</a> &nbsp; <a href="index-zh.php">CN</a> 
@@ -1326,7 +1326,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </div>
-    <div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
+    <!--<div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
     <section id="advisers" style="padding-bottom:60px;">
       <h1>ADVISERS (W-Foundation, HOOXI Campaign)</h1>
       <div class="h-line"></div>
@@ -1378,7 +1378,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
         </div>
 		
-		<!--
+		
         <div class="col-md-2 col-sm-4 col-xs-6 v-pad">
           <div class="team-img adviser-img"><img src="img/Advisors/Park,-Huiseung--Lawyer.jpg" alt=""></div>
           <br>
@@ -1402,7 +1402,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h3>Choi, Huinam</h3>
             <h4>President, Korea Investment Corporation (Sovereign Wealth Fund)</h4>
           </div>
-        </div>-->
+        </div>
       </div>
       <h2>Media & Entertainment</h2>
       <br>
@@ -1564,7 +1564,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
       </div>
     </div>    
-  </div>
+  </div>-->
 </section>
 <!------------ Team end ------------>
 
