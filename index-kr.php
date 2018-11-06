@@ -1206,14 +1206,6 @@ Private Sale
 </div>
 <div class="row">
 <div class="col-md-3 col-sm-6 v-pad">
-<a href="#kjlee" class="open-popup-link"><div class="team-img"><img src="img/team-kjlee.jpg" alt=""></div></a>
-<br>
-<div class="team-title">
-<h3>이경준 (KJ LEE)</h3>
-<h4>Technology Adviser (Council Member, ICON Foundation)</h4>
-</div>
-</div>
-<div class="col-md-3 col-sm-6 v-pad">
 <a href="#stas" class="open-popup-link"><div class="team-img"><img src="img/team-stas.jpeg" alt=""></div></a>
 <br>
 <div class="team-title">
@@ -1237,8 +1229,6 @@ Private Sale
 <h4>Strategic Business Adviser (Co-Founder, CEO of Zeex)</h4>
 </div>
 </div>
-</div>
-<div class="row">
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#sebastian" class="open-popup-link"><div class="team-img"><img src="img/team-sebastian.jpg" alt=""></div></a>
 <br>
@@ -1247,6 +1237,8 @@ Private Sale
 <h4>Blockchain Product Adviser (Co-Founder of Wings)</h4>
 </div>
 </div>
+</div>
+<div class="row">
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
 <br>
@@ -1271,8 +1263,6 @@ Private Sale
 <h4>Blockchain Investments Adviser (Co-Founder, CEO of Chain Cabinet)</h4>
 </div>
 </div>
-</div>
-<div class="row">
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
 <br>
@@ -1282,6 +1272,8 @@ Private Sale
 <p>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</p>
 </div>
 </div>
+</div>
+<div class="row">
 <div class="col-md-3 col-sm-6 v-pad">
 <a href="#sonic" class="open-popup-link"><div class="team-img"><img src="img/team-sonic-zhang.jpg" alt=""></div></a>
 <br>

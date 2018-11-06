@@ -1224,14 +1224,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </div>
     <div class="row">
-	    <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#kjlee" class="open-popup-link"><div class="team-img"><img src="img/team-kjlee.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>KJ LEE</h3>
-          <h4>Technology Adviser (Council Member, ICON Foundation)</h4>
-        </div>
-      </div>
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#stas" class="open-popup-link"><div class="team-img"><img src="img/team-stas.jpeg" alt=""></div></a>
         <br>
@@ -1256,8 +1248,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>Strategic Business Adviser<br>(Co-Founder, CEO of Zeex)</h4>
         </div>
       </div>
-    </div>
-    <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sebastian" class="open-popup-link"><div class="team-img"><img src="img/team-sebastian.jpg" alt=""></div></a>
         <br>
@@ -1266,6 +1256,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>Blockchain Product Adviser<br>(Co-Founder of Wings)</h4>
         </div>
       </div>
+    </div>
+    <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
         <br>
@@ -1290,9 +1282,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>Blockchain Investments Adviser<br>(Co-Founder, CEO of Chain Cabinet)</h4>
         </div>
       </div>
-    </div>
-	  <div class="row">
-    
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
         <br>
@@ -1301,6 +1290,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>Business Adviser<br>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</h4>
         </div>
       </div>
+    </div>
+	  <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
         <br>

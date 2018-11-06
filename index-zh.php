@@ -1145,14 +1145,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </div>
     <div class="row">
-	    <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#kjlee" class="open-popup-link"><div class="team-img"><img src="img/team-kjlee.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>KJLEE</h3>
-          <h4>技术顾问（ICON Foundation理事会成员）</h4>
-        </div>
-      </div>
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#stas" class="open-popup-link"><div class="team-img"><img src="img/team-stas.jpeg" alt=""></div></a>
         <br>
@@ -1177,9 +1169,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>战略业务顾问(Zeex联合创始人兼首席执行官)</h4>
         </div>
       </div>
-    </div>
-    <div class="row">
-	    <div class="col-md-3 col-sm-6 v-pad">
+      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sebastian" class="open-popup-link"><div class="team-img"><img src="img/team-sebastian.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1187,6 +1177,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>区块链产品顾问(Wings的联合创始人)</h4>
         </div>
       </div>
+    </div>
+    <div class="row">
 	    <div class="col-md-3 col-sm-6 v-pad">
         <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
         <br>
@@ -1211,9 +1203,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>区块链投资顾问(Chain Cabinet联合创始人兼首席执行官)</h4>
         </div>
       </div>
-	  </div>
-    <div class="row">
-	    <div class="col-md-3 col-sm-6 v-pad">
+      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1221,6 +1211,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>商业顾问(WWRC Holding Pte.Ltd，即“WWRC集团”集 团战略与公司事务经理)</h4>
         </div>
       </div>
+	  </div>
+    <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
         <br>
