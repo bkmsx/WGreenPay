@@ -318,6 +318,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <p>HOOXI App will track and aggregate individuals’ GHG reduction data, based on which W-Foundation will be allocated KOC (Korean Offset Credit) - carbon emission units traded in the Korean market. Through HOOXI campaign, financial incentives of KOC-based carbon trading will no longer remain as the sole domain of corporations and institutions and will be open to individuals.</p>
   </div>
 </section>
+<!--
 <section class="sponsors">
   <div class="container">
     <div class="row">
@@ -560,7 +561,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div> 
   </div>
-</section>
+</section>-->
 <section style="background:#001a3d;" class="emission">
   <div class="container">
     <div class="row">

@@ -320,6 +320,7 @@ Private Sale
 <p>HOOXI 앱은 개인의 온실가스 감축량을 데이터를 통합, 해당 데이터를 인증받아 탄소배출권을 할당받습니다. HOOXI 앱을 통해 연간 온실가스 천만 톤을 줄일 수 있을 것으로 예측, 탄소배출권 거래를 통해 연간 약 2억 달러의 매출을 올릴 것으로 예상합니다.</p>-->
 </div>
 </section>
+<!--
 <section class="sponsors">
 <div class="container">
 <div class="row">
@@ -558,7 +559,7 @@ Private Sale
         </div>
       </div>
 </div>
-</section>
+</section>-->
 <section style="background:#001a3d;" class="emission">
 <div class="container">
 <div class="row">

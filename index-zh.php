@@ -323,7 +323,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <p>W Exchange将于2019年3月启动。预计W Exchange将成为符合KETS资格的商业实体。预计HOOXI应用分配的韩国碳补偿额度将使用W Exchange以代币KRX进行交易，</p>
   </div>
 </section>
-<section class="sponsors">
+<!--<section class="sponsors">
   <div class="container">
     <div class="row">
       <div class="col-md-4 v-pad">
@@ -565,7 +565,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div> 
   </div>
-</section>
+</section>-->
 <section style="background:#001a3d;" class="emission">
   <div class="container">
     <div class="row">
