@@ -1164,26 +1164,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </section>
 <!------------ Roadmap end ------------>
 
-<!------------ Partner start ------------>
-<section id="partner">
-  <div class="container">
-	<h1>Partner</h1>
-    <div class="h-line"></div>
-	<div class="row">
-	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-lightyear.jpg" alt=""></div> 
-	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-yg.jpg" alt=""></div> 
-	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-icon.jpg" alt=""></div> 
-      <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-factblock.jpg" alt=""></div> 
-	</div>
-	<div class="row">
-	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-kona.jpg" alt=""></div> 
-	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-zeex.jpg" alt=""></div> 
-	  <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-emusic.jpg" alt=""></div> 
-      <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><img src="img/partner-daehyun.jpg" alt=""></div> 
-	</div>
-  </div>
-</section>
-<!------------ Partner end ------------>
 
 <!------------ Team start ------------>
 <section id="team">
