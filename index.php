@@ -969,15 +969,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <a href="https://medium.com/wgreenpay/exciting-new-partnership-announcement-for-w-foundation-9c6cd2aa99ce" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
                 </div>
               </div>
-		      <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <div class="blog-img"><img src="img/blog-5.jpg" alt=""></div>
-                  <br><br>
-                  <h4>W-Foundation’s Strategic Partnership with YG Investment</h4>
-                  <br>
-                  <a href="https://medium.com/wgreenpay/w-foundations-strategic-partnership-with-yg-investment-edb251ce5f01" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
 			  <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
                   <div class="blog-img"><img src="img/blog-6.jpg" alt=""></div>
