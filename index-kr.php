@@ -1083,7 +1083,7 @@ Private Sale
 <div class="timeline-content">
 <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
 <div class="timeline-detail">
-<h3 class="timeline-title">2018년 10월 4일</h3>
+<h3 class="timeline-title">2018년 12월 5일</h3>
 <br>
 <ul class="roadmap">
 <li><h4>HOOXI 앱 출시</h4></li>
@@ -1129,7 +1129,7 @@ Private Sale
 <div class="timeline-content">
 <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
 <div class="timeline-detail">
-<h3 class="timeline-title">2019년 3월</h3>
+<h3 class="timeline-title">2019년</h3>
 <br>
 <ul class="roadmap">
 <li><h4>W Exchange 출범</h4></li>

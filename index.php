@@ -1093,7 +1093,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">Oct 4, 2018</h3>
+                <h3 class="timeline-title">Dec 5, 2018</h3>
                 <br>
                 <ul class="roadmap">
                   <li><h4>HOOXI App Launch</h4></li>
@@ -1139,7 +1139,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">Mar 2019</h3>
+                <h3 class="timeline-title">2019</h3>
                 <br>
                 <ul class="roadmap">
                   <li><h4>W Exchange Launch</h4></li>
