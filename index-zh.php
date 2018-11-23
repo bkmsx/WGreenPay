@@ -32,6 +32,9 @@
   })(window,document,'script','dataLayer','GTM-5X2FMMG');</script>
   <!-- End Google Tag Manager -->
 
+ <!-- Sendgrid -->
+ <script type="text/javascript" src="//sgwidget.leaderapps.co/js/sg-widget.js"></script>
+
 <style>
 
 .flexslider .slides img {
@@ -1462,15 +1465,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-md-6 v-pad" style="text-align:center; padding-top:30px;"><h3 style="text-transform:none;">不要错过最新消息与更新。</h3></div>
       <div class="col-md-6 v-pad">
         <div class="subscription-messages"></div>
-        <form id='subscription' class="ajax-subscription" action='https://global.us18.list-manage.com/subscribe/post?u=e1cce14547abb01d594305d38&amp;id=db0d55a049' method='post' accept-charset='UTF-8' name="mc-embedded-subscribe-form">
-          <input type='hidden' name='submitted' id='submitted' value='1'/>
-          <input type="hidden" name="type" value="subscription" />
+        <div id="sendgrid-subscription-widget" class="sendgrid-subscription-widget" data-emailerror="Please enter a valid email address" data-checkboxerror="Please tick the box to accept our conditions">
+        <form id="sg-widget" data-token="811c3bf3bc6a5444dc373c421c362395" onsubmit="return false;">
+          <div class="sg-response" id="sg-response"></div>
           <div class="subscription-container">
-            <input type='text' class="input-style input-box" name='EMAIL' id='subscription_email'  placeholder="Your e-mail address " required/>
-            <button type='submit' value='Submit' class="submit-box"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
-          <div style="clear:both;"></div>
+            <input id="sg_email" type="email" name="sg_email" class="input-style input-box" placeholder="Your e-mail address" required>
+            <button type="submit" id="sg-submit-btn" value="Subscribe" class="submit-box"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
+            <div style="clear:both;"></div>
           </div>
         </form>
+      </div>
       </div>
     </div>
   </div>
@@ -1499,22 +1503,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="participateform" class="white-popup mfp-hide sans">
   <h4>订阅<b>W GREEN PAY</b></h4>
   <br><br>
-  <div class="participate-messages"></div>
-  <form id='participate' class="ajax-participate" action='https://global.us18.list-manage.com/subscribe/post?u=e1cce14547abb01d594305d38&amp;id=db0d55a049' method='post' accept-charset='UTF-8' name="mc-embedded-subscribe-form">
-    <input type='hidden' name='submitted' id='submitted' value='1'/>
-    <input type="hidden" name="type" value="participate" />
-    <input type='text' class="input-style" name='FNAME' id='participate_name'  placeholder="姓名" />
-    <br>
-    <br>
-    <input type='text' class="input-style" name='EMAIL' id='participate_email'  placeholder="邮箱" required/>
-    <br>
-    <br>
-    <br>
-    <div style="float:right;">
-      <button type='submit' value='Submit' class="btn white-btn">提交</button>
+  <div id="sendgrid-subscription-widget" class="sendgrid-subscription-widget" data-emailerror="Please enter a valid email address" data-checkboxerror="Please tick the box to accept our conditions">
+  <form id="sg-widget" data-token="811c3bf3bc6a5444dc373c421c362395" onsubmit="return false;">
+    <div class="sg-response" id="sg-response"></div>
+    <input id="sg_email" type="email" name="sg_email" placeholder="Your e-mail address" required>
+    <br><br>
+    <div style="float:right">
+      <input type="submit" id="sg-submit-btn" value="Subscribe" class="btn white-btn">
     </div>
     <div style="clear:both;"></div>
   </form>
+
+  </div>
 </div>
 
 <!---------- Participate form ------------> 

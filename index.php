@@ -32,6 +32,9 @@
   })(window,document,'script','dataLayer','GTM-5X2FMMG');</script>
   <!-- End Google Tag Manager -->
 
+ <!-- Sendgrid -->
+<script type="text/javascript" src="//sgwidget.leaderapps.co/js/sg-widget.js"></script>
+
 <style>
 
 .flexslider .slides img {
@@ -82,6 +85,8 @@
 .mfp-content h3 {
 	font-size:24px;
 }
+
+
 
 </style>
 
@@ -1558,6 +1563,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="row">
       <div class="col-md-6 v-pad" style="text-align:center; padding-top:30px;"><h3 style="text-transform:none;">Don’t miss the latest news and updates</h3></div>
       <div class="col-md-6 v-pad">
+        <!--
         <div class="subscription-messages"></div>
         <form id='subscription' class="ajax-subscription" action='https://global.us18.list-manage.com/subscribe/post?u=e1cce14547abb01d594305d38&amp;id=db0d55a049' method='post' accept-charset='UTF-8' name="mc-embedded-subscribe-form">
           <input type='hidden' name='submitted' id='submitted' value='1'/>
@@ -1566,6 +1572,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <input type='text' class="input-style input-box" name='EMAIL' id='subscription_email'  placeholder="Your e-mail address " required/>
             <button type='submit' value='Submit' class="submit-box"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
           <div style="clear:both;"></div>
+          </div>
+        </form>-->
+
+        
+  
+      <div id="sendgrid-subscription-widget" class="sendgrid-subscription-widget" data-emailerror="Please enter a valid email address" data-checkboxerror="Please tick the box to accept our conditions">
+        <form id="sg-widget" data-token="811c3bf3bc6a5444dc373c421c362395" onsubmit="return false;">
+          <div class="sg-response" id="sg-response"></div>
+          <div class="subscription-container">
+            <input id="sg_email" type="email" name="sg_email" class="input-style input-box" placeholder="Your e-mail address" required>
+            <button type="submit" id="sg-submit-btn" value="Subscribe" class="submit-box"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
+            <div style="clear:both;"></div>
           </div>
         </form>
       </div>
@@ -1591,30 +1609,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div style="color:#87b44c; font-weight:400;"><a href="#terms_service" class="open-popup-link">Terms of Service</a> &nbsp;&nbsp;I&nbsp;&nbsp; <a href="#policy" class="open-popup-link">Privacy Policy</a></div>
 </div>
 
-<!---------- Participate form ------------> 
+<!---------- Subscribe sendgrid form ------------> 
 
 <div id="participateform" class="white-popup mfp-hide sans">
   <h4>SUBSCRIBE TO <b>W GREEN PAY</b></h4>
   <br><br>
-  <div class="participate-messages"></div>
-  <form id='participate' class="ajax-participate" action='https://global.us18.list-manage.com/subscribe/post?u=e1cce14547abb01d594305d38&amp;id=db0d55a049' method='post' accept-charset='UTF-8' name="mc-embedded-subscribe-form">
-    <input type='hidden' name='submitted' id='submitted' value='1'/>
-    <input type="hidden" name="type" value="participate" />
-    <input type='text' class="input-style" name='FNAME' id='participate_name'  placeholder="name " />
-    <br>
-    <br>
-    <input type='text' class="input-style" name='EMAIL' id='participate_email'  placeholder="e-mail" required/>
-    <br>
-    <br>
-    <br>
-    <div style="float:right;">
-      <button type='submit' value='Submit' class="btn white-btn">SUBMIT</button>
+  
+  <div id="sendgrid-subscription-widget" class="sendgrid-subscription-widget" data-emailerror="Please enter a valid email address" data-checkboxerror="Please tick the box to accept our conditions">
+  <form id="sg-widget" data-token="811c3bf3bc6a5444dc373c421c362395" onsubmit="return false;">
+    <div class="sg-response" id="sg-response"></div>
+    <input id="sg_email" type="email" name="sg_email" placeholder="Your e-mail address" required>
+    <br><br>
+    <div style="float:right">
+      <input type="submit" id="sg-submit-btn" value="Subscribe" class="btn white-btn">
     </div>
     <div style="clear:both;"></div>
   </form>
+
+  </div>
 </div>
 
-<!---------- Participate form ------------> 
+<!---------- Subscribe sendgrid form ------------> 
 
 <!---------- Private Policy -------------->
 <div id="policy" class="white-popup mfp-hide sans"> 

@@ -31,6 +31,9 @@
   })(window,document,'script','dataLayer','GTM-5X2FMMG');</script>
 <!-- End Google Tag Manager -->
 
+ <!-- Sendgrid -->
+ <script type="text/javascript" src="//sgwidget.leaderapps.co/js/sg-widget.js"></script>
+
 <style>
 
 .flexslider .slides img {
@@ -1533,16 +1536,18 @@ Private Sale
 <div class="row">
 <div class="col-md-6 v-pad" style="text-align:center; padding-top:30px;"><h3 style="text-transform:none;">최신 뉴스와 업데이트를 놓치지 마세요</h3></div>
 <div class="col-md-6 v-pad">
-<div class="subscription-messages"></div>
-<form id='subscription' class="ajax-subscription" action='https://global.us18.list-manage.com/subscribe/post?u=e1cce14547abb01d594305d38&amp;id=db0d55a049' method='post' accept-charset='UTF-8' name="mc-embedded-subscribe-form">
-<input type='hidden' name='submitted' id='submitted' value='1'/>
-<input type="hidden" name="type" value="subscription" />
-<div class="subscription-container">
-<input type='text' class="input-style input-box" name='EMAIL' id='subscription_email'  placeholder="이메일" required/>
-<button type='submit' value='Submit' class="submit-box"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
-<div style="clear:both;"></div>
-</div>
-</form>
+
+<div id="sendgrid-subscription-widget" class="sendgrid-subscription-widget" data-emailerror="Please enter a valid email address" data-checkboxerror="Please tick the box to accept our conditions">
+        <form id="sg-widget" data-token="811c3bf3bc6a5444dc373c421c362395" onsubmit="return false;">
+          <div class="sg-response" id="sg-response"></div>
+          <div class="subscription-container">
+            <input id="sg_email" type="email" name="sg_email" class="input-style input-box" placeholder="test" required>
+            <button type="submit" id="sg-submit-btn" value="Subscribe" class="submit-box"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
+            <div style="clear:both;"></div>
+          </div>
+        </form>
+      </div>
+
 </div>
 </div>
 </div>
@@ -1571,22 +1576,18 @@ Private Sale
 <div id="participateform" class="white-popup mfp-hide sans">
 <h4><b>W Green Pay </b>에 구독하다</h4>
 <br><br>
-<div class="participate-messages"></div>
-<form id='participate' class="ajax-participate" action='https://global.us18.list-manage.com/subscribe/post?u=e1cce14547abb01d594305d38&amp;id=db0d55a049' method='post' accept-charset='UTF-8' name="mc-embedded-subscribe-form">
-<input type='hidden' name='submitted' id='submitted' value='1'/>
-<input type="hidden" name="type" value="participate" />
-<input type='text' class="input-style" name='FNAME' id='participate_name'  placeholder="성명 " />
-<br>
-<br>
-<input type='text' class="input-style" name='EMAIL' id='participate_email'  placeholder="이메일" required/>
-<br>
-<br>
-<br>
-<div style="float:right;">
-<button type='submit' value='Submit' class="btn white-btn">제출하기</button>
-</div>
-<div style="clear:both;"></div>
-</form>
+<div id="sendgrid-subscription-widget" class="sendgrid-subscription-widget" data-emailerror="Please enter a valid email address" data-checkboxerror="Please tick the box to accept our conditions">
+  <form id="sg-widget" data-token="811c3bf3bc6a5444dc373c421c362395" onsubmit="return false;">
+    <div class="sg-response" id="sg-response"></div>
+    <input id="sg_email" type="email" name="sg_email" placeholder="Your e-mail address" required>
+    <br><br>
+    <div style="float:right">
+      <input type="submit" id="sg-submit-btn" value="제출하기" class="btn white-btn">
+    </div>
+    <div style="clear:both;"></div>
+  </form>
+
+  </div>
 </div>
 
 <!---------- Participate form ------------>
@@ -1832,23 +1833,23 @@ $(window).scroll(function() {
 
 </script>
 
-<!-- Add smooth transition menu -->
+<!-- Add smooth transition menu --> 
 <script>
 $(function() {
-  $('a[href*=#]:not([href=#])').click(function() {
-                                      if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-                                                                    var target = $(this.hash);
-                                                                    target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-                                                                    if (target.length) {
-                                                                    $('html,body').animate({
-                                                                                           scrollTop: target.offset().top
-                                                                                           }, 1000);
-                                                                    return false;
-                                                                    }
-                                                                    }
-                                                                    });
-                                          });
-                                      </script>
+	  $('a[href*=#]:not([href=#])').click(function() {
+		if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+		  var target = $(this.hash);
+		  target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+		  if (target.length) {
+			$('html,body').animate({
+			  scrollTop: target.offset().top
+			}, 1000);
+			return false;
+		  }
+		}
+	  });
+	});
+</script> 
                                       
  <!-- Add flexslider -->
 <script src="js/jquery.flexslider-min.js"></script>
