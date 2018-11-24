@@ -1252,14 +1252,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#sangjin" class="open-popup-link"><div class="team-img"><img src="img/team-sang-jin-hong.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Sangjin Hong</h3>
-          <h4>Blockchain Investments Adviser<br>(Co-Founder, CEO of Chain Cabinet)</h4>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1267,8 +1259,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>Business Adviser<br>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</h4>
         </div>
       </div>
-    </div>
-	  <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
         <br>
@@ -1277,6 +1267,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>Crypto Adviser</h4>
         </div>
       </div>
+    </div>
+	  <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sonic" class="open-popup-link"><div class="team-img"><img src="img/team-sonic-zhang.jpg" alt=""></div></a>
         <br>

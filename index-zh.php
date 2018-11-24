@@ -1179,14 +1179,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#sangjin" class="open-popup-link"><div class="team-img"><img src="img/team-sang-jin-hong.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Sangjin Hong</h3>
-          <h4>区块链投资顾问(Chain Cabinet联合创始人兼首席执行官)</h4>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1194,8 +1186,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>商业顾问(WWRC Holding Pte.Ltd，即“WWRC集团”集 团战略与公司事务经理)</h4>
         </div>
       </div>
-	  </div>
-    <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
         <br>
@@ -1204,6 +1194,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>加密顾问</h4>
         </div>
       </div>
+	  </div>
+    <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sonic" class="open-popup-link"><div class="team-img"><img src="img/team-sonic-zhang.jpg" alt=""></div></a>
         <br>
