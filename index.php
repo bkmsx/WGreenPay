@@ -1553,32 +1553,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="subscription">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 v-pad" style="text-align:center; padding-top:30px;"><h3 style="text-transform:none;">Don’t miss the latest news and updates</h3></div>
-      <div class="col-md-6 v-pad">
-        <!--
-        <div class="subscription-messages"></div>
-        <form id='subscription' class="ajax-subscription" action='https://global.us18.list-manage.com/subscribe/post?u=e1cce14547abb01d594305d38&amp;id=db0d55a049' method='post' accept-charset='UTF-8' name="mc-embedded-subscribe-form">
-          <input type='hidden' name='submitted' id='submitted' value='1'/>
-          <input type="hidden" name="type" value="subscription" />
-          <div class="subscription-container">
-            <input type='text' class="input-style input-box" name='EMAIL' id='subscription_email'  placeholder="Your e-mail address " required/>
-            <button type='submit' value='Submit' class="submit-box"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
-          <div style="clear:both;"></div>
-          </div>
-        </form>-->
+      <div class="col-md-12 v-pad" style="text-align:center; padding-top:30px;"><h3 style="text-transform:none;">Don’t miss the latest news and updates &nbsp;&nbsp;<a href="#participateform" class="btn open-popup-link">Subscribe</a></h3></div>
 
-        
-  
-      <div id="sendgrid-subscription-widget" class="sendgrid-subscription-widget" data-emailerror="Please enter a valid email address" data-checkboxerror="Please tick the box to accept our conditions">
-        <form id="sg-widget" data-token="811c3bf3bc6a5444dc373c421c362395" onsubmit="return false;">
-          <div class="sg-response" id="sg-response"></div>
-          <div class="subscription-container">
-            <input id="sg_email" type="email" name="sg_email" class="input-style input-box" placeholder="Your e-mail address" required>
-            <button type="submit" id="sg-submit-btn" value="Subscribe" class="submit-box"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
-            <div style="clear:both;"></div>
-          </div>
-        </form>
-      </div>
     </div>
   </div>
 </div>

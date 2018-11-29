@@ -1454,20 +1454,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="subscription">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 v-pad" style="text-align:center; padding-top:30px;"><h3 style="text-transform:none;">不要错过最新消息与更新。</h3></div>
-      <div class="col-md-6 v-pad">
-        <div class="subscription-messages"></div>
-        <div id="sendgrid-subscription-widget" class="sendgrid-subscription-widget" data-emailerror="Please enter a valid email address" data-checkboxerror="Please tick the box to accept our conditions">
-        <form id="sg-widget" data-token="811c3bf3bc6a5444dc373c421c362395" onsubmit="return false;">
-          <div class="sg-response" id="sg-response"></div>
-          <div class="subscription-container">
-            <input id="sg_email" type="email" name="sg_email" class="input-style input-box" placeholder="Your e-mail address" required>
-            <button type="submit" id="sg-submit-btn" value="Subscribe" class="submit-box"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
-            <div style="clear:both;"></div>
-          </div>
-        </form>
-      </div>
-      </div>
+      <div class="col-md-12 v-pad" style="text-align:center; padding-top:30px;"><h3 style="text-transform:none;">不要错过最新消息与更新。 &nbsp;&nbsp;<a href="#participateform" class="btn open-popup-link">订阅</a></h3></div>
+
     </div>
   </div>
 </div>
@@ -1501,7 +1489,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <input id="sg_email" type="email" name="sg_email" placeholder="Your e-mail address" required>
     <br><br>
     <div style="float:right">
-      <input type="submit" id="sg-submit-btn" value="Subscribe" class="btn white-btn">
+      <input type="submit" id="sg-submit-btn" value="订阅" class="btn white-btn">
     </div>
     <div style="clear:both;"></div>
   </form>

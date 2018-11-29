@@ -595,8 +595,8 @@ ul.social {list-style-type:none; margin-top:55px;}
 
 ul.social li {
     display: inline-block;
-	transition:0.8s;
-	margin:15px;
+    transition: 0.8s;
+    margin: 15px;
 }
 
 .subscription {
@@ -608,6 +608,7 @@ ul.social li {
 .footer {
 	padding:60px 0;
 	text-align:center;
+	background:#fff;
 }
 
 .footer a {color:#87b44c;}
