@@ -719,7 +719,7 @@ Private Sale
 <!------------ Token sale end ------------>
 
 <!------------ Media start ------------>
-<section id="media">
+<section id="media" class="media-bg">
   <div class="container">
     <h1>미디어</h1>
     <div class="h-line" style="background:#001a3d;"></div>

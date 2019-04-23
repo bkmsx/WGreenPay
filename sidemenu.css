@@ -74,7 +74,7 @@ nav a:nth-child(n+2) {
   display: block;
   font-size:15px;
   text-transform:uppercase;
-  padding: 20px 0 20px 33px;
+  padding: 15px 0 15px 33px;
   color:#333;
 }
 
@@ -161,7 +161,7 @@ nav a:nth-child(n+2):after {
 
 
 
-@media (max-width: 1200px) { 
+@media (max-width: 1350px) { 
 	
 nav {
   display:block;
@@ -190,7 +190,7 @@ nav {
 }
 
 nav a:nth-child(n+2) {
-  font-size: 14px;
+  font-size: 13px;
   padding: 20px 0 20px 25px;
 }
 	

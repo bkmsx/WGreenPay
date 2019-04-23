@@ -81,6 +81,17 @@ img {width:100%;}
 	margin-bottom:60px;
 }
 
+.h-line-s {
+	width:40px;
+	height:3px;
+	background:#001a3d;
+}
+
+.bold {font-weight:700;}
+.green-text {color:#87b44c;}
+.black-text {color:#001a3d;}
+
+
 /* ------------------------------------------------------------------
 Navigation
 ------------------------------------------------------------------- */
@@ -104,12 +115,14 @@ Navigation
 
 #header.bgChange {
 	background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
 }
 
 #logo {
 	width:224px;
 	height:35px;
 	float:left;
+	margin-left: 15px;
 	margin-top:15px;
 	transition:0.8s;
 	background-image:url(img/logo-white.png);
@@ -165,9 +178,8 @@ ul#menu li a:hover.bgChange {
 }
 
 .lng-container {
-	position:absolute;
-	right:0px;
-	top:15px;
+	float:right;
+	margin-top: 13px;
 }
 
 .lng {
@@ -182,6 +194,7 @@ ul#menu li a:hover.bgChange {
 	height:35px;
 	display:inline-block;
 	border:1px solid #87b44c;
+	transition: 0.3s;
 }
 
 .lng:hover {
@@ -235,13 +248,26 @@ ul#menu li a:hover.bgChange {
 }
 
 .dropdown {
+	text-transform:none;
+	color:#fff;
+}
+
+
+.lng-container .dropdown {
     position: relative;
     display: inline-block;
 	color:#fff;
-	background:#87b44c;
+	border:1px solid #87b44c;
 	border-radius:20px;
-	padding:10px 15px;
+	padding:0 15px;
+	height:35px;
+	line-height: 35px;
 	font-size:12px;
+	transition: 0.3s;
+}
+
+.lng-container .dropdown.bgChange {
+	color:#87b44c;
 }
 
 .dropdown i {font-size:10px;}
@@ -257,11 +283,102 @@ ul#menu li a:hover.bgChange {
 	min-width:70px;
 }
 
+.dropdown-content a {
+	color: #fff !important;
+    padding-top: 0px !important;
+    font-weight: 300;
+}
+
+.dropdown-content a:hover {
+	color:#b7c0bf !important;
+}
+
+
 .dropdown:hover .dropdown-content {
     display: block;
 }
 
 .dropdown span {cursor:pointer;}
+
+.header-btn {
+    float:right;
+	border-radius:20px;
+	height:35px;
+	line-height: 35px;
+	font-size:12px;
+	margin-top:13px;
+	margin-left:15px;
+	width:110px;
+	padding:0px;
+	text-transform:none;
+	letter-spacing:1px;
+	text-align: center;
+	background:#87b44c;
+}
+
+.whitepaper {
+	margin-right:15px;
+}
+
+.whitepaper-mobile {
+	padding: 10px 0 10px 33px;
+	display:none;
+}
+
+.whitepaper-mobile a {
+	border-radius:20px;
+	height:35px;
+	line-height: 35px;
+	font-size:12px;
+	width:110px;
+	padding:0px;
+	text-transform:none;
+	letter-spacing:1px;
+	text-align: center;
+	background:#87b44c;
+	display:inline-block;
+}
+
+.nav-dropdown {
+	display: block;
+    font-size: 15px;
+    padding: 15px 0 15px 33px;
+    color: #333;
+	cursor: pointer;
+	text-transform: uppercase;
+	font-weight: 300;
+}
+
+.nav-dropdown:hover {
+	transition: all linear 0.15s;
+    color: #87b44c;
+}
+
+.toggle,
+   [id^=drop] {
+    	display: none;
+	}
+
+div.drop-content {
+	display: none;
+	background-color: #87b44c;
+	width: 100%;
+	color: #fff;
+}
+
+.drop-content p {line-height: 20px;}
+
+.drop-content>p>a {
+	display: block;
+	padding: 10px 25px;
+}
+
+.drop-content>p>a:focus,
+.drop-content>p>a:hover {
+	color: #333;
+}
+
+nav label {margin-bottom: 0px;}
 
 /* ------------------------------------------------------------------
 Home & content
@@ -270,12 +387,12 @@ Home & content
 #home {
 	padding:0; 
 	position:relative; 
-	height:100%;
 	background-image:url(img/bg-main.jpg);
 	background-position:center;
 	background-size:cover;
 	box-sizing:border-box;
-	padding-top:10%;
+	padding-top:130px;
+	padding-bottom: 100px;
 }
 
 .home-container {
@@ -354,12 +471,16 @@ ul.home-btn li {
 	right:-50px;
 }
 
+.dl-btn {
+	width:165px;
+	float:left;
+	margin-right:30px;
+	margin-bottom:15px;
+}
+
 #about {
 	position:relative;
 	background-color:#001a3d;
-	background-image:url(img/bg-w.jpg);
-	background-repeat:no-repeat;
-	background-position:left top;
 }
 
 #about h2 {color:#87b44c; text-transform:none;}
@@ -430,11 +551,27 @@ ul.home-btn li {
 	box-sizing:border-box;
 }
 
-.token-graph img {max-width:300px;}
+.token-graph .h-line {
+	width:40px;
+	height:3px;
+	margin-bottom:0px;
+}
 
 .token-graph ul {
-	padding-left:15px;
+	padding-left:20px;
+	list-style: none;
 }
+
+.token-graph ul li::before {
+	content: "\2022";
+	color: #87b44c;
+	font-weight: bold;
+	display: inline-block; 
+	width: 1em;
+	margin-left: -1em;
+	position:relative;
+	right:5px;
+  }
 
 .token-graph li {
 	padding:5px 0;
@@ -450,7 +587,7 @@ ul.home-btn li {
 }
 
 .left-table {
-	width:230px; 
+	width:200px; 
 	font-weight:700; 
 	text-align:right;
 	border-right:1px solid #87b44c;
@@ -466,7 +603,7 @@ td {
 	line-height:1.4;
 }
 
-#media {
+.media-bg {
 	background-image:url(img/bg-pattern-media.jpg);
 	background-repeat:repeat;
 }
@@ -503,7 +640,7 @@ td {
 #roadmap h3 {color:#87b44c; font-weight:700;}
 
 .timeline-icon {
-	width:50px;
+	width:5%;
 	float:left;
 }
 
@@ -511,6 +648,7 @@ td {
 
 .timeline-detail  {
 	float:left;
+	width:95%;
 	text-align:left;
 }
 

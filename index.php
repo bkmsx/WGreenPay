@@ -10,7 +10,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 <link href="https://fonts.googleapis.com/css?family=Muli:300,400,700" rel="stylesheet">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 <link href="timeline.css" rel="stylesheet" type="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" type="text/css" href="jquery.flipcountdown.css" />
@@ -45,7 +45,7 @@
 
 .flexslider .flex-control-nav {
     bottom: -20px;
-	left:40%;
+	left:36%;
 }
 
 .flex-control-paging li a {
@@ -140,20 +140,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!------------ Navigation start ------------>
 <div id="header">
   <div class="blue-line"></div>
-  <div class="container" style="position:relative;"><a href="#home">
-    <div id="logo"></div>
-    </a>
-    <ul id="menu">
-      <li><a href="#about">About</a></li>
-      <li><a href="#features">Features</a></li>
-      <li><a href="#token">Tokensale</a></li>
-      <li><a href="#media">Media</a></li>
-      <li><a href="#roadmap">Roadmap</a></li>
-	    <li><a href="#partner">Partner</a></li>
-      <li><a href="#team">Team</a></li>
-      <!--<li><a href="#advisers">Advisers</a></li>-->
-      <li><a href="#contact">Contact</a></li>
-    </ul>
+  <div style="position:relative;">
+    <a href="#home"><div id="logo"></div></a>
+    <a href="WGP-whitepaper.pdf" target="_blank" class="btn header-btn whitepaper">Whitepaper</a>
+    <a href="#participateform" class="open-popup-link btn header-btn">Participate</a>
     <div class="lng-container">
       <div class="dropdown">
           <a href="">Language &nbsp;<i class="fa fa-chevron-down"></i></a>
@@ -164,17 +154,56 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div> 
       <!--<a href="#" class="lng lng-active">EN</a> &nbsp;<a href="index-kr.php" class="lng">KR</a>-->
     </div>
+    <ul id="menu">
+      <li>
+        <div class="dropdown">
+          <a href="">MEDIA</a>
+          <div class="dropdown-content">
+            <p><a href="#partners">Partners</a></p>
+            <p><a href="#exchanges">Exchanges</a></p>
+            <p><a href="#videos">Videos</a></p>
+            <p><a href="#articles">Articles</a></p>
+            <p><a href="#blog">Blog</a></p>
+          </div>
+        </div>
+      </li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#features">Features</a></li>
+      <li><a href="#token">Token Details</a></li>
+      <li><a href="#roadmap">Roadmap</a></li>
+	    <li><a href="#partner">Partner</a></li>
+      <li><a href="#team">Team</a></li>
+      <!--<li><a href="#advisers">Advisers</a></li>-->
+      <li><a href="#contact">Contact</a></li>
+    </ul>
     <nav> 
       <a href="" id="menuToggle" title="show menu"><span class="navClosed"></span></a> 
+      <label for="drop-1" href="#" class="nav-dropdown toggle">Media
+        <i class="fa fa-angle-down"></i>
+      </label>
+      <a href="#">Media</a>
+      <input type="checkbox" id="drop-1" />
+      <div class="drop-content">
+        <p><a href="#partners" onclick="closeSidebar(this)">Partners</a></p>
+        <p><a href="#exchanges" onclick="closeSidebar(this)">Exchanges</a></p>
+        <p><a href="#videos" onclick="closeSidebar(this)">Videos</a></p>
+        <p><a href="#articles" onclick="closeSidebar(this)">Articles</a></p>
+        <p><a href="#blog" onclick="closeSidebar(this)">Blog</a></p>
+      </div>
       <a href="#about" onclick="closeSidebar(this)">About</a>
       <a href="#features" onclick="closeSidebar(this)">Features</a>
-      <a href="#token" onclick="closeSidebar(this)">Tokensale</a>
-      <a href="#media" onclick="closeSidebar(this)">Media</a>
+      <a href="#token" onclick="closeSidebar(this)">Token Details</a>
       <a href="#roadmap" onclick="closeSidebar(this)">Roadmap</a>
 	    <a href="#partner" onclick="closeSidebar(this)">Partner</a>
       <a href="#team" onclick="closeSidebar(this)">Team</a>
       <!--<a href="#advisers" onclick="closeSidebar(this)">Advisers</a>-->
       <a href="#contact" onclick="closeSidebar(this)">Contact</a>
+      <div class="whitepaper-mobile">
+        <a href="#participateform" class="open-popup-link">Participate</a> 
+      </div>
+      <div class="whitepaper-mobile">
+      <a href="WGreenPay-whitepaper-v2.0.pdf" target="_blank">Whitepaper</a>
+      </div>
       <div class="lng-mobile">
         <a href="index-kr.php">KR</a> &nbsp; <a href="index-zh.php">CN</a> 
       </div>
@@ -185,10 +214,41 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <!------------ Home banner start ------------>
 <div id="home">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-sm-12 v-pad">
+        <div class="flex-container">
+          <div class="flexslider">
+            <ul class="slides">
+              <li><img src="img/screenshot-1.png" alt=""></li>
+              <li><img src="img/screenshot-2.png" alt=""></li>
+              <li><img src="img/screenshot-3.png" alt=""></li>
+              <li><img src="img/screenshot-4.png" alt=""></li>
+              <li><img src="img/screenshot-5.png" alt=""></li>
+              <li><img src="img/screenshot-6.png" alt=""></li>
+              <li><img src="img/screenshot-7.png" alt=""></li>
+              <li><img src="img/screenshot-8.png" alt=""></li>
+              <li><img src="img/screenshot-9.png" alt=""></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-12 v-pad" style="padding-top:40px;">
+        <h1 class="green-text">Hooxi</h1>
+        <h1 style="text-transform:none;">Blockchain for Social Good</h1>
+        <br><br>
+        <h4>HOOXI mobile application is a gamified mobile social network service that encourages the public to perform and share results of greenhouse gas emissions reduction missions.</h4>
+        <br><br><br><br>
+        <div class="dl-btn"><a href=""><img src="img/download-appstore.png" alt=""></a></div>
+        <div class="dl-btn"><a href=""><img src="img/download-googleplay.png" alt=""></a></div>
+        <div style="clear:both;"></div>
+      </div>
+    </div>
+  </div>
+  <!--
   <div class="home-container">
     <h1>JOIN <span style="color:#87b44c;">W GREEN PAY</span> HOOXI CAMPAIGN!</h1>
     <h4>The most innovative social carbon credit platform to be launched.</h4>
-    <!--
     <br>
     <table>
       <tr valign="top"> 
@@ -233,7 +293,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="sale-container">
       <div class="privatesale">0</div>
       <div class="publicsale">200,000,000 WGP</div>
-    </div>-->
+    </div>
     <br>
     <br>
     <br>
@@ -241,28 +301,454 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <li><a href="#participateform" class="open-popup-link btn" target="_blank">Subscribe</a></li>
       <li><a href="WGreenPay-whitepaper-v2.0.pdf" target="_blank" class="btn">Whitepaper</a></li>
     </ul>
-  </div>
+  </div>-->
+  
 </div>
 <!------------ Home banner end ------------>
+
+<!------------ Media start ------------>
+<section id="partners">
+  <div class="container">
+    <h3 class="black-text bold">Partners</h3>
+    <div class="h-line h-line-s"></div>
+    <div class="row">
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-kric.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-actwo.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-theblockpost.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-coinbeat.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-factblock.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-novum.jpg" alt=""></div>
+    </div>
+    <div class="row">
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-blockmonsterlab.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-bitmonex.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-lightyear.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-fleta.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-icon.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-orbs.jpg" alt=""></div>
+    </div>
+    <div class="row">
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-emusic.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-wings.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-daehyun.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-kona.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-hankyungbp.jpg" alt=""></div>
+      <div class="col-md-2 col-sm-2 col-xs-4 v-pad"><img src="img/partner-kweather.jpg" alt=""></div>
+    </div>
+  </div>
+</section>
+<div class="container" style="border-top:1px solid #eeeeee;"></div>
+<section id="exchanges">
+  <div class="container">
+    <h3 class="black-text bold">Exchanges</h3>
+    <div class="h-line h-line-s" style="background:#001a3d;"></div>
+    <div class="row">
+      <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><<img src="img/exchanges-gdac.jpg" alt=""></div>
+      <div class="col-md-3 col-sm-3 col-xs-6 v-pad"><<img src="img/exchanges-huobi.jpg" alt=""></div>
+    </div>
+  </div>
+</section>
+<div class="media-bg">
+  <section id="videos">
+    <div class="container">
+      <h3 class="bold">Video</h3>
+      <div class="h-line h-line-s"></div>
+      <div class="row">
+      <div class="flex-container">
+        <div class="media-slider">
+          <ul class="slides" style="text-align:center;">
+            <li>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <a href="https://www.youtube.com/watch?v=VB2oOM2MlcQ" class="video-pop-up"><img src="img/video-thumb-1.jpg" alt=""></a>
+                <br><br>
+                <h4>GHG Reduction Campaign (HOOXI Campaign) Declaration Ceremony</h4>
+              </div>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <a href="https://www.youtube.com/watch?v=QXNmaJxk0Nc" class="video-pop-up"><img src="img/video-thumb-2.jpg" alt=""></a>
+                <br><br>
+                <h4>Beautiful World by W-Foundation</h4>
+              </div>
+            </li>
+            <li>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <a href="https://www.youtube.com/watch?v=0KNCErbpYvc" class="video-pop-up"><img src="img/video-thumb-3.jpg" alt=""></a>
+                <br><br>
+                <h4>Talk about Love by W-Foundation</h4>
+              </div>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <a href="https://www.youtube.com/watch?v=j47MC3V9qMM" class="video-pop-up"><img src="img/video-thumb-4.jpg" alt=""></a>
+                <br><br>
+                <h4>Together As One by W-Foundation</h4>
+              </div>
+            </li>
+            <li>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <a href="https://www.youtube.com/watch?v=SxTATUzroa0" class="video-pop-up"><img src="img/video-thumb-5.jpg" alt=""></a>
+                <br><br>
+                <h4>GHG Reduction Campaign (HOOXI Campaign) Committee Inauguration Ceremony</h4>
+              </div>
+		          <div class="col-md-6 col-sm-6 v-pad">
+                <a href="https://www.youtube.com/watch?v=vaG1GzVZS88" class="video-pop-up"><img src="img/video-thumb-8.jpg" alt=""></a>
+                <br><br>
+                <h4>Hooxi App - The Law of the Jungle</h4>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+  <div class="container" style="border-top:1px solid #4dbf94;"></div>
+  <section id="articles">
+    <div class="container">
+      <h3 class="bold">Articles</h3>
+      <div class="h-line h-line-s"></div>
+      <div class="row">
+      <div class="flex-container">
+        <div class="articles-slider">
+          <ul class="slides">
+            <li>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/media-logos/media-uncc.jpg" alt=""></div>
+                  <br><br>
+                  <h4>Taking Climate Action Via a Gaming App</h4>
+                  <br>
+                  <a href="https://unfccc.int/news/taking-climate-action-via-a-gaming-app" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/media-logos/media-coinbeat.png" alt=""></div>
+                  <br><br>
+                  <h4>W-Foundation Announces W Green Pay Token Supply Reduction</h4>
+                  <br>
+                  <a href="https://coinbeat.com/w-foundation-announces-w-green-pay-token-supply-reduction/ " target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/media-logos/media-medium.png" alt=""></div>
+                  <br><br>
+                  <h4>W-Foundation’s GHG campaign mobile app HOOXI ranks 4th on Google Play & App Store</h4>
+                  <br>
+                  <a href="https://medium.com/wgreenpay/hooxi-app-w-foundations-ghg-campaign-mobile-application-ranks-4th-on-google-play-7c2c3dc96cd4 " target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <!--<div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-eng-marketsinsider.png" alt="">
+                  <br><br>
+                  <p>MARKETINSIDER</p>
+                  <br>
+                  <h4>Korea's Largest Government-backed HOOXI Campaign Ventures into Blockchain</h4>
+                  <br>
+                  <a href="http://markets.businessinsider.com/news/stocks/korea-s-largest-government-backed-hooxi-campaign-ventures-into-blockchain-1024702109" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-eng-cointelegraph.png" alt="">
+                  <br><br>
+                  <p>COINTELEGRAPH</p>
+                  <br>
+                  <h4>Korea’s Government-backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System For GHG Reduction by Individuals</h4>
+                  <br>
+                  <a href="https://cointelegraph.com/press-releases/koreas-government-backed-hooxi-campaign-issues-w-green-pay-wgp-first-blockchain-enabled-reward-system-for-ghg-reduction-by-individuals" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-eng-nulltx.png" alt="">
+                  <br><br>
+                  <p>NULLTX</p>
+                  <br>
+                  <h4>Korea’s Government-backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System For GHG Reduction by Individuals</h4>
+                  <br>
+                  <a href="https://nulltx.com/koreas-government-backed-hooxi-campaign-issues-w-green-pay-wgp-first-blockchain-enabled-reward-system-for-ghg-reduction-by-individuals/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>-->
+            </li>
+            <li>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/media-logos/media-deconomy.jpg" alt=""></div>
+                  <br><br>
+                  <h4>W-Foundation Participates At Deconomy As Official Partner</h4>
+                  <br>
+                  <a href="https://coinbeat.com/w-foundation-participates-at-deconomy-as-official-partner/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/media-logos/media-medium.png" alt=""></div>
+                  <br><br>
+                  <h4>W-Foundation Cooperates with United Nations Framework Convention on Climate Change (UNFCCC) on Sustainable Development Goals</h4>
+                  <br>
+                  <a href="https://medium.com/wgreenpay/w-foundation-cooperates-with-united-nations-framework-convention-on-climate-change-unfccc-on-c1d3f0a88e0d" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/media-logos/media-hooxiapp.jpg" alt=""></div>
+                  <br><br>
+                  <h4>HOOXI App & HOOXI Mall Officially Launched!</h4>
+                  <br>
+                  <a href="https://medium.com/wgreenpay/hooxi-app-hooxi-mall-officially-launched-ccd498a31f59" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <!--
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-eng-yahoo.png" alt="">
+                  <br><br>
+                  <p>YAHOO FINANCE</p>
+                  <br>
+                  <h4>Korea’s Government-backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System For GHG Reduction by Individuals</h4>
+                  <br>
+                  <a href="https://finance.yahoo.com/news/koreas-government-backed-hooxi-campaign-130000805.html" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-eng-bitcoinexchange.png" alt="">
+                  <br><br>
+                  <p>BITCOINEXCHANGEGUIDE</p>
+                  <br>
+                  <h4>Korean Government-backed HOOXI WPG Campaign Launches into Blockchain</h4>
+                  <br>
+                  <a href="https://bitcoinexchangeguide.com/korean-government-backed-hooxi-wpg-campaign-launches-into-blockchain/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-eng-kplctv.png" alt="">
+                  <br><br>
+                  <p>KPLCTV</p>
+                  <br>
+                  <h4>Korea's Largest Government-backed HOOXI Campaign Ventures into Blockchain</h4>
+                  <br>
+                  <a href="http://www.kplctv.com/story/38203276/koreas-largest-government-backed-hooxi-campaign-ventures-into-blockchain" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>-->
+            </li>
+            <li>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/media-logos/media-medium.png" alt=""></div>
+                  <br><br>
+                  <h4>Gangwon Provincial Government to Host ‘Korea Carbon Forum 2018’ with W-Foundation</h4>
+                  <br>
+                  <a href="https://medium.com/wgreenpay/korean-government-hosted-korea-carbon-forum-2018-distributes-w-green-pay-tokens-to-forum-bb8541f68094" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/media-logos/media-actwo.jpg" alt=""></div>
+                  <br><br>
+                  <h4>W-Foundation and Actwo Technologies partner to inject real economy into blockchain, bringing it to the mainstream</h4>
+                  <br>
+                  <a href="https://medium.com/wgreenpay/w-foundation-and-actwo-technologies-partner-to-inject-the-real-economy-into-blockchain-and-bring-72523b8c79d2" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/blog-1.jpg" alt=""></div>
+                  <br><br>
+                  <h4>ICON (ICX) Partners W Foundation On Global Green Gas Reduction Compensation</h4>
+                  <br>
+                  <a href="https://ethereumworldnews.com/icon-icx-partners-w-foundation-on-global-green-gas-reduction-compensation/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <!--
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-eng-abcfoxmontana.png" alt="">
+                  <br><br>
+                  <p>ABCFOXMANTANA</p>
+                  <br>
+                  <h4>Korea's Largest Government-backed HOOXI Campaign Ventures into Blockchain</h4>
+                  <br>
+                  <a href="http://www.abcfoxmontana.com/story/38203276/koreas-largest-government-backed-hooxi-campaign-ventures-into-blockchain" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-eng-fox14tv.png" alt="">
+                  <br><br>
+                  <p>FOX14TV</p>
+                  <br>
+                  <h4>Korean Government-backed HOOXI WPG Campaign Launches into Blockchain</h4>
+                  <br>
+                  <a href="http://www.fox14tv.com/story/38203276/koreas-largest-government-backed-hooxi-campaign-ventures-into-blockchain" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-eng-findclimateanswers.png" alt="">
+                  <br><br>
+                  <p>FINDCLIMATEANSWERS</p>
+                  <br>
+                  <h4>Korea’s Government-Backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System for GHG Reduction by Individuals</h4>
+                  <br>
+                  <a href="http://www.findclimateanswers.com/koreas-government-backed-hooxi-campaign-issues-w-green-pay-wgp-first-blockchain-enabled-reward-system-for-ghg-reduction-by-individuals/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>-->
+            </li>
+            <li>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/media-logos/media-eng-bitcoinexchange.png" alt=""></div>
+                  <br><br>
+                  <h4>W Green Pay ICO (WGP Token): HOOXI Blockchain Social Carbon Credits?</h4> 
+                  <br>
+                  <a href="https://bitcoinexchangeguide.com/w-green-pay-ico-wgp-token/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <div class="blog-img"><img src="img/media-logos/media-medium.png" alt=""></div>
+                  <br><br>
+                  <h4>W Green Pay and KONA I: Korea’s First Crypto Debit Card</h4> 
+                  <br>
+                  <a href="https://medium.com/wgreenpay/w-green-pay-and-kona-i-koreas-first-crypto-debit-card-60e2f24c80a8" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+              <!--
+              <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-eng-afp.png" alt="">
+                  <br><br>
+                  <p>AFP</p>
+                  <br>
+                  <h4>W Green Pay (WGP) - The Global Solution to Greenhouse Gas (GHG) Reduction</h4>
+                  <br>
+                  <a href="https://www.afp.com/en/news/1314/w-green-pay-wgp-global-solution-greenhouse-gas-ghg-reduction-201805300056201" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+			        <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-eng-eth.png" alt="">
+                  <br><br>
+                  <p>Ethereum World News</p>
+                  <br>
+                  <h4>ICON (ICX) Partners W Foundation On Global Green Gas Reduction Compensation</h4>
+                  <br>
+                  <a href="https://ethereumworldnews.com/icon-icx-partners-w-foundation-on-global-green-gas-reduction-compensation/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>
+			        <div class="col-md-4 col-sm-4 v-pad">
+                <div class="media-articles">
+                  <img src="img/media-logos/media-eng-cryptorecorder.png" alt="">
+                  <br><br>
+                  <p>Crypto Recorder</p>
+                  <br>
+                  <h4>ICON Coin (ICX) Scoring New Partnerships while Working on Korean Crypto Hub</h4>
+                  <br>
+                  <a href="https://www.cryptorecorder.com/2018/09/01/icon-coin-icx-scoring-new-partnerships-while-working-on-korean-crypto-hub/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                </div>
+              </div>-->
+            </li>
+          </ul>
+          <div class="articles-viewall"><a href="media.html" target="_blank" class="btn white-btn articles-btn">View All</a></div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+  <div class="container" style="border-top:1px solid #4dbf94;"></div>
+  <section id="blog">
+    <div class="container">
+      <h3 class="bold">Blog</h3>
+      <div class="h-line h-line-s"></div>
+      <div class="row">
+        <div class="flex-container">
+          <div class="blog-slider">
+            <ul class="slides">
+              <li>
+                <div class="col-md-4 col-sm-4 v-pad">
+                  <div class="media-articles">
+                    <div class="blog-img"><img src="img/blog-1.jpg" alt=""></div>
+                    <br><br>
+                    <h4>ICON and W Green Pay’s Strategic Partnership</h4>
+                    <br>
+                    <a href="https://medium.com/wgreenpay/icon-and-w-green-pays-strategic-partnership-aadb6d99ded" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-4 v-pad">
+                  <div class="media-articles">
+                      <div class="blog-img"><img src="img/blog-2.jpg" alt=""></div>
+                      <br><br>
+                      <h4>W Green Pay Announces Partnership with Zeex to Enhance the Usability of WGP Tokens</h4>
+                      <br>
+                    <a href=" https://medium.com/wgreenpay/w-green-pay-announces-partnership-with-zeex-to-enhance-the-usability-of-wgp-tokens-4b1fbf075a24" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-4 v-pad">
+                  <div class="media-articles">
+                    <div class="blog-img"><img src="img/blog-3.jpg" alt=""></div>
+                    <br><br>
+                    <h4>DaeHyun Accounting Corporation to Support the HOOXI Campaign as a Strategic Investor and Partner</h4>
+                    <br>
+                    <a href="https://medium.com/wgreenpay/daehyun-accounting-corporation-to-support-the-hooxi-campaign-as-a-strategic-investor-and-partner-a52c5e25c713" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="col-md-4 col-sm-4 v-pad">
+                  <div class="media-articles">
+                    <div class="blog-img"><img src="img/blog-4.jpg" alt=""></div>
+                    <br><br>
+                    <h4>Exciting New Partnership Announcement for W-Foundation</h4>
+                    <br>
+                    <a href="https://medium.com/wgreenpay/exciting-new-partnership-announcement-for-w-foundation-9c6cd2aa99ce" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-4 v-pad">
+                  <div class="media-articles">
+                    <div class="blog-img"><img src="img/blog-6.jpg" alt=""></div>
+                    <br><br>
+                    <h4>Press Release: Stellar to Power W-Foundation’s HOOXI Campaign W Green Pay (WGP) Tokens</h4>
+                    <br>
+                    <a href="https://medium.com/wgreenpay/press-release-stellar-to-power-w-foundations-hooxi-campaign-w-green-pay-wgp-tokens-a70f0d630907" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <div class="articles-viewall"><a href="blog.html" target="_blank" class="btn white-btn articles-btn">View All</a></div>
+          </div>
+        </div>
+      </div>  
+    </div>
+  </section>
+</div>
+<section style="padding:40px 0;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+		    <a href="https://icobench.com/ico/w-green-pay" target="_blank"><img src="img/media-logos/ICObench.png"></a>
+      </div>
+      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+        <a href="https://www.icoalert.com/?q=w%20green%20pay&is_v=1" target="_blank"><img src="img/media-logos/icoalert2.png"></a>
+      </div>
+      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+        <a href="https://www.coinhills.com/ico/view/w-green-pay/" target="_blank"><img src="img/media-logos/coinhills.png"></a>
+      </div>
+      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
+        <a href="https://www.trackico.io/ico/w-green-pay/" target="_blank"><img src="img/media-logos/TrackICO.png"></a>
+      </div>
+    </div>
+  </div>
+</section>
+<!------------ Media end ------------>
 
 <!------------ About start ------------>
 <section id="about">
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-sm-12 v-pad">
-        <div class="flex-container">
-          <div class="flexslider">
-            <ul class="slides">
-              <li><img src="img/screenshot1.png" alt=""></li>
-              <li><img src="img/screenshot2.png" alt=""></li>
-              <li><img src="img/screenshot3.png" alt=""></li>
-              <li><img src="img/screenshot4.png" alt=""></li>
-              <li><img src="img/screenshot5.png" alt=""></li>
-              <li><img src="img/screenshot6.png" alt=""></li>
-              <li><img src="img/screenshot7.png" alt=""></li>
-            </ul>
-          </div>
-        </div>
+        <img src="img/about.jpg" alt="">
       </div>
       <div class="col-md-6 col-sm-12 v-pad" style="padding-top:40px;">
         <h1>About</h1>
@@ -312,15 +798,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </div>
-    <br>
-    <br>
+    <br><br>
     <h2>W-Foundation</h2>
     <br>
     <p>An international non-profit organization established in 2012 and a designated donation organization entitled by the Ministry of Strategy and Finance of Korea, is the philanthropic foundation behind the HOOXI campaign. Using the anticipated HOOXI mobile application, individuals can perform GHG reduction missions to collect mission points, which can be exchanged for WGP.</p>
     <br>
     <h2><span style="color:#fff;">HOOXI</span> Application</h2>
     <br>
-    <p>HOOXI App will track and aggregate individuals’ GHG reduction data, based on which W-Foundation will be allocated KOC (Korean Offset Credit) - carbon emission units traded in the Korean market. Through HOOXI campaign, financial incentives of KOC-based carbon trading will no longer remain as the sole domain of corporations and institutions and will be open to individuals.</p>
+    <p>HOOXI App will track and aggregate individuals’ GHG reduction data, based on which W-Foundation will be allocated National Emission Permits (NEPs) - carbon emission units traded in the Korean market. Through HOOXI campaign, financial incentives of NEP-based carbon trading will no longer remain as the sole domain of corporations and institutions and will be open to individuals.</p>
+    <br>
+    <h2>W Exchange</h2>
+    <br>
+    <p>W Exchange, the major trading platform for W Green Pay, expects to launch in March 2019. W Exchange is expected to be a KETS-eligible business entity. The allocated NEPs of HOOXI App are expected to trade at KRX using W Exchange.</p>
   </div>
 </section>
 <!--
@@ -566,7 +1055,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div> 
   </div>
-</section>-->
+</section>
 <section style="background:#001a3d;" class="emission">
   <div class="container">
     <div class="row">
@@ -603,7 +1092,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div> 
     </div>
   </div>
-</section>
+</section>-->
 <!------------ About end ------------>
 
 <!------------ Features start ------------>
@@ -651,22 +1140,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!------------ Token sale start ------------>
 <section id="token">
   <div class="container">
-    <h1>Token Sales</h1>
+    <h1>Token Details</h1>
     <div class="h-line"></div>
-      <div class="col-md-4 token-graph">
-        <img src="img/chart-tokensale.png" alt="">
-        <br>
-        <br>
-        <p>The total number of W Green Pay issued will remain constant at 1 billion tokens.</p>
-        <br>
-        <p>Of the total 1 billion WGP, only 200 million WGP (20%) will be open for private and public sale, and 800 million (80%) WGP will remain without sale at this ICO event. The use of the 800million unsold WGP is as following:</p>
-        <ul>
-          <li>200 million (20%): held by the WGP issuer (lock-up for period of six (6) months from the end of public sale)</li>
-          <li>200 million (20%): allocated to HOOXI App to provide as reward to HOOXI Campaign participants</li>
-          <li>400 million (40%): reserved for future sale (lock-up for period of six (6) months from the end of public sale)</li>
-        </ul>
-      </div>
-      <div class="col-md-8 token-table">
+      <div class="col-md-6 token-table">
         <table>
             <tr valign="top">
               <td class="left-table" style="padding-top:40px;">Token Name</td>
@@ -681,332 +1157,46 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <td>ERC20</td>
             </tr>
             <tr valign="top">
+              <td class="left-table">Token Decimals</td>
+              <td>18</td>
+            </tr>
+            <tr valign="top">
               <td class="left-table">Token Supply</td>
-              <td>Fixed supply of 1 billion, 200 million for sale</td>
+              <td>600million (reduced from initial 1billion)</td>
             </tr>
             <tr valign="top">
-              <td class="left-table">Currency Accepted</td>
-              <td>ETH / BTC / XLM / USD</td>
+              <td class="left-table">TGE</td>
+              <td>Oct 2, 2018</td>
             </tr>
             <tr valign="top">
-              <td class="left-table">Token Price</td>
-              <td>US$2 per token</td>
+              <td class="left-table">Lock-up Period</td>
+              <td>Varies up to 1 month~12 months from TGE</td>
             </tr>
             <tr valign="top">
-              <td class="left-table">Private Sale Date</td>
-              <td>May to September, 2018</td>
-            </tr>
-            <tr valign="top">
-              <td class="left-table">Public Sale Date</td>
-              <td>1st ~ 14th October 2018</td>
-            </tr>
-            <tr valign="top">
-              <td class="left-table">Soft Cap</td>
-              <td>US$25 million</td>
-            </tr>
-            <tr valign="top">
-              <td class="left-table">Hard Cap</td>
-              <td>200 million WGP</td>
-            </tr>
-            <tr valign="top">
-              <td class="left-table" style="padding-bottom:40px;">Lock-up Period</td>
-              <td style="padding-bottom:40px;">W Green Pay held by the Team shall be subjected to a lock-up period of six (6) months from the end of public sale (14th of October, 2018)</td>
+              <td class="left-table" style="padding-bottom:40px;">Exchanges Listed</td>
+              <td style="padding-bottom:40px;">Huobi Korea, GDAC Exchange<br>(as of April 2019)</td>
             </tr>
         </table>
+      </div>
+      <div class="col-md-6 token-graph">
+        <h3>TOKEN <br>ALLOCATION</h3>
+        <div class="h-line"></div> 
+        <img src="img/chart-tokensale.png" alt="">
+        <br>
+        <br>
+        <p>In W Green Pay, there are no free tokens allocated for team, advisers, or partners.</p>
+        <br>
+        <p>Token allocation breakdown are as following:</p>
+        <ul>
+          <li><span class="green-text" style="font-size:18px; font-weight:700;">33% for ICO</span><br>33% of tokens will be allocated for initial coin offering via private and public sale.</li>
+          <li><span class="green-text" style="font-size:18px; font-weight:700;">33% for HOOXI App Reward</span><br>33% of tokens will be provided as reward tokens for HOOXI App.</li>
+          <li><span class="green-text" style="font-size:18px; font-weight:700;">17% for Reserve for Future Sale</span><br>17% of tokens are reserved for potential block sale to strategic partner interested in co-promotion of HOOXI Campaign.</li>
+          <li><span class="green-text" style="font-size:18px; font-weight:700;">17% for Issuer</span><br>17% of tokens to be reserved for force majeure, i.e. the case where HOOXI App needs WGP for rewards but supply for buyback in the market is limited.</li>
+        </ul>
       </div>
   </div>
 </section>
 <!------------ Token sale end ------------>
-
-<!------------ Media start ------------>
-<section id="media">
-  <div class="container">
-    <h1>Media</h1>
-    <div class="h-line" style="background:#001a3d;"></div>
-    <div class="row">
-      <div class="flex-container">
-        <div class="media-slider">
-          <ul class="slides" style="text-align:center;">
-            <li>
-              <div class="col-md-6 col-sm-6 v-pad">
-                <a href="https://www.youtube.com/watch?v=VB2oOM2MlcQ" class="video-pop-up"><img src="img/video-thumb-1.jpg" alt=""></a>
-                <br><br>
-                <h4>GHG Reduction Campaign (HOOXI Campaign) Declaration Ceremony</h4>
-              </div>
-              <div class="col-md-6 col-sm-6 v-pad">
-                <a href="https://www.youtube.com/watch?v=QXNmaJxk0Nc" class="video-pop-up"><img src="img/video-thumb-2.jpg" alt=""></a>
-                <br><br>
-                <h4>Beautiful World by W-Foundation</h4>
-              </div>
-            </li>
-            <li>
-              <div class="col-md-6 col-sm-6 v-pad">
-                <a href="https://www.youtube.com/watch?v=0KNCErbpYvc" class="video-pop-up"><img src="img/video-thumb-3.jpg" alt=""></a>
-                <br><br>
-                <h4>Talk about Love by W-Foundation</h4>
-              </div>
-              <div class="col-md-6 col-sm-6 v-pad">
-                <a href="https://www.youtube.com/watch?v=j47MC3V9qMM" class="video-pop-up"><img src="img/video-thumb-4.jpg" alt=""></a>
-                <br><br>
-                <h4>Together As One by W-Foundation</h4>
-              </div>
-            </li>
-            <li>
-              <div class="col-md-6 col-sm-6 v-pad">
-                <a href="https://www.youtube.com/watch?v=SxTATUzroa0" class="video-pop-up"><img src="img/video-thumb-5.jpg" alt=""></a>
-                <br><br>
-                <h4>GHG Reduction Campaign (HOOXI Campaign) Committee Inauguration Ceremony</h4>
-              </div>
-		      <div class="col-md-6 col-sm-6 v-pad">
-                <a href="https://www.youtube.com/watch?v=vM34RZbFILQ&t=7s" class="video-pop-up"><img src="img/video-thumb-6.jpg" alt=""></a>
-                <br><br>
-                <h4>W Green Pay's Partnership Meeting with Zeex</h4>
-              </div>
-            </li>
-			<li>
-              <div class="col-md-6 col-sm-6 v-pad">
-                <a href="https://www.youtube.com/watch?v=5lrMelrVj9w" class="video-pop-up"><img src="img/video-thumb-7.jpg" alt=""></a>
-                <br><br>
-                <h4>Tutorial Video on utilizing WGP tokens on Zeex’s platform</h4>
-              </div>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div style="background:#00bc7b; width:100%; height:1px; margin:60px 0;"></div>
-    <h2>Articles</h2>
-    <br>
-    <br>
-    <div class="row">
-      <div class="flex-container">
-        <div class="articles-slider">
-          <ul class="slides">
-            <li>
-              <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <img src="img/media-logos/media-eng-marketsinsider.png" alt="">
-                  <br><br>
-                  <p>MARKETINSIDER</p>
-                  <br>
-                  <h4>Korea's Largest Government-backed HOOXI Campaign Ventures into Blockchain</h4>
-                  <br>
-                  <a href="http://markets.businessinsider.com/news/stocks/korea-s-largest-government-backed-hooxi-campaign-ventures-into-blockchain-1024702109" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-              <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <img src="img/media-logos/media-eng-cointelegraph.png" alt="">
-                  <br><br>
-                  <p>COINTELEGRAPH</p>
-                  <br>
-                  <h4>Korea’s Government-backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System For GHG Reduction by Individuals</h4>
-                  <br>
-                  <a href="https://cointelegraph.com/press-releases/koreas-government-backed-hooxi-campaign-issues-w-green-pay-wgp-first-blockchain-enabled-reward-system-for-ghg-reduction-by-individuals" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-              <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <img src="img/media-logos/media-eng-nulltx.png" alt="">
-                  <br><br>
-                  <p>NULLTX</p>
-                  <br>
-                  <h4>Korea’s Government-backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System For GHG Reduction by Individuals</h4>
-                  <br>
-                  <a href="https://nulltx.com/koreas-government-backed-hooxi-campaign-issues-w-green-pay-wgp-first-blockchain-enabled-reward-system-for-ghg-reduction-by-individuals/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <img src="img/media-logos/media-eng-yahoo.png" alt="">
-                  <br><br>
-                  <p>YAHOO FINANCE</p>
-                  <br>
-                  <h4>Korea’s Government-backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System For GHG Reduction by Individuals</h4>
-                  <br>
-                  <a href="https://finance.yahoo.com/news/koreas-government-backed-hooxi-campaign-130000805.html" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-              <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <img src="img/media-logos/media-eng-bitcoinexchange.png" alt="">
-                  <br><br>
-                  <p>BITCOINEXCHANGEGUIDE</p>
-                  <br>
-                  <h4>Korean Government-backed HOOXI WPG Campaign Launches into Blockchain</h4>
-                  <br>
-                  <a href="https://bitcoinexchangeguide.com/korean-government-backed-hooxi-wpg-campaign-launches-into-blockchain/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-              <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <img src="img/media-logos/media-eng-kplctv.png" alt="">
-                  <br><br>
-                  <p>KPLCTV</p>
-                  <br>
-                  <h4>Korea's Largest Government-backed HOOXI Campaign Ventures into Blockchain</h4>
-                  <br>
-                  <a href="http://www.kplctv.com/story/38203276/koreas-largest-government-backed-hooxi-campaign-ventures-into-blockchain" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <img src="img/media-logos/media-eng-abcfoxmontana.png" alt="">
-                  <br><br>
-                  <p>ABCFOXMANTANA</p>
-                  <br>
-                  <h4>Korea's Largest Government-backed HOOXI Campaign Ventures into Blockchain</h4>
-                  <br>
-                  <a href="http://www.abcfoxmontana.com/story/38203276/koreas-largest-government-backed-hooxi-campaign-ventures-into-blockchain" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-              <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <img src="img/media-logos/media-eng-fox14tv.png" alt="">
-                  <br><br>
-                  <p>FOX14TV</p>
-                  <br>
-                  <h4>Korean Government-backed HOOXI WPG Campaign Launches into Blockchain</h4>
-                  <br>
-                  <a href="http://www.fox14tv.com/story/38203276/koreas-largest-government-backed-hooxi-campaign-ventures-into-blockchain" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-              <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <img src="img/media-logos/media-eng-findclimateanswers.png" alt="">
-                  <br><br>
-                  <p>FINDCLIMATEANSWERS</p>
-                  <br>
-                  <h4>Korea’s Government-Backed HOOXI Campaign Issues W Green Pay (WGP), First Blockchain Enabled Reward System for GHG Reduction by Individuals</h4>
-                  <br>
-                  <a href="http://www.findclimateanswers.com/koreas-government-backed-hooxi-campaign-issues-w-green-pay-wgp-first-blockchain-enabled-reward-system-for-ghg-reduction-by-individuals/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <img src="img/media-logos/media-eng-afp.png" alt="">
-                  <br><br>
-                  <p>AFP</p>
-                  <br>
-                  <h4>W Green Pay (WGP) - The Global Solution to Greenhouse Gas (GHG) Reduction</h4>
-                  <br>
-                  <a href="https://www.afp.com/en/news/1314/w-green-pay-wgp-global-solution-greenhouse-gas-ghg-reduction-201805300056201" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-			  <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <img src="img/media-logos/media-eng-eth.png" alt="">
-                  <br><br>
-                  <p>Ethereum World News</p>
-                  <br>
-                  <h4>ICON (ICX) Partners W Foundation On Global Green Gas Reduction Compensation</h4>
-                  <br>
-                  <a href="https://ethereumworldnews.com/icon-icx-partners-w-foundation-on-global-green-gas-reduction-compensation/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-			  <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <img src="img/media-logos/media-eng-cryptorecorder.png" alt="">
-                  <br><br>
-                  <p>Crypto Recorder</p>
-                  <br>
-                  <h4>ICON Coin (ICX) Scoring New Partnerships while Working on Korean Crypto Hub</h4>
-                  <br>
-                  <a href="https://www.cryptorecorder.com/2018/09/01/icon-coin-icx-scoring-new-partnerships-while-working-on-korean-crypto-hub/" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-            </li>
-          </ul>
-          <div class="articles-viewall"><a href="media.html" target="_blank" class="btn white-btn articles-btn">View All</a></div>
-        </div>
-      </div>
-    </div>
-	<div style="background:#00bc7b; width:100%; height:1px; margin:60px 0;"></div>
-    <h2>Blog</h2>
-    <br>
-    <br>
-    <div class="row">
-	  <div class="flex-container">
-        <div class="blog-slider">
-          <ul class="slides">
-		    <li>
-			  <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <div class="blog-img"><img src="img/blog-1.jpg" alt=""></div>
-                  <br><br>
-                  <h4>ICON and W Green Pay’s Strategic Partnership</h4>
-                  <br>
-                  <a href="https://medium.com/wgreenpay/icon-and-w-green-pays-strategic-partnership-aadb6d99ded" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-		      <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <div class="blog-img"><img src="img/blog-2.jpg" alt=""></div>
-                  <br><br>
-                  <h4>W Green Pay Announces Partnership with Zeex to Enhance the Usability of WGP Tokens</h4>
-                  <br>
-                  <a href=" https://medium.com/wgreenpay/w-green-pay-announces-partnership-with-zeex-to-enhance-the-usability-of-wgp-tokens-4b1fbf075a24" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-			  <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <div class="blog-img"><img src="img/blog-3.jpg" alt=""></div>
-                  <br><br>
-                  <h4>DaeHyun Accounting Corporation to Support the HOOXI Campaign as a Strategic Investor and Partner</h4>
-                  <br>
-                  <a href="https://medium.com/wgreenpay/daehyun-accounting-corporation-to-support-the-hooxi-campaign-as-a-strategic-investor-and-partner-a52c5e25c713" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-			</li>
-			<li>
-			  <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <div class="blog-img"><img src="img/blog-4.jpg" alt=""></div>
-                  <br><br>
-                  <h4>Exciting New Partnership Announcement for W-Foundation</h4>
-                  <br>
-                  <a href="https://medium.com/wgreenpay/exciting-new-partnership-announcement-for-w-foundation-9c6cd2aa99ce" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-			  <div class="col-md-4 col-sm-4 v-pad">
-                <div class="media-articles">
-                  <div class="blog-img"><img src="img/blog-6.jpg" alt=""></div>
-                  <br><br>
-                  <h4>Press Release: Stellar to Power W-Foundation’s HOOXI Campaign W Green Pay (WGP) Tokens</h4>
-                  <br>
-                  <a href="https://medium.com/wgreenpay/press-release-stellar-to-power-w-foundations-hooxi-campaign-w-green-pay-wgp-tokens-a70f0d630907" target="_blank" style="color:#a9f04c; letter-spacing:1px;">READ MORE</a>
-                </div>
-              </div>
-			</li>
-		  </ul>
-		  <div class="articles-viewall"><a href="blog.html" target="_blank" class="btn white-btn articles-btn">View All</a></div>
-		</div>
-	  </div>
-	</div>
-    
-    <div class="row" style="margin-top:80px;">
-      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-		<a href="https://icobench.com/ico/w-green-pay" target="_blank"><img src="img/media-logos/ICObench.png"></a>
-      </div>
-      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        <a href="https://www.icoalert.com/?q=w%20green%20pay&is_v=1" target="_blank"><img src="img/media-logos/icoalert2.png"></a>
-      </div>
-      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        <a href="https://www.coinhills.com/ico/view/w-green-pay/" target="_blank"><img src="img/media-logos/coinhills.png"></a>
-      </div>
-      <div class="col-md-3 col-sm-6 col-xs-6 v-pad">
-        <a href="https://www.trackico.io/ico/w-green-pay/" target="_blank"><img src="img/media-logos/TrackICO.png"></a>
-      </div>
-    </div>
-  </div>
-</section>
-<!------------ Media end ------------>
 
 <!------------ Roadmap start ------------>
 <section id="roadmap">
@@ -1014,7 +1204,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <h1>Roadmap</h1>
     <div class="h-line"></div>
     <div class="example-centered">
-      <div class="col-xs-10 col-xs-offset-1 col-sm-12">
+      <div class="col-xs-12 col-sm-12">
         <ul class="timeline timeline-left">
           <li class="timeline-item">
             <div class="timeline-info"> </div>
@@ -1025,7 +1215,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h3 class="timeline-title">Dec 2017</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>HOOXI Campaign Declaration</h4></li>
+                  <li><h4>Announced <span class="bold">HOOXI GHG Reduction Campaign</span> at the National Assembly of Republic of Korea</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -1040,8 +1230,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h3 class="timeline-title">Apr 2018</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>HOOXI Campaign Committee Inauguration</h4></li>
-                  <li><h4>W Green Pay Certification in Singapore</h4></li>
+                  <li><h4>Established <span class="bold">HOOXI GHG Reduction Campaign Committee</span>, ceremony held at the National Assembly of Republic of Korea</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -1053,10 +1242,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">May - Sep, 2018</h3>
+                <h3 class="timeline-title">May 2018</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>W Green Pay Private Sale</h4></li>
+                  <li><h4>W Global Investment Pte. Ltd. (Issuing corp. of W Green Pay in Singapore) started <span class="bold">Private Sale</span> of W Green Pay</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -1068,10 +1257,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">July 27-29, 2018</h3>
+                <h3 class="timeline-title">July 2018</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>HOOXI Camping Festival</h4></li>
+                  <li><h4>Held <span class="bold">“HOOXI Camping Festival”</span> at Hansol Oak Valley to promote HOOXI Campaign (200,000 attendees)</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -1079,14 +1268,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </li>
           <li class="timeline-item">
             <div class="timeline-info"> </div>
-            <div class="timeline-marker timeline-inactive"></div>
+            <div class="timeline-marker"></div>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">Oct 1-14, 2018</h3>
+                <h3 class="timeline-title">Oct 2018</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>W Green Pay Public Sale</h4></li>
+                  <li><h4>Completed <span class="bold">Public Sale</span> of W Green Pay</h4></li>
+                  <li><h4>Launched <span class="bold">HOOXI App Closed Beta</span> (in Korean)</h4></li>
+                  <li><h4>Organized <span class="bold">“Korea Carbon Forum”</span> for 3,000 attendees (Host: Gangwon Province, Ministry of Science and ICT & Organizer: W-Foundation, Korea Research Institute on Climate Change, Korea Institute of Geoscience and Mineral Resources, IETA (International Electrical Testing Association))</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -1094,60 +1285,79 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </li>
           <li class="timeline-item">
             <div class="timeline-info"> </div>
-            <div class="timeline-marker timeline-inactive"></div>
-            <div class="timeline-content">
-              <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
-              <div class="timeline-detail">
-                <h3 class="timeline-title">Dec 5, 2018</h3>
-                <br>
-                <ul class="roadmap">
-                  <li><h4>HOOXI App Launch</h4></li>
-                </ul>
-              </div>
-              <div style="clear:both;"></div>
-            </div>
-          </li>
-          <li class="timeline-item">
-            <div class="timeline-info"> </div>
-            <div class="timeline-marker timeline-inactive"></div>
-            <div class="timeline-content">
-              <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
-              <div class="timeline-detail">
-                <h3 class="timeline-title">Oct 10-12, 2018</h3>
-                <br>
-                <ul class="roadmap">
-                  <li><h4>Korea Carbon Forum (PyeongChang Forum)</h4></li>
-                </ul>
-              </div>
-              <div style="clear:both;"></div>
-            </div>
-          </li>
-          <li class="timeline-item">
-            <div class="timeline-info"> </div>
-            <div class="timeline-marker timeline-inactive"></div>
+            <div class="timeline-marker"></div>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
                 <h3 class="timeline-title">Dec 2018</h3>
                 <br>
-                <h4>HOOXI Campaign Nature Conservation Project (North Pole Waste Cleanup)</h4>
                 <ul class="roadmap">
-                  <li><p>North Pole cleanup of man-made waste (plastic, metal, etc.) to protect the habitat of polar bears</p></li>
+                  <li><h4>Launched <span class="bold">HOOXI App Open Beta</span> (in Korean)</h4></li>
+                  <li><h4><span class="bold">First Listing in Crypto-Exchanges</span> in Korea: Huobi Korea & GDAC</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
             </div>
           </li>
-		  <li class="timeline-item">
+          <li class="timeline-item">
+            <div class="timeline-info"> </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+              <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
+              <div class="timeline-detail">
+                <h3 class="timeline-title">Mar 2019</h3>
+                <br>
+                <ul class="roadmap">
+                  <li><h4>Launched <span class="bold">HOOXI App Official Version</span> (in Korean)</h4></li>
+                  <li><h4>Launched <span class="bold">HOOXI Shopping Mall</span></h4></li>
+                </ul>
+              </div>
+              <div style="clear:both;"></div>
+            </div>
+          </li>
+          <li class="timeline-item">
             <div class="timeline-info"> </div>
             <div class="timeline-marker timeline-inactive"></div>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">2019</h3>
+                <h3 class="timeline-title">May 2019</h3>
                 <br>
                 <ul class="roadmap">
-                  <li><h4>W Exchange Launch</h4></li>
+                  <li><h4><span class="bold">Multi-Language HOOXI App</span> to be launched (English, Chinese, Japanese)</h4></li>
+                  <li><h4><span class="bold">Token Swap</span> (for 40% total supply reduction & smart contract upgrade) to be completed</h4></li>
+                </ul>
+              </div>
+              <div style="clear:both;"></div>
+            </div>
+          </li>
+		      <li class="timeline-item">
+            <div class="timeline-info"> </div>
+            <div class="timeline-marker timeline-inactive"></div>
+            <div class="timeline-content">
+              <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
+              <div class="timeline-detail">
+                <h3 class="timeline-title">1stH 2019</h3>
+                <br>
+                <ul class="roadmap">
+                  <li><h4>Expect <span class="bold">Global Crypto-Exchange Listing</span></h4></li>
+                </ul>
+              </div>
+              <div style="clear:both;"></div>
+            </div>
+          </li>
+          <li class="timeline-item">
+            <div class="timeline-info"> </div>
+            <div class="timeline-marker timeline-inactive"></div>
+            <div class="timeline-content">
+              <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
+              <div class="timeline-detail">
+                <h3 class="timeline-title">2ndH 2019</h3>
+                <br>
+                <ul class="roadmap">
+                  <li><h4>To continue <span class="bold">HOOXI Campaign & HOOXI App Global Expansion</span> in various countries as part of the national governments’ initiatives to support environmental sustainability</h4></li>
+                  <li><h4>To implement planned enhancements to <span class="bold">W Green Pay tokenomics</span>, including staggered staking membership benefits for HOOXI App users, settlement process optimization for HOOXI Mall partners, philanthropic donation functionalities, and more</h4></li>
+                  <li><h4>Introduction of <span class="bold">HOOXI Point system</span> on HOOXI Shopping Mall to further enhance the UX/UI for HOOXI App users and WGP holders</h4></li>
                 </ul>
               </div>
               <div style="clear:both;"></div>
@@ -1168,14 +1378,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="h-line"></div>
     <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#wooklee" class="open-popup-link"><div class="team-img"><img src="img/team-wook-lee.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Wook Lee</h3>
-          <h4>Chairman</h4>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#youreelee" class="open-popup-link"><div class="team-img"><img src="img/team-youree-lee.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1183,7 +1385,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>Co-Founder/CEO<br>(Adjunct Professor, Business School of Hanyang University)</h4>
         </div>
       </div>
-	  <div class="col-md-3 col-sm-6 v-pad">
+      <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#wooklee" class="open-popup-link"><div class="team-img"><img src="img/team-wook-lee.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Wook Lee</h3>
+          <h4>Chairman</h4>
+        </div>
+      </div>
+	    <div class="col-md-3 col-sm-6 v-pad">
         <a href="#keon" class="open-popup-link"><div class="team-img"><img src="img/team-keon.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
@@ -1192,21 +1402,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#bruno" class="open-popup-link"><div class="team-img"><img src="img/team-bruno-wu.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Bruno Wu</h3>
-          <h4>Strategic Management Adviser</h4>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-3 col-sm-6 v-pad">
         <a href="#stas" class="open-popup-link"><div class="team-img"><img src="img/team-stas.jpeg" alt=""></div></a>
         <br>
         <div class="team-title">
           <h3>Stas Oskin</h3>
           <h4>Technology, R&D Adviser<br>(Co-Founder of Wings)</h4>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#sebastian" class="open-popup-link"><div class="team-img"><img src="img/team-sebastian.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>SEBASTIAN STUPURAC</h3>
+          <h4>Blockchain Product Adviser<br>(Co-Founder of Wings)</h4>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Chris Low</h3>
+          <h4>CTO</h4>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 v-pad">
@@ -1217,48 +1435,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>Partnership Adviser <br>(Founder of Beyond Blocks)</h4>
         </div>
       </div>
-	    <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#guy" class="open-popup-link"><div class="team-img"><img src="img/team-melamed.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Guy Melamed</h3>
-          <h4>Strategic Business Adviser<br>(Co-Founder, CEO of Zeex)</h4>
-        </div>
-      </div>
       <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#sebastian" class="open-popup-link"><div class="team-img"><img src="img/team-sebastian.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>SEBASTIAN STUPURAC</h3>
-          <h4>Blockchain Product Adviser<br>(Co-Founder of Wings)</h4>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#chris" class="open-popup-link"><div class="team-img"><img src="img/team-chris.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Chris Low</h3>
-          <h4>CTO</h4>
-        </div>
-      </div>
-	    <div class="col-md-3 col-sm-6 v-pad">
         <a href="#jeremy" class="open-popup-link"><div class="team-img"><img src="img/team-jeremy.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
           <h3>Jeremy Khoo</h3>
           <h4>Technology and Investments Adviser</h4>
         </div>
-      </div>
-      <div class="col-md-3 col-sm-6 v-pad">
-        <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
-        <br>
-        <div class="team-title">
-          <h3>Chen Shun Teng</h3>
-          <h4>Business Adviser<br>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</h4>
-        </div>
-      </div>
+      </div>  
+    </div>
+    <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#irwin" class="open-popup-link"><div class="team-img"><img src="img/team-irwin.jpg" alt=""></div></a>
         <br>
@@ -1267,13 +1453,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>Crypto Adviser</h4>
         </div>
       </div>
+      <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#chen" class="open-popup-link"><div class="team-img"><img src="img/team-chen-shun-teng.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Chen Shun Teng</h3>
+          <h4>Business Adviser <br>(Group Strategy & Corporate Affairs Manager at WWRC Holding Pte. Ltd. “WWRC Group”)</h4>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#coco" class="open-popup-link"><div class="team-img"><img src="img/team-coco.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Coco Ong</h3>
+          <h4>Marketing & Communications Adviser</h4>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 v-pad">
+        <a href="#jonas" class="open-popup-link"><div class="team-img"><img src="img/team-jonas.jpg" alt=""></div></a>
+        <br>
+        <div class="team-title">
+          <h3>Jonas Larsson</h3>
+          <h4>Crypto Adviser</h4>
+        </div>
+      </div>
     </div>
-	  <div class="row">
+    <div class="row">
       <div class="col-md-3 col-sm-6 v-pad">
         <a href="#sonic" class="open-popup-link"><div class="team-img"><img src="img/team-sonic-zhang.jpg" alt=""></div></a>
         <br>
         <div class="team-title">
-          <h3>SONIC ZHANG</h3>
+          <h3>Sonic Zhang</h3>
           <h4>Crypto Investment, Tokenomics Specialist / Technology Adviser<br>(Founder & Managing Director of LedgerZ Capital)</h4>
         </div>
       </div>
@@ -1285,7 +1495,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h4>Blockchain Industry Expert, Adviser<br>(Co-Founder of Dfund, Founder of Dcapital)</h4>
         </div>
       </div>
+      <div class="col-md-3 col-sm-6 v-pad">
+        <div class="team-img"><img src="img/team-michael.jpg" alt=""></div>
+        <br>
+        <div class="team-title">
+          <h3>Michael Lee</h3>
+          <h4>Marketing Lead</h4>
+        </div>
+      </div>
     </div>
+    <br>
+    <div class="team-advisor">
+      <div class="row">
+        <div class="col-md-9 col-sm-9 col-xs-7 v-pad">
+            <h3>Please click on the link for more information on over 160 leaders and influential figures advising W-Foundation and HOOXI campaign:</h3>
+          <br><br>
+          <h4>KOR: <a href="http://www.gcrfund.org/honorary_advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/honorary_advisors/</a></h4><br>
+            <h4>ENG: <a href="http://www.gcrfund.org/en/honorary-advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/en/honorary-advisors/</a></h4>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-5 v-pad" style="text-align: center;">
+          <img src="img/leaf-big.png" alt="">
+        </div>
+      </div>
+    </div>  
     <!--<div style="width:100%; background:rgba(255,255,255,0.2); height:1px; margin-top:60px;"></div>
     <section id="advisers" style="padding-bottom:60px;">
       <h1>ADVISERS (W-Foundation, HOOXI Campaign)</h1>
@@ -1511,19 +1743,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </section>	  
-    <div class="team-advisor">
-	  <div class="row">
-	    <div class="col-md-9 col-sm-9 col-xs-7 v-pad">
-          <h3>Please click on the link for more information on over 160 leaders and influential figures advising W-Foundation and HOOXI campaign:</h3>
- 	      <br><br>
- 	      <h4>KOR: <a href="http://www.gcrfund.org/honorary_advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/honorary_advisors/</a></h4><br>
-          <h4>ENG: <a href="http://www.gcrfund.org/en/honorary-advisors/" style="color:#87b44c;" target="_blank">http://www.gcrfund.org/en/honorary-advisors/</a></h4>
-		</div>
-		<div class="col-md-3 col-sm-3 col-xs-5 v-pad" style="text-align: center;">
-		  <img src="img/leaf-big.png" alt="">
-		</div>
-      </div>
-    </div>    
   </div>-->
 </section>
 <!------------ Team end ------------>
@@ -1537,15 +1756,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <h3 style="text-transform:none;">For enquiries, e-mail us at</h3>
       <h2 style="text-transform:none;"><a href="mailto:hello@wpay.sg" style="color:#87b44c;">hello@wpay.sg</a></h2>
       <ul class="social">
-        <li><a href="https://www.facebook.com/wgreenpay/" target="_blank"><div class="social-icon"><i class="fa fa-facebook" aria-hidden="true"></i></div></a></li>
-        <li><a href="https://twitter.com/WGreenPay" target="_blank"><div class="social-icon"><i class="fa fa-twitter" aria-hidden="true"></i></div></a></li>
-        <li><a href="https://t.me/wgreenpay" target="_blank"><div class="social-icon"><i class="fa fa-telegram" aria-hidden="true"></i></div></a></li>
-        <li><a href="https://medium.com/@wgreenpay" target="_blank"><div class="social-icon"><i class="fa fa-medium" aria-hidden="true"></i></div></a></li>
-		<li><a href="https://www.youtube.com/channel/UCsyIK_QmL4GYOu_ulXrChdg?view_as=subscriber" target="_blank"><div class="social-icon"><i class="fa fa-youtube" aria-hidden="true"></i></div></a></li>
-		<li><a href="https://www.linkedin.com/company/wgreenpay/" target="_blank"><div class="social-icon"><i class="fa fa-linkedin" aria-hidden="true"></i></div></a></li>
-		<li><a href="https://www.reddit.com/user/WGreenPay" target="_blank"><div class="social-icon"><i class="fa fa-reddit" aria-hidden="true"></i></div></a></li>
-		<li><a href="https://bitcointalk.org/index.php?topic=4432415.0" target="_blank"><div class="social-icon"><i class="fa fa-bitcoin" aria-hidden="true"></i></div></a></li>
-		<li><a href="https://en.bitcoinwiki.org/wiki/W_Green_Pay" target="_blank"><div class="social-icon"><i class="fa fa-btc" aria-hidden="true"></i></div></a></li>
+        <li><a href="https://www.facebook.com/wgreenpay/" target="_blank"><div class="social-icon"><i class="fab fa-facebook-f"></i></div></a></li>
+        <li><a href="https://twitter.com/WGreenPay" target="_blank"><div class="social-icon"><i class="fab fa-twitter" aria-hidden="true"></i></div></a></li>
+        <li><a href="https://t.me/wgreenpay" target="_blank"><div class="social-icon"><i class="fab fa-telegram" aria-hidden="true"></i></div></a></li>
+        <li><a href="https://medium.com/@wgreenpay" target="_blank"><div class="social-icon"><i class="fab fa-medium" aria-hidden="true"></i></div></a></li>
+		<li><a href="https://www.youtube.com/channel/UCsyIK_QmL4GYOu_ulXrChdg?view_as=subscriber" target="_blank"><div class="social-icon"><i class="fab fa-youtube" aria-hidden="true"></i></div></a></li>
+		<li><a href="https://www.linkedin.com/company/wgreenpay/" target="_blank"><div class="social-icon"><i class="fab fa-linkedin" aria-hidden="true"></i></div></a></li>
+		<li><a href="https://www.reddit.com/user/WGreenPay" target="_blank"><div class="social-icon"><i class="fab fa-reddit" aria-hidden="true"></i></div></a></li>
+		<li><a href="https://bitcointalk.org/index.php?topic=4432415.0" target="_blank"><div class="social-icon"><i class="fab fa-bitcoin" aria-hidden="true"></i></div></a></li>
+		<li><a href="https://en.bitcoinwiki.org/wiki/W_Green_Pay" target="_blank"><div class="social-icon"><i class="fab fa-btc" aria-hidden="true"></i></div></a></li>
       </ul>
     </div>
   </div>
@@ -1790,9 +2009,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <br><br><br>
   <p>Saber Aria is a strategist with over 10 years of experience in marketing strategies and building businesses. He is an early blockchain enthusiast, with a passion for blockchain technology and decentralization after investing in bitcoin in 2012. He is the founder of a prominent digital marketing agency and an advertising software company, each with a diverse portfolio of clients including several fortune 500 companies. He is the founder of ARIA256 blockchain accelerator and the co-founder of Beyond Blocks, a global conference for blockchain enthusiasts, investors and developers. Saber has a passion for seeking out and assisting emerging start-ups both as an advisor and investor through his accelerator program. He focuses his council not only on brilliant business ideas, but just as importantly, the teams behind each project.</p>
 </div>
+
+<div id="coco" class="white-popup mfp-hide sans">
+  <h3>COCO ONG</h3>
+  <h4>Marketing & Communications Adviser</h4>
+  <br><br><br>
+  <p>With experience in handling and facilitating events since her undergraduate
+days, Coco started her career at GaiGai Pte Ltd, the fastest growing dating
+agency in Singapore, leading an events team and has since organised,
+marketed and executed over 100 events to date. The Love @ S.E.A.A. event
+was also featured in a variety show on Mediacorp, a Singaporean
+broadcasting station in 2017. Moving into content marketing at Paktor Pte
+Ltd, Coco managed digital content and traditional marketing for the
+company, as well as influencer marketing which managed to achieve a low
+CPL comparable to programmatic advertising. Prior to this, Coco graduated
+from NTU with a Bachelor of Fine Arts in Photography and Digital Imaging.</p>
+</div>
+
+<div id="jonas" class="white-popup mfp-hide sans">
+  <h3>JONAS LARSSON</h3>
+  <h4>Crypto Adviser</h4>
+  <br><br><br>
+  <p>Jonas has over 3 years experience in client facing roles as well as in blockchain and cryptocurrency since Bitcoin’s early days.</p>
+  <br>
+  <p>Previously an Account Director at Black Marketing, he specialised in
+maximising international C-level clients personal branding, presence, and
+company brand on LinkedIn. Prior to this, he held a role of an Associate
+Engineer at TÜV SÜD PSB working in the Electrical & Electronics engineering
+field. Jonas graduated from RMIT University with Bachelor of Business in
+Marketing.</p>
+</div>
  
 
-<!---------- Team popup content end------------
+<!---------- Team popup content end------------>
 
 <!-- Add countdown --> 
 
@@ -1844,6 +2093,12 @@ $(window).scroll(function() {
   var addRemClass = $(window).scrollTop() > 0 ? 'addClass' : 'removeClass';
     $("nav #menuToggle span")[addRemClass]('black');
 });
+
+$(window).scroll(function() {
+  var addRemClass = $(window).scrollTop() > 0 ? 'addClass' : 'removeClass';
+    $(".lng-container .dropdown")[addRemClass]('bgChange');
+});
+
 
 </script>
 

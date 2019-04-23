@@ -1,15 +1,44 @@
 @charset "UTF-8";
 /* CSS Document */
 
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
 
 ul#menu {
-	display:none;
+    margin-right: 30px;
+}
+
+}
+
+@media (max-width: 1350px) {
+
+ul#menu {
+    display:none;
 }
 
 .lng-container {
 	display:none;
 }
+
+.whitepaper {
+    margin-right: 85px;
+}
+
+label.toggle+a {
+    display: none;
+  }
+
+  .toggle {
+    display: block;
+  }
+
+  [id^=drop]:checked+div.drop-content {
+    display: block;
+}
+
+}
+
+@media (max-width: 1200px) {
+
 
 .flexslider .flex-direction-nav .flex-next {
 	right:3%;
@@ -45,12 +74,11 @@ ul#menu {
 @media (max-width: 991px) {
 
 .flexslider .flex-control-nav {
-    left: 42% !important;
+    left: 36% !important;
 }
 
 
 .token-graph {
-	text-align:center;
 	height:auto;
 }
 
@@ -76,6 +104,14 @@ ul#menu {
     height: auto;
 }
 
+.timeline-icon {
+	width:10%;
+}
+
+.timeline-detail  {
+	width:90%;
+}
+
 }
 
 
@@ -86,6 +122,14 @@ h1 {font-size:30px;}
 h2 {font-size:24px;}
 h3 {font-size:20px;}
 h4 {font-size:16px;}
+
+.header-btn {
+    display:none;
+}
+
+.whitepaper-mobile {
+	display:inline-block;
+}
 
 #home {
 	padding-top:20%;
@@ -103,10 +147,6 @@ h4 {font-size:16px;}
 
 .publicsale {
 	right:0px;
-}
-
-.timeline-detail {
-	width:300px;
 }
 
 .team-img {
@@ -169,21 +209,42 @@ h4 {font-size:16px;}
 @media (max-width: 480px) {
 
 #logo {
-	width:180px;
-	height:27px;
-	margin-top:18px;
+	width:150px;
+	height:23px;
+	margin-top:20px;
 }	
 
 .lng-mobile {
     padding: 20px 0 20px 25px;
 }
+
+
+.whitepaper-mobile {
+	padding: 10px 0 10px 25px;
+}
+
+.nav-dropdown {
+    font-size: 13px;
+    padding: 15px 0 15px 25px;
+}
+
+.dl-btn {
+	width:130px;
+	margin-right:15px;
+}
 	
 .flexslider .flex-direction-nav .flex-next {
-	display:none;
+    right: 15%;
+    width: 14px; 
+    height: 27px;
+	background-size: contain;
 }
 
 .flexslider .flex-direction-nav .flex-prev {
-	display:none;
+    left: 15%;
+    width: 14px;
+    height: 27px;
+	background-size: contain;
 }
 
 .flexslider .flex-control-nav {
@@ -207,10 +268,6 @@ td {
 }
 
 .timeline-icon img {max-width:20px;}
-
-.timeline-detail {
-	width:170px;
-}
 
 .footer-container {
 	width:100%;

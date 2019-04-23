@@ -721,7 +721,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!------------ Token sale end ------------>
 
 <!------------ Media start ------------>
-<section id="media">
+<section id="media" class="media-bg">
   <div class="container">
     <h1>媒体</h1>
     <div class="h-line" style="background:#001a3d;"></div>

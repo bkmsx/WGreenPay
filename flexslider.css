@@ -151,7 +151,7 @@ html[xmlns] .slides { display: block; }
 	bottom:45%;
     width: 28px; 
     height: 54px;
-	z-index:5000;
+	z-index:100;
     -webkit-border-radius: 3px 0 0 3px;
     -moz-border-radius: 3px 0 0 3px;
     border-radius: 3px 0 0 3px;
@@ -163,7 +163,7 @@ html[xmlns] .slides { display: block; }
 	bottom:45%;
     width: 28px;
     height: 54px;
-	z-index:5000;
+	z-index:100;
     -webkit-border-radius: 0 3px 3px 0;
     -moz-border-radius: 0 3px 3px 0;
     border-radius: 0 3px 3px 0;
@@ -175,7 +175,7 @@ html[xmlns] .slides { display: block; }
 	top: -50px;
     width: 45px; 
     height: 45px;
-	z-index:5000;
+	z-index:100;
     -webkit-border-radius: 3px 0 0 3px;
     -moz-border-radius: 3px 0 0 3px;
     border-radius: 3px 0 0 3px;
@@ -187,7 +187,7 @@ html[xmlns] .slides { display: block; }
 	top:-50px;
     width: 45px;
     height: 45px;
-	z-index:5000;
+	z-index:100;
     -webkit-border-radius: 0 3px 3px 0;
     -moz-border-radius: 0 3px 3px 0;
     border-radius: 0 3px 3px 0;
@@ -199,7 +199,7 @@ html[xmlns] .slides { display: block; }
 	top: -50px;
     width: 45px; 
     height: 45px;
-	z-index:5000;
+	z-index:100;
     -webkit-border-radius: 3px 0 0 3px;
     -moz-border-radius: 3px 0 0 3px;
     border-radius: 3px 0 0 3px;
@@ -211,7 +211,7 @@ html[xmlns] .slides { display: block; }
 	top:-50px;
     width: 45px;
     height: 45px;
-	z-index:5000;
+	z-index:100;
     -webkit-border-radius: 0 3px 3px 0;
     -moz-border-radius: 0 3px 3px 0;
     border-radius: 0 3px 3px 0;
