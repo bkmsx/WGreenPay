@@ -163,12 +163,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <p><a href="#exchanges">Exchanges</a></p>
             <p><a href="#videos">Videos</a></p>
             <p><a href="#articles">Articles</a></p>
-            <p><a href="#blog">Blog</a></p>
+            <!--<p><a href="#blog">Blog</a></p>-->
           </div>
         </div>
       </li>
       <li><a href="#about">About</a></li>
-      <li><a href="#features">Features</a></li>
+      <li><a href="#tokenomics">Tokenomics & Usability</a></li>
       <li><a href="#token">Token Details</a></li>
       <li><a href="#roadmap">Roadmap</a></li>
 	    <li><a href="#partner">Partner</a></li>
@@ -188,10 +188,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p><a href="#exchanges" onclick="closeSidebar(this)">Exchanges</a></p>
         <p><a href="#videos" onclick="closeSidebar(this)">Videos</a></p>
         <p><a href="#articles" onclick="closeSidebar(this)">Articles</a></p>
-        <p><a href="#blog" onclick="closeSidebar(this)">Blog</a></p>
+        <!--<p><a href="#blog" onclick="closeSidebar(this)">Blog</a></p>-->
       </div>
       <a href="#about" onclick="closeSidebar(this)">About</a>
-      <a href="#features" onclick="closeSidebar(this)">Features</a>
+      <a href="#tokenomics" onclick="closeSidebar(this)">Tokenomics % Usability</a>
       <a href="#token" onclick="closeSidebar(this)">Token Details</a>
       <a href="#roadmap" onclick="closeSidebar(this)">Roadmap</a>
 	    <a href="#partner" onclick="closeSidebar(this)">Partner</a>
@@ -420,7 +420,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
-                  <div class="blog-img"><img src="img/media-logos/media-coinbeat.png" alt=""></div>
+                  <div class="blog-img"><img src="img/media-2.jpg" alt=""></div>
                   <br><br>
                   <h4>W-Foundation Announces W Green Pay Token Supply Reduction</h4>
                   <br>
@@ -429,7 +429,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
-                  <div class="blog-img"><img src="img/media-logos/media-medium.png" alt=""></div>
+                  <div class="blog-img"><img src="img/media-3.jpg" alt=""></div>
                   <br><br>
                   <h4>W-Foundation’s GHG campaign mobile app HOOXI ranks 4th on Google Play & App Store</h4>
                   <br>
@@ -482,7 +482,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
-                  <div class="blog-img"><img src="img/media-logos/media-medium.png" alt=""></div>
+                  <div class="blog-img"><img src="img/media-5.jpg" alt=""></div>
                   <br><br>
                   <h4>W-Foundation Cooperates with United Nations Framework Convention on Climate Change (UNFCCC) on Sustainable Development Goals</h4>
                   <br>
@@ -536,7 +536,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
-                  <div class="blog-img"><img src="img/media-logos/media-medium.png" alt=""></div>
+                  <div class="blog-img"><img src="img/media-7.jpg" alt=""></div>
                   <br><br>
                   <h4>Gangwon Provincial Government to Host ‘Korea Carbon Forum 2018’ with W-Foundation</h4>
                   <br>
@@ -599,7 +599,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
-                  <div class="blog-img"><img src="img/media-logos/media-eng-bitcoinexchange.png" alt=""></div>
+                  <div class="blog-img"><img src="img/media-10.jpg" alt=""></div>
                   <br><br>
                   <h4>W Green Pay ICO (WGP Token): HOOXI Blockchain Social Carbon Credits?</h4> 
                   <br>
@@ -608,7 +608,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div class="col-md-4 col-sm-4 v-pad">
                 <div class="media-articles">
-                  <div class="blog-img"><img src="img/media-logos/media-medium.png" alt=""></div>
+                  <div class="blog-img"><img src="img/media-11.jpg" alt=""></div>
                   <br><br>
                   <h4>W Green Pay and KONA I: Korea’s First Crypto Debit Card</h4> 
                   <br>
@@ -658,6 +658,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   </section>
   <div class="container" style="border-top:1px solid #4dbf94;"></div>
+  <!--
   <section id="blog">
     <div class="container">
       <h3 class="bold">Blog</h3>
@@ -721,7 +722,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>  
     </div>
-  </section>
+  </section>-->
 </div>
 <section style="padding:40px 0;">
   <div class="container">
@@ -753,19 +754,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-md-6 col-sm-12 v-pad" style="padding-top:40px;">
         <h1>About</h1>
         <div class="h-line"></div>
-        <h1>W <span style="color:#87b44c;">Green Pay</span></h1>
+        <h2><span style="color:#87b44c;">W-Foundation strongly believes in using</span> ‘Blockchain for Social Good.'</h2>
         <br>
-        <h4>W Green Pay ("WGP") is an ERC20-compliant token that operates on the Ethereum blockchain. The aim of W Green Pay is to increase the public’s participation in GHG (Greenhouse Gas) reduction. W Green Pay will provide the means of incentivizing the public for their GHG reduction efforts.</h4>
-        <br>
-        <br>
-        <h2 style="text-transform:none; color:#87b44c;">Mission</h2>
-        <br>
-        <p>Following the Korean government’s pledge made at Copenhagen Accord in 2009, the country aims to reduce GHG emission by 37% by 2030.</p>
-        <br>
-        <p>To support the government’s GHG emission reduction efforts, W-Foundation will launch a mobile application called HOOXI App that monitors and rewards the effort of individuals and the public to reduce GHG emissions.</p>
+        <h4>W-Foundation adopts blockchain technology to expand HOOXI Campaign globally to promote environmental sustainability – a major component of the United Nations (UN)’ Sustainable Development Goals (SDGs) set as the 2030 Agenda. In specific, W-Foundation supports 1) promotion of voluntary climate actions including compensation of emissions through UNFCCC-recognized carbon credits, and the Climate Neutral Now initiative, and 2) the pledge made by of the Korean government at Copenhagen Accord in 2009, to reduce GHG (Greenhouse Gas) emission by 37% by 2030.</h4>
       </div>
     </div>
     <br>
+    <div class="row">
+      <div class="col-md-6 col-sm-12 v-pad about-col">
+        <img src="img/hooxi-phone.jpg" alt="">
+      </div>
+      <div class="col-md-6 col-sm-12 v-pad about-col" style="padding-top:50px;">
+        <h2><span style="color:#fff;">HOOXI</span> Application</h2>
+        <br>
+        <h4>HOOXI App is the key platform that is gamified and incentivized to motivate the general public to participate in GHG reduction missions.</h4>
+        <br>
+        <h4>W Green Pay, the blockchain token, is issued to reward the HOOXI App users’ contribution to reducing GHG emissions.</h4>
+        <br>
+        <h4>Transparency, sustainability, and accountability of HOOXI Campaign is the key focus of W-Foundation, and use of blockchain technology adds further value to achieving these goals; all transactions of W Green Pay are traceable, immutable, and reliable.</h4>
+        <br>
+        <h4>W Green Pay shall contribute to not only making of a greener earth but also to mass adoption of cryptocurrency and blockchain technology by expanding its community and user base world-wide.</h4>
+      </div>
+    </div>
+  <!--
     <h2>Solution</h2>
     <br>
     <p>The most innovative social carbon credit platform to be launched.</p>
@@ -809,330 +820,75 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <br>
     <h2>W Exchange</h2>
     <br>
-    <p>W Exchange, the major trading platform for W Green Pay, expects to launch in March 2019. W Exchange is expected to be a KETS-eligible business entity. The allocated NEPs of HOOXI App are expected to trade at KRX using W Exchange.</p>
+    <p>W Exchange, the major trading platform for W Green Pay, expects to launch in March 2019. W Exchange is expected to be a KETS-eligible business entity. The allocated NEPs of HOOXI App are expected to trade at KRX using W Exchange.</p>-->
   </div>
 </section>
-<!--
-<section class="sponsors">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-4 v-pad">
-       <h1>Hooxi Campaign <span style="color:#87b44c;">Sponsors</span></h1>
-       <br>
-       <p>YG Entertainment, Hotel Lotte DFS Co., Ltd., Lotte Homeshopping, Philip Morris Korea Ltd., Korea Management Association, Wumart Stores, Inc. (China), Hansol Chemical, Hansol Oak Valley, Borim CS, FnGuide Inc., Sungdo Engineering & Construction, Korea Business News Co., Ltd., YJM Games Co., Ltd., Cleantopia, NET TV Co., Ltd.</p>
-      </div>
-      <div class="col-md-8 v-pad" style="position:relative;">
-        <div class="leaf-r"><img src="img/leaf-1.png" alt=""></div>
-        <img src="img/sponsors.png" alt="">
-      </div>
-    </div>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <h1>Honorary <span style="color:#87b44c;">Ambassadors</span></h1>
-    <br>
-    <h4>More than 300 Korean celebrities, including K-pop stars, support HOOXI Campaign as honorary ambassadors of W-Foundation.</h4>
-    <br>
-    <p>Infinite, Lydia Ko, Ailee, Jang Hyuk, Kim Tae-Woo, IOI, Eddy Kim, Shim Hyung-Tak, Max Changmin, Choi Si-Won, Donghae, Kim Yu Jung and Alberto are several of the major ambassadors. There are many more Korean celebrities working with W-Foundation as honorary ambassadors.</p>
-    <br>
-    <br>
-    <div class="row">
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/INFINITE.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>INFINITE</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/IOI.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>IOI</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/The-One.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>The One</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Lydia-Ko.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Lydia Ko</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Jang-Wookhyuk.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Jang, Wookhyuk</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Changmin-(TVXQ).jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Changmin (TVXQ)</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Choi-Siwon-(Super-Junior).jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Choi Siwon</h3>
-            <h4>(Super Junior)</h4>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Donghae-(Super-Junior).jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Donghae</h3>
-            <h4>(Super Junior)</h4>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Jinho-(SBS-Producer-of-'Law-of-the-Jungle').jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Kim, Jinho</h3>
-            <h4>(SBS Producer of 'Law of the Jungle')</h4>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Jongguk.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Kim, Jongguk</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Alberto-Mondi.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Alberto Mondi</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Hyungjun.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Kim, Hyungjun</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Eddy-Kim.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Eddy Kim</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Baek,-Seonghyeon.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Baek, Seonghyeon</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Gangnam.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Gangnam</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Kim,-Yujung.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Kim, Yujung</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Yeo,-Jingu.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Yeo, Jingu</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Tiffany-(Girl's-Generation).jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Tiffany</h3>
-            <h4>(Girl's Generation)</h4>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Seo,-Muntak.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Seo, Muntak</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Bobby-Kim.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Bobby Kim</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/ZoPD.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>ZoPD</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Eru.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Eru</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Yoo,-Inyeong.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Yoo, Inyeong</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Lee,-Eungyeol.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Lee, Eungyeol</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/JK-Kim-Donguk.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>JK Kim Donguk</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Cheon,-Hyeonmu.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Cheon, Hyeonmu</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Ailee.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Ailee</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Kwon,-Hyeoksu.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Kwon, Hyeoksu</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/ULALA-SESSION.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>ULALA SESSION</h3>
-          </div>
-        </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 v-pad">
-          <div class="team-img adviser-img"><img src="img/Ambassadors/Jang,-Hyuk.jpg" alt=""></div>
-          <br>
-          <div class="celeb-title">
-            <h3>Jang, Hyuk</h3>
-          </div>
-        </div>
-      </div> 
-  </div>
-</section>
-<section style="background:#001a3d;" class="emission">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6 v-pad">
-        <h2>KETS <span style="color:#87b44c;">(Korea’s Emissions Trading Scheme)</span></h2>
-        <br>
-        <p>In 2009, Korea made a pledge at the Copenhagen Accord to participate in the global movement to reduce GHG. By 2030, the Korean government aims to reduce GHG emissions by 37% from its business-as-usual scenario. In 2015, Korea launched its Emission Trading Scheme (KETS), which is the second largest in scale after the European Union Emission Trading Scheme at the point of writing.</p>
-    <br>
-    <p>Korea’s Cap-and-Trade system mitigates GHG emissions through market mechanisms. It applies to approximately 600 companies that account for over 68% of Korea’s GHG output (Korea Carbon, 2018). A cap that determines the maximum emission level that companies are permitted was set by the government. When a company exceeds the cap, the company has to purchase additional carbon credit from the market at market price or has to pay a penalty to the government.</p>
-    <br>
-    <p>The penalty for non-compliance with the KETS is three times the average market price per unit of tCO2e. The maximum penalty is capped at KRW 100,000 per tCO2e (approximately US $93/tCO2e equivalent).</p>
-        <br>
-        <p>Source: <a href="https://ieta.wildapricot.org/resources/Resources/Case_Studies_Worlds_Carbon_Markets/re publicofkorea_case%20study_june_2015.pdf" target="_blank" style="color:#87b44c;">CARBON CREDIT OF KOREA</a></p>
-        <br>
-        <br>
-        <img src="img/emission.png" alt="">
-      </div>
-      <div class="col-md-6 v-pad">
-        <h2>CARBON CREDIT OF KOREA</h2>
-        <br>
-        <h4 style="font-weight:700;">Korean Carbon Credit Validation</h4>
-        <br>
-        <p>The Ministry of Environment validates Korea’s carbon credit, and the carbon credit (KOC, KAU, KCU) is exchanged at the prevailing market price. Despite the increasing demand for carbon credit in the market, the allocation of carbon credit by the Ministry of Environment is limited. The price of carbon credit per ton is high at approximately KRW 22,000 (US $20) as of April 14, 2018. This is higher than EU’s CER that is priced at approximately Euro 13.84 (approximately KRW 17,700) as of April 16, 2018.</p>
-        <br><br>
-        <img src="img/graph-nep.png" alt="">
-        <br>
-        <br>
-        <br>
-        <br>
-        <h4 style="font-weight:700;">Carbon Market Size of Korea</h4>
-        <br>
-        <p>Approximately 600 companies participate in carbon emission trading in Korea. The market size of carbon credits rapidly increased from a baseline of KRW 57.3 billion in 2015 when KETS started to KRW 194.6 billion in 2016 and KRW 438.5 billion in 2017 (validated data from January to October, 2017) (The Ministry of Strategy and Finance of Korea, 2017). The Korean government expects the carbon credit market to continue to grow in the coming years.</p>
-        
-      </div> 
-    </div>
-  </div>
-</section>-->
 <!------------ About end ------------>
 
 <!------------ Features start ------------>
-<section id="features">
+<section id="tokenomics">
   <div class="container">
-    <h1>Features</h1>
-    <div class="h-line" style="background:#001a3d;"></div>
-    <div style="text-align:center;">
-      <h2>WGP Ecosystem</h2>
-      <br>
-      <p>Individuals can easily set up user accounts on the HOOXI application. As application users, individuals can select among many simple predefined missions such as taking the public transport, reducing electricity usage or purchasing identified eco-products.</p>
-      <br>
-      <br>
-      <br>
-      <img src="img/feature.jpg" alt="">
-      <br>
-      <br>
-      <br>
-      <h4 style="font-weight:700;">Examples of how to collect WGP as a payback for credit card usage:</h4>
-      <br>
-      <div style="max-width:555px; display:inline-block;"><img src="img/card.jpg" alt=""></div>
-      <br>
-      <div class="row">
-        <div class="col-md-4 col-sm-4 v-pad">
-          <div style="max-width:36px; display:inline-block;"><img src="img/check.png" alt=""></div>
-          <br><br>
-          <h4>Buying from W Green Pay partnered businesses</h4>
-        </div>
-        <div class="col-md-4 col-sm-4 v-pad">
-          <div style="max-width:36px; display:inline-block;"><img src="img/check.png" alt=""></div>
-          <br><br>
-          <h4>Purchasing identified eco-products</h4>
-        </div>
-        <div class="col-md-4 col-sm-4 v-pad">
-          <div style="max-width:36px; display:inline-block;"><img src="img/check.png" alt=""></div>
-          <br><br>
-          <h4>Taking public transportation</h4>
-        </div>
+    <div class="row">
+      <div class="col-md-6 col-sm-12 v-pad">
+        <h1>Tokenomics and Usability of W Green Pay</h1>
+        <div class="h-line" style="background:#001a3d;"></div>
+        <p>W Green Pay users will be able to spend tokens as a payment method anywhere in the world as the platform is progressively rolled out globally with the continued expansion of supporters and contributors to the HOOXI Campaign.</p>
+        <br>
+        <p>W Green Pay is already used as the exclusive payment method on HOOXI Shopping Mall integrated in the HOOXI App.</p>
+        <br>
+        <p>Hodlers of W Green Pay will have exclusive access to W-Foundation’s HOOXI Campaign events, which are highly valued events orchestrated by W- Foundation’s existing global community of sponsors, partners, and K-POP followers.</p>
+        <br>
+        <p>Demand for W Green Pay is also expected to remain stable and consistent.</p>
+        <br>
+        <p>Issuer will continue to buy back the tokens to expand the reward pool to the HOOXI App users to further motivate the public to participate in environmental actions.</p>
+      </div>
+      <div class="col-md-6 col-sm-12 v-pad">
+        <img src="img/img-tokenomics.png" alt="">
       </div>
     </div>
+    <br>
+    <h2 style="text-transform:none;">W Green Pay Issuer will continue to buy-back W Green Pay from the Market based on revenues from:</h2>
+    <br>
+    <table>
+      <tr valign="top">
+        <td><div class="tokenomics-num">1</div></td>
+        <td>
+          <h4 class="bold">HOOXI SHOPPING MALL INTEGRATED IN HOOXI APP</h4>
+          <br><br>
+          <p>HOOXI Mall is integrated on HOOXI App for the users to spend W Green Pay to purchase goods and services. By selling goods and services, the HOOXI Mall generates revenue via collecting sales fees. Provided goods and services are as the following:</p>
+          <br>
+          <ul>
+            <li>HOOXI Mall sells various goods provided by the W-Foundation and donated goods or discounted goods provided by its partner companies and sponsors.</li>
+            <li>HOOXI Mall is also an open market platform where other retail sellers (under a screening process limited to green products) can sell their goods.</li>
+            <li>HOOXI Mall provides access to various HOOXI Campaign events organized by the W-Foundation such a K-POP concerts, charity bazaars, sports events, camping festivals, etc.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr valign="top">
+        <td><div class="tokenomics-num">2</div></td>
+        <td>
+          <h4 class="bold">PR AND MARKETING ON HOOXI APP</h4>
+          <br><br>
+          <p>HOOXI App is a social networking service where users complete missions to reduce GHG emission.</p>
+          <br>
+          <p>HOOXI App may also include missions using specific products or services that are environmentally friendly.</p>
+          <br>
+          <p>HOOXI App may generate profit by providing such ‘mission ads’ to corporations as platforms for PR/marketing of their products and services.</p>
+        </td>
+      </tr>
+      <tr valign="top">
+        <td><div class="tokenomics-num">3</div></td>
+        <td>
+          <h4 class="bold">[LONG-TERM GOAL] CARBON CREDITS</h4>
+          <br><br>
+          <p>It is the goal of the W-Foundation to work with the UNFCCC and the national governments to build methodologies for receiving carbon credits or similar national units (KOC in the case of Korea), based on the missions specifically designed to generate time series data that can over time contribute to a rigorous quantitative accounting of the public’s contribution to greenhouse gas emissions reduction through the HOOXI App.</p>
+          <br>
+          <p>When accepted methodologies are in place that validate emission reductions from programs of individual greenhouse gas reduction activities achieved on the umbrella platform, and equivalent carbon credits are received based on those reductions, HOOXI App may generate revenues based on carbon credits.</p>
+          <br>
+          <p>Regulatory environment in carbon credits and markets is fluid, which may impact the rollout of W Green Pay’s strategy to achieve this goal. Whether we maintain our current focus on incentivizing the users’ emission reduction contributions via W Green Pay tokenized rewards or find ways to incorporate carbon credits into the benefits distribution are subject to on-going regulatory developments, some of which may change the status of individuals in the established carbon markets. The goal of HOOXI campaign is clear; to incentivize users to reduce greenhouse gases with continuity and vigor. W Green Pay will adopt the optimum path to incentivize users with maximum and meaningful value, in order to motivate the public to contribute to their utmost capacity, for the environment and for our shared future and wellbeing.</p>
+        </td>
+      </tr>
+    </table>
   </div>
 </section>
 <!------------ Features end ------------>
@@ -1337,7 +1093,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">1stH 2019</h3>
+                <h3 class="timeline-title">1<sup>st</sup> H 2019</h3>
                 <br>
                 <ul class="roadmap">
                   <li><h4>Expect <span class="bold">Global Crypto-Exchange Listing</span></h4></li>
@@ -1352,7 +1108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="timeline-content">
               <div class="timeline-icon" style="height:70px;"><img src="img/tree.png" alt=""></div>
               <div class="timeline-detail">
-                <h3 class="timeline-title">2ndH 2019</h3>
+                <h3 class="timeline-title">2<sup>nd</sup> H 2019</h3>
                 <br>
                 <ul class="roadmap">
                   <li><h4>To continue <span class="bold">HOOXI Campaign & HOOXI App Global Expansion</span> in various countries as part of the national governments’ initiatives to support environmental sustainability</h4></li>

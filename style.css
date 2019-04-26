@@ -146,7 +146,7 @@ ul#menu {
 ul#menu li {
     display: inline-block;
 	transition:0.8s;
-	margin-right:20px;
+	margin-right:15px;
 	padding-top:22px;
 	font-weight:700;
 }
@@ -155,7 +155,7 @@ ul#menu li a {
 	color:#b7c0bf;
 	padding-top: 22px;
     margin-top: 4px;
-	font-size:12px;
+	font-size:11px;
 }
 
 ul#menu li a:hover {
@@ -485,6 +485,10 @@ ul.home-btn li {
 
 #about h2 {color:#87b44c; text-transform:none;}
 
+.about-col {
+	float:right !important;
+}
+
 .bg-w {
 	position:absolute;
 	top:0px;
@@ -520,9 +524,31 @@ ul.home-btn li {
 
 .emission img {max-width:555px;}
 
-#features {
+#tokenomics {
 	background:#4ba987;
 }
+
+#tokenomics td {padding:20px 0;}
+#tokenomics td:nth-child(odd) {
+	width:100px;
+}
+
+#tokenomics ul {padding-left:20px;}
+#tokenomics li {padding:15px 0; line-height: 24px;}
+
+.tokenomics-num {
+	width:68px;
+	height:68px;
+	line-height: 68px;
+	border-top-left-radius:25px;
+	border-bottom-right-radius:25px;
+	background: #001a3d;
+	text-align: center;
+	font-size:30px;
+	color:#4ba987;
+	font-weight: 700;
+}
+  
 
 .features-icon {
 	text-align:center;
@@ -593,12 +619,12 @@ ul.home-btn li {
 	border-right:1px solid #87b44c;
 }
 
-table {
+#token table {
 	font-size:14px;
 	width:100%; 
 }
 
-td {
+#token td {
 	padding:12px 25px;
 	line-height:1.4;
 }
