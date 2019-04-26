@@ -143,7 +143,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div style="position:relative;">
     <a href="#home"><div id="logo"></div></a>
     <a href="WGP-whitepaper.pdf" target="_blank" class="btn header-btn whitepaper">Whitepaper</a>
-    <a href="#participateform" class="open-popup-link btn header-btn">Participate</a>
+    <a href="#participateform" class="open-popup-link btn header-btn">Subscribe</a>
     <div class="lng-container">
       <div class="dropdown">
           <a href="">Language &nbsp;<i class="fa fa-chevron-down"></i></a>
