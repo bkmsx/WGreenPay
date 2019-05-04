@@ -393,6 +393,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h4>Hooxi App - The Law of the Jungle</h4>
               </div>
             </li>
+            <li>
+              <div class="col-md-6 col-sm-6 v-pad">
+                <a href="https://www.youtube.com/watch?v=Vhg8p_LrRSY" class="video-pop-up"><img src="img/video-thumb-9.jpg" alt=""></a>
+                <br><br>
+                <h4>W Green Pay CEO, Dr. Youree Lee, on Blockchain Insight Frontier Interview</h4>
+              </div>
+            </li>
           </ul>
         </div>
       </div>
